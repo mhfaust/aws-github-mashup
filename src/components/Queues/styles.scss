@@ -1,0 +1,19 @@
+.Queues{
+    margin:1em;
+    ul{
+        list-style: none;
+    }
+    display: flex;
+    flex-direction: row;
+    h3{
+        margin:.5em 0 0 0 ;
+    }
+    .qlink{
+        display:inline-block;
+        padding:0 3px;
+        &:not(:last-child){
+            border-right:1px solid #ccc
+        }
+    }
+    .QueueList{flex-grow:1}
+}

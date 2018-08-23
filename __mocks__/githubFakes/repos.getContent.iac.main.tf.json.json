@@ -1,0 +1,31 @@
+{
+	"data": {
+		"name": "main.tf.json",
+		"path": "main.tf.json",
+		"sha": "c7dd94478635d6b1d638126cff38856217f22f49",
+		"size": 1110,
+		"url": "https://api.github.com/repos/ShiftWise/iac/contents/main.tf.json?ref=develop",
+		"html_url": "https://github.com/ShiftWise/iac/blob/develop/main.tf.json",
+		"git_url": "https://api.github.com/repos/ShiftWise/iac/git/blobs/c7dd94478635d6b1d638126cff38856217f22f49",
+		"download_url": "https://raw.githubusercontent.com/ShiftWise/iac/develop/main.tf.json?token=AkqAFeMAnDOHM_mvByFEmcGIasysGxT2ks5bP_9UwA%3D%3D",
+		"type": "file",
+		"content": "ewogICJ2YXJpYWJsZSI6IHsKICAgICJyZWxlYXNlX3RhZ3MiOiB7CiAgICAg\nICJ0eXBlIjogIm1hcCIsCiAgICAgICJkZWZhdWx0IjogewogICAgICAgICJi\naWxsaW5nLWZyb250ZW5kIjogIjAuMC41NDEiLAogICAgICAgICJibHVlcHJp\nbnQtd2Vic2l0ZSI6ICIwLjAuNzA4IiwKICAgICAgICAiY29ubmVjdC1mcm9u\ndGVuZCI6ICIwLjAuMTE5MSIsCiAgICAgICAgInNjaGVkdWxpbmctZnJvbnRl\nbmQiOiAiMC4wLjM1NCIsCgogICAgICAgICJhdWRpdC1iYWNrZW5kIjogIjAu\nMC4xLjg1NSIsCiAgICAgICAgImJpbGxpbmctYmFja2VuZCI6ICIwLjAuMy4x\nODM5IiwKICAgICAgICAiYmx1ZXByaW50LWJhY2tlbmQiOiAiMC4wLjEuMjQ2\nNCIsCiAgICAgICAgImNoYXQtYmFja2VuZCI6ICIwLjAuMi42NTIiLAogICAg\nICAgICJkb2N1bWVudC1iYWNrZW5kIjogIjAuMC4zLjY0MyIsCiAgICAgICAg\nImdwcy1iYWNrZW5kIjogIjAuMC4yLjczOCIsCiAgICAgICAgImpvYi1iYWNr\nZW5kIjogIjAuMC4xLjI4NzIiLAogICAgICAgICJsb2dpbi1iYWNrZW5kIjog\nIjEuMC43LjI0MDgiLAogICAgICAgICJub3RpZmljYXRpb25zLWJhY2tlbmQi\nOiAiMC4wLjMuMTI3NyIsCiAgICAgICAgInJvbGVzLWJhY2tlbmQiOiAiMS4w\nLjYuOTQxIiwKICAgICAgICAic2NoZWR1bGluZy1iYWNrZW5kIjogIjAuMC4x\nLjcyMyIsCiAgICAgICAgInN0YWZmLWJhY2tlbmQiOiAiMC4wLjQuODc4IiwK\nICAgICAgICAidGltZWNhcmQtYmFja2VuZCI6ICIwLjAuMi45MjAiLAoKICAg\nICAgICAiYmFzdGlvbi1iYXNlIjogIjAuMC4xLjQyOCIsCgogICAgICAgICJy\ndGlicmlkZ2UiOiAiMS4yLjQ2MyIsCiAgICAgICAgInJ0aWRhdGEiOiAiMC4x\nLjAuMTAyIiwKICAgICAgICAicnRpZmluYW5jZSI6ICIwLjEuMC4yOTIiLAog\nICAgICAgICJydGltYXRjaGluZyI6ICIwLjEuMC41NzkiLAogICAgICAgICJy\ndGlzdGFmZmhpc3RvcnkiOiAiMC4xLjEuMzE3IiwKICAgICAgICAicnRpc3Rh\nZmZoaXN0b3J5ZGF0YSI6ICIwLjEuMC4xMzciLAogICAgICAgICJydGlzeXN0\nZW0iOiAiMC4xLjAuMTIwOCIsCiAgICAgICAgInJ0aXRyaWJ1dGFyeSI6ICIw\nLjAuNy4xNzUiCiAgICAgIH0KICAgIH0KICB9Cn0K\n",
+		"encoding": "base64",
+		"_links": {
+			"self": "https://api.github.com/repos/ShiftWise/iac/contents/main.tf.json?ref=develop",
+			"git": "https://api.github.com/repos/ShiftWise/iac/git/blobs/c7dd94478635d6b1d638126cff38856217f22f49",
+			"html": "https://github.com/ShiftWise/iac/blob/develop/main.tf.json"
+		}
+	},
+	"meta": {
+		"x-ratelimit-limit": "5000",
+		"x-ratelimit-remaining": "4996",
+		"x-ratelimit-reset": "1530922509",
+		"x-oauth-scopes": "repo",
+		"x-github-request-id": "3057:7DB7:6AB3755:C7B94A0:5B3FFF18",
+		"x-github-media-type": "github.v3; format=json",
+		"last-modified": "Fri, 06 Jul 2018 23:03:18 GMT",
+		"etag": "\"c7dd94478635d6b1d638126cff38856217f22f49\"",
+		"status": "200 OK"
+	}
+}

@@ -1,0 +1,588 @@
+{
+	"Vpcs": [{
+		"CidrBlock": "10.0.0.0/16",
+		"DhcpOptionsId": "dopt-74a8d010",
+		"State": "available",
+		"VpcId": "vpc-6d1e960b",
+		"InstanceTenancy": "default",
+		"Ipv6CidrBlockAssociationSet": [],
+		"CidrBlockAssociationSet": [{
+			"AssociationId": "vpc-cidr-assoc-3c094654",
+			"CidrBlock": "10.0.0.0/16",
+			"CidrBlockState": {
+				"State": "associated"
+			}
+		}],
+		"IsDefault": false,
+		"Tags": [{
+			"Key": "Environment",
+			"Value": "leia"
+		},
+		{
+			"Key": "Name",
+			"Value": "leia"
+		}]
+	},
+	{
+		"CidrBlock": "10.0.0.0/16",
+		"DhcpOptionsId": "dopt-74a8d010",
+		"State": "available",
+		"VpcId": "vpc-36bd104f",
+		"InstanceTenancy": "default",
+		"Ipv6CidrBlockAssociationSet": [],
+		"CidrBlockAssociationSet": [{
+			"AssociationId": "vpc-cidr-assoc-136e0778",
+			"CidrBlock": "10.0.0.0/16",
+			"CidrBlockState": {
+				"State": "associated"
+			}
+		}],
+		"IsDefault": false,
+		"Tags": [{
+			"Key": "Environment",
+			"Value": "ci"
+		},
+		{
+			"Key": "Name",
+			"Value": "ci"
+		}]
+	},
+	{
+		"CidrBlock": "10.0.0.0/16",
+		"DhcpOptionsId": "dopt-74a8d010",
+		"State": "available",
+		"VpcId": "vpc-5afd8a3c",
+		"InstanceTenancy": "default",
+		"Ipv6CidrBlockAssociationSet": [],
+		"CidrBlockAssociationSet": [{
+			"AssociationId": "vpc-cidr-assoc-c31d28ab",
+			"CidrBlock": "10.0.0.0/16",
+			"CidrBlockState": {
+				"State": "associated"
+			}
+		}],
+		"IsDefault": false,
+		"Tags": [{
+			"Key": "Environment",
+			"Value": "ar02"
+		},
+		{
+			"Key": "Name",
+			"Value": "ar02"
+		}]
+	},
+	{
+		"CidrBlock": "10.0.0.0/16",
+		"DhcpOptionsId": "dopt-74a8d010",
+		"State": "available",
+		"VpcId": "vpc-4cf36c2a",
+		"InstanceTenancy": "default",
+		"Ipv6CidrBlockAssociationSet": [],
+		"CidrBlockAssociationSet": [{
+			"AssociationId": "vpc-cidr-assoc-a0f4a7c8",
+			"CidrBlock": "10.0.0.0/16",
+			"CidrBlockState": {
+				"State": "associated"
+			}
+		}],
+		"IsDefault": false,
+		"Tags": [{
+			"Key": "Name",
+			"Value": "velma"
+		},
+		{
+			"Key": "Environment",
+			"Value": "velma"
+		}]
+	},
+	{
+		"CidrBlock": "10.0.0.0/16",
+		"DhcpOptionsId": "dopt-74a8d010",
+		"State": "available",
+		"VpcId": "vpc-a50556c3",
+		"InstanceTenancy": "default",
+		"Ipv6CidrBlockAssociationSet": [],
+		"CidrBlockAssociationSet": [{
+			"AssociationId": "vpc-cidr-assoc-b48697dc",
+			"CidrBlock": "10.0.0.0/16",
+			"CidrBlockState": {
+				"State": "associated"
+			}
+		}],
+		"IsDefault": false,
+		"Tags": [{
+			"Key": "Name",
+			"Value": "vms-now-maintenance-page"
+		}]
+	},
+	{
+		"CidrBlock": "10.0.0.0/16",
+		"DhcpOptionsId": "dopt-74a8d010",
+		"State": "available",
+		"VpcId": "vpc-f851069e",
+		"InstanceTenancy": "default",
+		"Ipv6CidrBlockAssociationSet": [],
+		"CidrBlockAssociationSet": [{
+			"AssociationId": "vpc-cidr-assoc-37a2b75f",
+			"CidrBlock": "10.0.0.0/16",
+			"CidrBlockState": {
+				"State": "associated"
+			}
+		}],
+		"IsDefault": false,
+		"Tags": [{
+			"Key": "Name",
+			"Value": "megaman"
+		},
+		{
+			"Key": "Environment",
+			"Value": "megaman"
+		}]
+	},
+	{
+		"CidrBlock": "10.0.0.0/16",
+		"DhcpOptionsId": "dopt-74a8d010",
+		"State": "available",
+		"VpcId": "vpc-4d83f82b",
+		"InstanceTenancy": "default",
+		"Ipv6CidrBlockAssociationSet": [],
+		"CidrBlockAssociationSet": [{
+			"AssociationId": "vpc-cidr-assoc-92c8f1fa",
+			"CidrBlock": "10.0.0.0/16",
+			"CidrBlockState": {
+				"State": "associated"
+			}
+		}],
+		"IsDefault": false,
+		"Tags": [{
+			"Key": "Name",
+			"Value": "consul"
+		}]
+	},
+	{
+		"CidrBlock": "10.0.0.0/16",
+		"DhcpOptionsId": "dopt-74a8d010",
+		"State": "available",
+		"VpcId": "vpc-4deea634",
+		"InstanceTenancy": "default",
+		"Ipv6CidrBlockAssociationSet": [],
+		"CidrBlockAssociationSet": [{
+			"AssociationId": "vpc-cidr-assoc-bde5f7d6",
+			"CidrBlock": "10.0.0.0/16",
+			"CidrBlockState": {
+				"State": "associated"
+			}
+		}],
+		"IsDefault": false,
+		"Tags": [{
+			"Key": "Name",
+			"Value": "dumbledore"
+		},
+		{
+			"Key": "Environment",
+			"Value": "dumbledore"
+		}]
+	},
+	{
+		"CidrBlock": "10.0.0.0/16",
+		"DhcpOptionsId": "dopt-74a8d010",
+		"State": "available",
+		"VpcId": "vpc-234b625a",
+		"InstanceTenancy": "default",
+		"Ipv6CidrBlockAssociationSet": [],
+		"CidrBlockAssociationSet": [{
+			"AssociationId": "vpc-cidr-assoc-170af77d",
+			"CidrBlock": "10.0.0.0/16",
+			"CidrBlockState": {
+				"State": "associated"
+			}
+		}],
+		"IsDefault": false,
+		"Tags": [{
+			"Key": "Environment",
+			"Value": "ash"
+		},
+		{
+			"Key": "Name",
+			"Value": "ash"
+		}]
+	},
+	{
+		"CidrBlock": "10.0.0.0/16",
+		"DhcpOptionsId": "dopt-74a8d010",
+		"State": "available",
+		"VpcId": "vpc-fe193887",
+		"InstanceTenancy": "default",
+		"Ipv6CidrBlockAssociationSet": [],
+		"CidrBlockAssociationSet": [{
+			"AssociationId": "vpc-cidr-assoc-b3f603d9",
+			"CidrBlock": "10.0.0.0/16",
+			"CidrBlockState": {
+				"State": "associated"
+			}
+		}],
+		"IsDefault": false,
+		"Tags": [{
+			"Key": "Name",
+			"Value": "uhura"
+		},
+		{
+			"Key": "Environment",
+			"Value": "uhura"
+		}]
+	},
+	{
+		"CidrBlock": "10.0.0.0/16",
+		"DhcpOptionsId": "dopt-74a8d010",
+		"State": "available",
+		"VpcId": "vpc-da20a9bc",
+		"InstanceTenancy": "default",
+		"Ipv6CidrBlockAssociationSet": [],
+		"CidrBlockAssociationSet": [{
+			"AssociationId": "vpc-cidr-assoc-ad024ec5",
+			"CidrBlock": "10.0.0.0/16",
+			"CidrBlockState": {
+				"State": "associated"
+			}
+		}],
+		"IsDefault": false,
+		"Tags": [{
+			"Key": "Environment",
+			"Value": "picard"
+		},
+		{
+			"Key": "Name",
+			"Value": "picard"
+		}]
+	},
+	{
+		"CidrBlock": "10.0.0.0/16",
+		"DhcpOptionsId": "dopt-74a8d010",
+		"State": "available",
+		"VpcId": "vpc-df6c09b9",
+		"InstanceTenancy": "default",
+		"Ipv6CidrBlockAssociationSet": [],
+		"CidrBlockAssociationSet": [{
+			"AssociationId": "vpc-cidr-assoc-ca2e76a2",
+			"CidrBlock": "10.0.0.0/16",
+			"CidrBlockState": {
+				"State": "associated"
+			}
+		}],
+		"IsDefault": false,
+		"Tags": [{
+			"Key": "Name",
+			"Value": "rc"
+		},
+		{
+			"Key": "Environment",
+			"Value": "rc"
+		}]
+	},
+	{
+		"CidrBlock": "10.0.0.0/16",
+		"DhcpOptionsId": "dopt-74a8d010",
+		"State": "available",
+		"VpcId": "vpc-5af6dc23",
+		"InstanceTenancy": "default",
+		"Ipv6CidrBlockAssociationSet": [],
+		"CidrBlockAssociationSet": [{
+			"AssociationId": "vpc-cidr-assoc-493fc623",
+			"CidrBlock": "10.0.0.0/16",
+			"CidrBlockState": {
+				"State": "associated"
+			}
+		}],
+		"IsDefault": false,
+		"Tags": [{
+			"Key": "Name",
+			"Value": "kickdrum"
+		},
+		{
+			"Key": "Environment",
+			"Value": "kickdrum"
+		}]
+	},
+	{
+		"CidrBlock": "10.0.0.0/16",
+		"DhcpOptionsId": "dopt-74a8d010",
+		"State": "available",
+		"VpcId": "vpc-d80f6fbe",
+		"InstanceTenancy": "default",
+		"Ipv6CidrBlockAssociationSet": [],
+		"CidrBlockAssociationSet": [{
+			"AssociationId": "vpc-cidr-assoc-a33116cb",
+			"CidrBlock": "10.0.0.0/16",
+			"CidrBlockState": {
+				"State": "associated"
+			}
+		}],
+		"IsDefault": false,
+		"Tags": [{
+			"Key": "Name",
+			"Value": "batman"
+		},
+		{
+			"Key": "Environment",
+			"Value": "batman"
+		}]
+	},
+	{
+		"CidrBlock": "10.0.0.0/16",
+		"DhcpOptionsId": "dopt-74a8d010",
+		"State": "available",
+		"VpcId": "vpc-8c1979ea",
+		"InstanceTenancy": "default",
+		"Ipv6CidrBlockAssociationSet": [],
+		"CidrBlockAssociationSet": [{
+			"AssociationId": "vpc-cidr-assoc-9f3b1cf7",
+			"CidrBlock": "10.0.0.0/16",
+			"CidrBlockState": {
+				"State": "associated"
+			}
+		}],
+		"IsDefault": false,
+		"Tags": [{
+			"Key": "Environment",
+			"Value": "ar01"
+		},
+		{
+			"Key": "Name",
+			"Value": "ar01"
+		}]
+	},
+	{
+		"CidrBlock": "10.0.0.0/16",
+		"DhcpOptionsId": "dopt-74a8d010",
+		"State": "available",
+		"VpcId": "vpc-c42f01bd",
+		"InstanceTenancy": "default",
+		"Ipv6CidrBlockAssociationSet": [],
+		"CidrBlockAssociationSet": [{
+			"AssociationId": "vpc-cidr-assoc-410efc2b",
+			"CidrBlock": "10.0.0.0/16",
+			"CidrBlockState": {
+				"State": "associated"
+			}
+		}],
+		"IsDefault": false,
+		"Tags": [{
+			"Key": "Name",
+			"Value": "grid"
+		}]
+	},
+	{
+		"CidrBlock": "10.0.0.0/16",
+		"DhcpOptionsId": "dopt-74a8d010",
+		"State": "available",
+		"VpcId": "vpc-66d5d81f",
+		"InstanceTenancy": "default",
+		"Ipv6CidrBlockAssociationSet": [],
+		"CidrBlockAssociationSet": [{
+			"AssociationId": "vpc-cidr-assoc-28449642",
+			"CidrBlock": "10.0.0.0/16",
+			"CidrBlockState": {
+				"State": "associated"
+			}
+		}],
+		"IsDefault": false,
+		"Tags": [{
+			"Key": "Environment",
+			"Value": "groot"
+		},
+		{
+			"Key": "Name",
+			"Value": "groot"
+		}]
+	},
+	{
+		"CidrBlock": "10.0.0.0/24",
+		"DhcpOptionsId": "dopt-74a8d010",
+		"State": "available",
+		"VpcId": "vpc-dbc0a3bd",
+		"InstanceTenancy": "default",
+		"Ipv6CidrBlockAssociationSet": [{
+			"AssociationId": "vpc-cidr-assoc-3f785957",
+			"Ipv6CidrBlock": "2600:1f14:e8f:1900::/56",
+			"Ipv6CidrBlockState": {
+				"State": "associated"
+			}
+		}],
+		"CidrBlockAssociationSet": [{
+			"AssociationId": "vpc-cidr-assoc-3e785956",
+			"CidrBlock": "10.0.0.0/24",
+			"CidrBlockState": {
+				"State": "associated"
+			}
+		}],
+		"IsDefault": false,
+		"Tags": [{
+			"Key": "Name",
+			"Value": "monkey-vpc"
+		}]
+	},
+	{
+		"CidrBlock": "10.0.0.0/16",
+		"DhcpOptionsId": "dopt-74a8d010",
+		"State": "available",
+		"VpcId": "vpc-6d1e5b0b",
+		"InstanceTenancy": "default",
+		"Ipv6CidrBlockAssociationSet": [],
+		"CidrBlockAssociationSet": [{
+			"AssociationId": "vpc-cidr-assoc-a75f64cf",
+			"CidrBlock": "10.0.0.0/16",
+			"CidrBlockState": {
+				"State": "associated"
+			}
+		}],
+		"IsDefault": false,
+		"Tags": [{
+			"Key": "Environment",
+			"Value": "ar03"
+		},
+		{
+			"Key": "Name",
+			"Value": "ar03"
+		}]
+	},
+	{
+		"CidrBlock": "10.0.0.0/16",
+		"DhcpOptionsId": "dopt-74a8d010",
+		"State": "available",
+		"VpcId": "vpc-b02c2ec9",
+		"InstanceTenancy": "default",
+		"Ipv6CidrBlockAssociationSet": [],
+		"CidrBlockAssociationSet": [{
+			"AssociationId": "vpc-cidr-assoc-aa00d3c0",
+			"CidrBlock": "10.0.0.0/16",
+			"CidrBlockState": {
+				"State": "associated"
+			}
+		}],
+		"IsDefault": false,
+		"Tags": [{
+			"Key": "Name",
+			"Value": "jack"
+		},
+		{
+			"Key": "Environment",
+			"Value": "jack"
+		}]
+	},
+	{
+		"CidrBlock": "10.0.0.0/16",
+		"DhcpOptionsId": "dopt-74a8d010",
+		"State": "available",
+		"VpcId": "vpc-fe0f9898",
+		"InstanceTenancy": "default",
+		"Ipv6CidrBlockAssociationSet": [],
+		"CidrBlockAssociationSet": [{
+			"AssociationId": "vpc-cidr-assoc-983379f0",
+			"CidrBlock": "10.0.0.0/16",
+			"CidrBlockState": {
+				"State": "associated"
+			}
+		}],
+		"IsDefault": false,
+		"Tags": [{
+			"Key": "Name",
+			"Value": "daenerys"
+		},
+		{
+			"Key": "Environment",
+			"Value": "daenerys"
+		}]
+	},
+	{
+		"CidrBlock": "10.0.0.0/16",
+		"DhcpOptionsId": "dopt-74a8d010",
+		"State": "available",
+		"VpcId": "vpc-c8f1d4b1",
+		"InstanceTenancy": "default",
+		"Ipv6CidrBlockAssociationSet": [],
+		"CidrBlockAssociationSet": [{
+			"AssociationId": "vpc-cidr-assoc-aaa24bc0",
+			"CidrBlock": "10.0.0.0/16",
+			"CidrBlockState": {
+				"State": "associated"
+			}
+		}],
+		"IsDefault": false,
+		"Tags": [{
+			"Key": "Name",
+			"Value": "ackbar"
+		},
+		{
+			"Key": "Environment",
+			"Value": "ackbar"
+		}]
+	},
+	{
+		"CidrBlock": "10.0.0.0/16",
+		"DhcpOptionsId": "dopt-74a8d010",
+		"State": "available",
+		"VpcId": "vpc-e8c5478e",
+		"InstanceTenancy": "default",
+		"Ipv6CidrBlockAssociationSet": [],
+		"CidrBlockAssociationSet": [{
+			"AssociationId": "vpc-cidr-assoc-1705437f",
+			"CidrBlock": "10.0.0.0/16",
+			"CidrBlockState": {
+				"State": "associated"
+			}
+		}],
+		"IsDefault": false,
+		"Tags": [{
+			"Key": "Name",
+			"Value": "rey"
+		},
+		{
+			"Key": "Environment",
+			"Value": "rey"
+		}]
+	},
+	{
+		"CidrBlock": "172.31.0.0/16",
+		"DhcpOptionsId": "dopt-74a8d010",
+		"State": "available",
+		"VpcId": "vpc-e3ee1284",
+		"InstanceTenancy": "default",
+		"Ipv6CidrBlockAssociationSet": [],
+		"CidrBlockAssociationSet": [{
+			"AssociationId": "vpc-cidr-assoc-b9e2aed0",
+			"CidrBlock": "172.31.0.0/16",
+			"CidrBlockState": {
+				"State": "associated"
+			}
+		}],
+		"IsDefault": true,
+		"Tags": [{
+			"Key": "Name",
+			"Value": "default"
+		}]
+	},
+	{
+		"CidrBlock": "10.0.0.0/16",
+		"DhcpOptionsId": "dopt-74a8d010",
+		"State": "available",
+		"VpcId": "vpc-fc591e85",
+		"InstanceTenancy": "default",
+		"Ipv6CidrBlockAssociationSet": [],
+		"CidrBlockAssociationSet": [{
+			"AssociationId": "vpc-cidr-assoc-d7353bbc",
+			"CidrBlock": "10.0.0.0/16",
+			"CidrBlockState": {
+				"State": "associated"
+			}
+		}],
+		"IsDefault": false,
+		"Tags": [{
+			"Key": "Environment",
+			"Value": "voltron"
+		},
+		{
+			"Key": "Name",
+			"Value": "voltron"
+		}]
+	}]
+}

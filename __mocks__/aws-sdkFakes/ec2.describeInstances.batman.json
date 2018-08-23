@@ -1,0 +1,2746 @@
+{
+	"Reservations": [{
+		"Groups": [],
+		"Instances": [{
+			"AmiLaunchIndex": 0,
+			"ImageId": "ami-7be49f03",
+			"InstanceId": "i-0aee4b50539cb00ca",
+			"InstanceType": "t2.small",
+			"KeyName": "amp-terraform-dev-key",
+			"LaunchTime": "2018-06-05T18:49:34.000Z",
+			"Monitoring": {
+				"State": "enabled"
+			},
+			"Placement": {
+				"AvailabilityZone": "us-west-2a",
+				"GroupName": "",
+				"Tenancy": "default"
+			},
+			"PrivateDnsName": "ip-10-0-18-226.us-west-2.compute.internal",
+			"PrivateIpAddress": "10.0.18.226",
+			"ProductCodes": [],
+			"PublicDnsName": "",
+			"State": {
+				"Code": 16,
+				"Name": "running"
+			},
+			"StateTransitionReason": "",
+			"SubnetId": "subnet-b94effdf",
+			"VpcId": "vpc-d80f6fbe",
+			"Architecture": "x86_64",
+			"BlockDeviceMappings": [{
+				"DeviceName": "/dev/sda1",
+				"Ebs": {
+					"AttachTime": "2018-06-05T18:49:35.000Z",
+					"DeleteOnTermination": true,
+					"Status": "attached",
+					"VolumeId": "vol-00bceb314ad401cbc"
+				}
+			}],
+			"ClientToken": "7f858f45-2198-9786-0cdf-57264f1f5d8f_subnet-b94effdf_1",
+			"EbsOptimized": false,
+			"EnaSupport": true,
+			"Hypervisor": "xen",
+			"IamInstanceProfile": {
+				"Arn": "arn:aws:iam::647461886534:instance-profile/batman_connect",
+				"Id": "AIPAILUHWWLRIPLA6XCJA"
+			},
+			"ElasticGpuAssociations": [],
+			"NetworkInterfaces": [{
+				"Attachment": {
+					"AttachTime": "2018-06-05T18:49:34.000Z",
+					"AttachmentId": "eni-attach-87262df9",
+					"DeleteOnTermination": true,
+					"DeviceIndex": 0,
+					"Status": "attached"
+				},
+				"Description": "",
+				"Groups": [{
+					"GroupName": "batman_sg_ssh",
+					"GroupId": "sg-687b8b15"
+				},
+				{
+					"GroupName": "batman_sg_billing",
+					"GroupId": "sg-a47585d9"
+				}],
+				"Ipv6Addresses": [],
+				"MacAddress": "02:48:9a:50:99:ae",
+				"NetworkInterfaceId": "eni-e55938dd",
+				"OwnerId": "647461886534",
+				"PrivateDnsName": "ip-10-0-18-226.us-west-2.compute.internal",
+				"PrivateIpAddress": "10.0.18.226",
+				"PrivateIpAddresses": [{
+					"Primary": true,
+					"PrivateDnsName": "ip-10-0-18-226.us-west-2.compute.internal",
+					"PrivateIpAddress": "10.0.18.226"
+				}],
+				"SourceDestCheck": true,
+				"Status": "in-use",
+				"SubnetId": "subnet-b94effdf",
+				"VpcId": "vpc-d80f6fbe"
+			}],
+			"RootDeviceName": "/dev/sda1",
+			"RootDeviceType": "ebs",
+			"SecurityGroups": [{
+				"GroupName": "batman_sg_ssh",
+				"GroupId": "sg-687b8b15"
+			},
+			{
+				"GroupName": "batman_sg_billing",
+				"GroupId": "sg-a47585d9"
+			}],
+			"SourceDestCheck": true,
+			"Tags": [{
+				"Key": "Name",
+				"Value": "batman - Billing"
+			},
+			{
+				"Key": "aws:autoscaling:groupName",
+				"Value": "batman-billing2018053120591756250000000120180531205919626900000005"
+			},
+			{
+				"Key": "Environment",
+				"Value": "batman"
+			},
+			{
+				"Key": "Provisioner",
+				"Value": "Terraform"
+			},
+			{
+				"Key": "Release",
+				"Value": "0.0.3.1577"
+			},
+			{
+				"Key": "Microservice",
+				"Value": "Billing"
+			}],
+			"VirtualizationType": "hvm"
+		}],
+		"OwnerId": "647461886534",
+		"RequesterId": "903220451833",
+		"ReservationId": "r-045a495f980660ea5"
+	},
+	{
+		"Groups": [],
+		"Instances": [{
+			"AmiLaunchIndex": 0,
+			"ImageId": "ami-21eb9959",
+			"InstanceId": "i-02384de034e300873",
+			"InstanceType": "t2.small",
+			"KeyName": "amp-terraform-dev-key",
+			"LaunchTime": "2018-06-05T18:49:30.000Z",
+			"Monitoring": {
+				"State": "enabled"
+			},
+			"Placement": {
+				"AvailabilityZone": "us-west-2b",
+				"GroupName": "",
+				"Tenancy": "default"
+			},
+			"PrivateDnsName": "ip-10-0-19-214.us-west-2.compute.internal",
+			"PrivateIpAddress": "10.0.19.214",
+			"ProductCodes": [],
+			"PublicDnsName": "",
+			"State": {
+				"Code": 16,
+				"Name": "running"
+			},
+			"StateTransitionReason": "",
+			"SubnetId": "subnet-42e5330a",
+			"VpcId": "vpc-d80f6fbe",
+			"Architecture": "x86_64",
+			"BlockDeviceMappings": [{
+				"DeviceName": "/dev/sda1",
+				"Ebs": {
+					"AttachTime": "2018-06-05T18:49:30.000Z",
+					"DeleteOnTermination": true,
+					"Status": "attached",
+					"VolumeId": "vol-075135a14bd0f8410"
+				}
+			}],
+			"ClientToken": "4e958f45-215a-c380-e3ca-cac4d0c099ee_subnet-42e5330a_1",
+			"EbsOptimized": false,
+			"EnaSupport": true,
+			"Hypervisor": "xen",
+			"IamInstanceProfile": {
+				"Arn": "arn:aws:iam::647461886534:instance-profile/batman_connect",
+				"Id": "AIPAILUHWWLRIPLA6XCJA"
+			},
+			"ElasticGpuAssociations": [],
+			"NetworkInterfaces": [{
+				"Attachment": {
+					"AttachTime": "2018-06-05T18:49:30.000Z",
+					"AttachmentId": "eni-attach-9e06596a",
+					"DeleteOnTermination": true,
+					"DeviceIndex": 0,
+					"Status": "attached"
+				},
+				"Description": "",
+				"Groups": [{
+					"GroupName": "batman_sg_ssh",
+					"GroupId": "sg-687b8b15"
+				},
+				{
+					"GroupName": "batman_sg_scheduling",
+					"GroupId": "sg-877989fa"
+				}],
+				"Ipv6Addresses": [],
+				"MacAddress": "06:30:91:d8:e0:1e",
+				"NetworkInterfaceId": "eni-e87d49e0",
+				"OwnerId": "647461886534",
+				"PrivateDnsName": "ip-10-0-19-214.us-west-2.compute.internal",
+				"PrivateIpAddress": "10.0.19.214",
+				"PrivateIpAddresses": [{
+					"Primary": true,
+					"PrivateDnsName": "ip-10-0-19-214.us-west-2.compute.internal",
+					"PrivateIpAddress": "10.0.19.214"
+				}],
+				"SourceDestCheck": true,
+				"Status": "in-use",
+				"SubnetId": "subnet-42e5330a",
+				"VpcId": "vpc-d80f6fbe"
+			}],
+			"RootDeviceName": "/dev/sda1",
+			"RootDeviceType": "ebs",
+			"SecurityGroups": [{
+				"GroupName": "batman_sg_ssh",
+				"GroupId": "sg-687b8b15"
+			},
+			{
+				"GroupName": "batman_sg_scheduling",
+				"GroupId": "sg-877989fa"
+			}],
+			"SourceDestCheck": true,
+			"Tags": [{
+				"Key": "Release",
+				"Value": "0.0.1.696"
+			},
+			{
+				"Key": "Environment",
+				"Value": "batman"
+			},
+			{
+				"Key": "Provisioner",
+				"Value": "Terraform"
+			},
+			{
+				"Key": "aws:autoscaling:groupName",
+				"Value": "batman-scheduling2018052417110656600000000a20180524171120049300000018"
+			},
+			{
+				"Key": "Microservice",
+				"Value": "Scheduling"
+			},
+			{
+				"Key": "Name",
+				"Value": "batman - Scheduling"
+			}],
+			"VirtualizationType": "hvm"
+		}],
+		"OwnerId": "647461886534",
+		"RequesterId": "903220451833",
+		"ReservationId": "r-055060046037b503c"
+	},
+	{
+		"Groups": [],
+		"Instances": [{
+			"AmiLaunchIndex": 0,
+			"ImageId": "ami-764a360e",
+			"InstanceId": "i-0c31a712bcfa3f499",
+			"InstanceType": "t2.small",
+			"KeyName": "amp-terraform-dev-key",
+			"LaunchTime": "2018-06-05T18:49:34.000Z",
+			"Monitoring": {
+				"State": "enabled"
+			},
+			"Placement": {
+				"AvailabilityZone": "us-west-2a",
+				"GroupName": "",
+				"Tenancy": "default"
+			},
+			"PrivateDnsName": "ip-10-0-18-100.us-west-2.compute.internal",
+			"PrivateIpAddress": "10.0.18.100",
+			"ProductCodes": [],
+			"PublicDnsName": "",
+			"State": {
+				"Code": 16,
+				"Name": "running"
+			},
+			"StateTransitionReason": "",
+			"SubnetId": "subnet-b94effdf",
+			"VpcId": "vpc-d80f6fbe",
+			"Architecture": "x86_64",
+			"BlockDeviceMappings": [{
+				"DeviceName": "/dev/sda1",
+				"Ebs": {
+					"AttachTime": "2018-06-05T18:49:35.000Z",
+					"DeleteOnTermination": true,
+					"Status": "attached",
+					"VolumeId": "vol-08903797efb40054e"
+				}
+			}],
+			"ClientToken": "39758f45-219f-9de2-814d-c05132099ca0_subnet-b94effdf_1",
+			"EbsOptimized": false,
+			"EnaSupport": true,
+			"Hypervisor": "xen",
+			"IamInstanceProfile": {
+				"Arn": "arn:aws:iam::647461886534:instance-profile/batman_RTI",
+				"Id": "AIPAJROAY3Z2RVNEKBFR6"
+			},
+			"ElasticGpuAssociations": [],
+			"NetworkInterfaces": [{
+				"Attachment": {
+					"AttachTime": "2018-06-05T18:49:34.000Z",
+					"AttachmentId": "eni-attach-2f212a51",
+					"DeleteOnTermination": true,
+					"DeviceIndex": 0,
+					"Status": "attached"
+				},
+				"Description": "",
+				"Groups": [{
+					"GroupName": "batman_sg_shared_rds_access",
+					"GroupId": "sg-ab7585d6"
+				},
+				{
+					"GroupName": "batmanrtisec",
+					"GroupId": "sg-3d798940"
+				}],
+				"Ipv6Addresses": [],
+				"MacAddress": "02:6f:21:4e:74:de",
+				"NetworkInterfaceId": "eni-b259388a",
+				"OwnerId": "647461886534",
+				"PrivateDnsName": "ip-10-0-18-100.us-west-2.compute.internal",
+				"PrivateIpAddress": "10.0.18.100",
+				"PrivateIpAddresses": [{
+					"Primary": true,
+					"PrivateDnsName": "ip-10-0-18-100.us-west-2.compute.internal",
+					"PrivateIpAddress": "10.0.18.100"
+				}],
+				"SourceDestCheck": true,
+				"Status": "in-use",
+				"SubnetId": "subnet-b94effdf",
+				"VpcId": "vpc-d80f6fbe"
+			}],
+			"RootDeviceName": "/dev/sda1",
+			"RootDeviceType": "ebs",
+			"SecurityGroups": [{
+				"GroupName": "batman_sg_shared_rds_access",
+				"GroupId": "sg-ab7585d6"
+			},
+			{
+				"GroupName": "batmanrtisec",
+				"GroupId": "sg-3d798940"
+			}],
+			"SourceDestCheck": true,
+			"Tags": [{
+				"Key": "Provisioner",
+				"Value": "Terraform"
+			},
+			{
+				"Key": "Microservice",
+				"Value": "RTI System"
+			},
+			{
+				"Key": "Name",
+				"Value": "batman - RTI System"
+			},
+			{
+				"Key": "Release",
+				"Value": "0.1.0.1200"
+			},
+			{
+				"Key": "aws:autoscaling:groupName",
+				"Value": "batmanrtisystem-asg-batmanrtisystem-lc-2018052417111543080000000e"
+			},
+			{
+				"Key": "Environment",
+				"Value": "batman"
+			}],
+			"VirtualizationType": "hvm"
+		}],
+		"OwnerId": "647461886534",
+		"RequesterId": "903220451833",
+		"ReservationId": "r-06788a2765ed7b476"
+	},
+	{
+		"Groups": [],
+		"Instances": [{
+			"AmiLaunchIndex": 0,
+			"ImageId": "ami-d67903ae",
+			"InstanceId": "i-07cad1553bb04e184",
+			"InstanceType": "t2.small",
+			"KeyName": "amp-terraform-dev-key",
+			"LaunchTime": "2018-06-05T18:49:33.000Z",
+			"Monitoring": {
+				"State": "enabled"
+			},
+			"Placement": {
+				"AvailabilityZone": "us-west-2c",
+				"GroupName": "",
+				"Tenancy": "default"
+			},
+			"PrivateDnsName": "ip-10-0-20-186.us-west-2.compute.internal",
+			"PrivateIpAddress": "10.0.20.186",
+			"ProductCodes": [],
+			"PublicDnsName": "",
+			"State": {
+				"Code": 16,
+				"Name": "running"
+			},
+			"StateTransitionReason": "",
+			"SubnetId": "subnet-9d6b2ec6",
+			"VpcId": "vpc-d80f6fbe",
+			"Architecture": "x86_64",
+			"BlockDeviceMappings": [{
+				"DeviceName": "/dev/sda1",
+				"Ebs": {
+					"AttachTime": "2018-06-05T18:49:34.000Z",
+					"DeleteOnTermination": true,
+					"Status": "attached",
+					"VolumeId": "vol-01cdbcf1a2279dcc3"
+				}
+			}],
+			"ClientToken": "55558f45-218d-4b52-9a5b-e4d15db1555c_subnet-9d6b2ec6_1",
+			"EbsOptimized": false,
+			"EnaSupport": true,
+			"Hypervisor": "xen",
+			"IamInstanceProfile": {
+				"Arn": "arn:aws:iam::647461886534:instance-profile/batman_connect",
+				"Id": "AIPAILUHWWLRIPLA6XCJA"
+			},
+			"ElasticGpuAssociations": [],
+			"NetworkInterfaces": [{
+				"Attachment": {
+					"AttachTime": "2018-06-05T18:49:33.000Z",
+					"AttachmentId": "eni-attach-e93a6c13",
+					"DeleteOnTermination": true,
+					"DeviceIndex": 0,
+					"Status": "attached"
+				},
+				"Description": "",
+				"Groups": [{
+					"GroupName": "batman_sg_ssh",
+					"GroupId": "sg-687b8b15"
+				},
+				{
+					"GroupName": "batman_sg_notifications",
+					"GroupId": "sg-14778769"
+				}],
+				"Ipv6Addresses": [],
+				"MacAddress": "0a:9f:67:dd:26:80",
+				"NetworkInterfaceId": "eni-bac9b2a2",
+				"OwnerId": "647461886534",
+				"PrivateDnsName": "ip-10-0-20-186.us-west-2.compute.internal",
+				"PrivateIpAddress": "10.0.20.186",
+				"PrivateIpAddresses": [{
+					"Primary": true,
+					"PrivateDnsName": "ip-10-0-20-186.us-west-2.compute.internal",
+					"PrivateIpAddress": "10.0.20.186"
+				}],
+				"SourceDestCheck": true,
+				"Status": "in-use",
+				"SubnetId": "subnet-9d6b2ec6",
+				"VpcId": "vpc-d80f6fbe"
+			}],
+			"RootDeviceName": "/dev/sda1",
+			"RootDeviceType": "ebs",
+			"SecurityGroups": [{
+				"GroupName": "batman_sg_ssh",
+				"GroupId": "sg-687b8b15"
+			},
+			{
+				"GroupName": "batman_sg_notifications",
+				"GroupId": "sg-14778769"
+			}],
+			"SourceDestCheck": true,
+			"Tags": [{
+				"Key": "Microservice",
+				"Value": "Notifications"
+			},
+			{
+				"Key": "Provisioner",
+				"Value": "Terraform"
+			},
+			{
+				"Key": "Name",
+				"Value": "batman - Notifications"
+			},
+			{
+				"Key": "Release",
+				"Value": "0.0.3.1080"
+			},
+			{
+				"Key": "Environment",
+				"Value": "batman"
+			},
+			{
+				"Key": "aws:autoscaling:groupName",
+				"Value": "batman-notifications2018053120591845930000000420180531205919978200000008"
+			}],
+			"VirtualizationType": "hvm"
+		}],
+		"OwnerId": "647461886534",
+		"RequesterId": "903220451833",
+		"ReservationId": "r-0741db682c1a6851b"
+	},
+	{
+		"Groups": [],
+		"Instances": [{
+			"AmiLaunchIndex": 0,
+			"ImageId": "ami-3fe89a47",
+			"InstanceId": "i-001538837fc59d2ab",
+			"InstanceType": "t2.small",
+			"KeyName": "amp-terraform-dev-key",
+			"LaunchTime": "2018-06-05T18:49:34.000Z",
+			"Monitoring": {
+				"State": "enabled"
+			},
+			"Placement": {
+				"AvailabilityZone": "us-west-2c",
+				"GroupName": "",
+				"Tenancy": "default"
+			},
+			"PrivateDnsName": "ip-10-0-20-247.us-west-2.compute.internal",
+			"PrivateIpAddress": "10.0.20.247",
+			"ProductCodes": [],
+			"PublicDnsName": "",
+			"State": {
+				"Code": 16,
+				"Name": "running"
+			},
+			"StateTransitionReason": "",
+			"SubnetId": "subnet-9d6b2ec6",
+			"VpcId": "vpc-d80f6fbe",
+			"Architecture": "x86_64",
+			"BlockDeviceMappings": [{
+				"DeviceName": "/dev/sda1",
+				"Ebs": {
+					"AttachTime": "2018-06-05T18:49:35.000Z",
+					"DeleteOnTermination": true,
+					"Status": "attached",
+					"VolumeId": "vol-08f8a4260d588d8e3"
+				}
+			}],
+			"ClientToken": "ecb58f45-219d-a737-c94b-fece1b368333_subnet-9d6b2ec6_1",
+			"EbsOptimized": false,
+			"EnaSupport": true,
+			"Hypervisor": "xen",
+			"IamInstanceProfile": {
+				"Arn": "arn:aws:iam::647461886534:instance-profile/batman_connect",
+				"Id": "AIPAILUHWWLRIPLA6XCJA"
+			},
+			"ElasticGpuAssociations": [],
+			"NetworkInterfaces": [{
+				"Attachment": {
+					"AttachTime": "2018-06-05T18:49:34.000Z",
+					"AttachmentId": "eni-attach-063a6cfc",
+					"DeleteOnTermination": true,
+					"DeviceIndex": 0,
+					"Status": "attached"
+				},
+				"Description": "",
+				"Groups": [{
+					"GroupName": "batman_sg_ssh",
+					"GroupId": "sg-687b8b15"
+				},
+				{
+					"GroupName": "batman_sg_audit",
+					"GroupId": "sg-1777876a"
+				}],
+				"Ipv6Addresses": [],
+				"MacAddress": "0a:1a:48:34:0e:7e",
+				"NetworkInterfaceId": "eni-93cfb48b",
+				"OwnerId": "647461886534",
+				"PrivateDnsName": "ip-10-0-20-247.us-west-2.compute.internal",
+				"PrivateIpAddress": "10.0.20.247",
+				"PrivateIpAddresses": [{
+					"Primary": true,
+					"PrivateDnsName": "ip-10-0-20-247.us-west-2.compute.internal",
+					"PrivateIpAddress": "10.0.20.247"
+				}],
+				"SourceDestCheck": true,
+				"Status": "in-use",
+				"SubnetId": "subnet-9d6b2ec6",
+				"VpcId": "vpc-d80f6fbe"
+			}],
+			"RootDeviceName": "/dev/sda1",
+			"RootDeviceType": "ebs",
+			"SecurityGroups": [{
+				"GroupName": "batman_sg_ssh",
+				"GroupId": "sg-687b8b15"
+			},
+			{
+				"GroupName": "batman_sg_audit",
+				"GroupId": "sg-1777876a"
+			}],
+			"SourceDestCheck": true,
+			"Tags": [{
+				"Key": "aws:autoscaling:groupName",
+				"Value": "batman-audit2018052417110449160000000320180524171116639200000011"
+			},
+			{
+				"Key": "Environment",
+				"Value": "batman"
+			},
+			{
+				"Key": "Release",
+				"Value": "0.0.1.790"
+			},
+			{
+				"Key": "Provisioner",
+				"Value": "Terraform"
+			},
+			{
+				"Key": "Microservice",
+				"Value": "Audit"
+			},
+			{
+				"Key": "Name",
+				"Value": "batman - Audit"
+			}],
+			"VirtualizationType": "hvm"
+		}],
+		"OwnerId": "647461886534",
+		"RequesterId": "903220451833",
+		"ReservationId": "r-00a8b3ac52866016b"
+	},
+	{
+		"Groups": [],
+		"Instances": [{
+			"AmiLaunchIndex": 0,
+			"ImageId": "ami-fcd7ad84",
+			"InstanceId": "i-0e981434acf37fb4e",
+			"InstanceType": "t2.small",
+			"KeyName": "amp-terraform-dev-key",
+			"LaunchTime": "2018-06-05T18:49:37.000Z",
+			"Monitoring": {
+				"State": "enabled"
+			},
+			"Placement": {
+				"AvailabilityZone": "us-west-2c",
+				"GroupName": "",
+				"Tenancy": "default"
+			},
+			"PrivateDnsName": "ip-10-0-20-4.us-west-2.compute.internal",
+			"PrivateIpAddress": "10.0.20.4",
+			"ProductCodes": [],
+			"PublicDnsName": "",
+			"State": {
+				"Code": 16,
+				"Name": "running"
+			},
+			"StateTransitionReason": "",
+			"SubnetId": "subnet-9d6b2ec6",
+			"VpcId": "vpc-d80f6fbe",
+			"Architecture": "x86_64",
+			"BlockDeviceMappings": [{
+				"DeviceName": "/dev/sda1",
+				"Ebs": {
+					"AttachTime": "2018-06-05T18:49:38.000Z",
+					"DeleteOnTermination": true,
+					"Status": "attached",
+					"VolumeId": "vol-07b4966fbbd706c8a"
+				}
+			}],
+			"ClientToken": "d0258f45-21c4-83fc-47ea-67a3f3ff75fb_subnet-9d6b2ec6_1",
+			"EbsOptimized": false,
+			"EnaSupport": true,
+			"Hypervisor": "xen",
+			"IamInstanceProfile": {
+				"Arn": "arn:aws:iam::647461886534:instance-profile/batman_connect",
+				"Id": "AIPAILUHWWLRIPLA6XCJA"
+			},
+			"ElasticGpuAssociations": [],
+			"NetworkInterfaces": [{
+				"Attachment": {
+					"AttachTime": "2018-06-05T18:49:37.000Z",
+					"AttachmentId": "eni-attach-ba3d6b40",
+					"DeleteOnTermination": true,
+					"DeviceIndex": 0,
+					"Status": "attached"
+				},
+				"Description": "",
+				"Groups": [{
+					"GroupName": "batman_sg_job",
+					"GroupId": "sg-1177876c"
+				},
+				{
+					"GroupName": "batman_sg_ssh",
+					"GroupId": "sg-687b8b15"
+				}],
+				"Ipv6Addresses": [],
+				"MacAddress": "0a:87:7d:36:1d:bc",
+				"NetworkInterfaceId": "eni-62cab17a",
+				"OwnerId": "647461886534",
+				"PrivateDnsName": "ip-10-0-20-4.us-west-2.compute.internal",
+				"PrivateIpAddress": "10.0.20.4",
+				"PrivateIpAddresses": [{
+					"Primary": true,
+					"PrivateDnsName": "ip-10-0-20-4.us-west-2.compute.internal",
+					"PrivateIpAddress": "10.0.20.4"
+				}],
+				"SourceDestCheck": true,
+				"Status": "in-use",
+				"SubnetId": "subnet-9d6b2ec6",
+				"VpcId": "vpc-d80f6fbe"
+			}],
+			"RootDeviceName": "/dev/sda1",
+			"RootDeviceType": "ebs",
+			"SecurityGroups": [{
+				"GroupName": "batman_sg_job",
+				"GroupId": "sg-1177876c"
+			},
+			{
+				"GroupName": "batman_sg_ssh",
+				"GroupId": "sg-687b8b15"
+			}],
+			"SourceDestCheck": true,
+			"Tags": [{
+				"Key": "Microservice",
+				"Value": "Job"
+			},
+			{
+				"Key": "Environment",
+				"Value": "batman"
+			},
+			{
+				"Key": "Release",
+				"Value": "0.0.1.2589"
+			},
+			{
+				"Key": "aws:autoscaling:groupName",
+				"Value": "batman-job2018053120591843130000000320180531205919824400000007"
+			},
+			{
+				"Key": "Provisioner",
+				"Value": "Terraform"
+			},
+			{
+				"Key": "Name",
+				"Value": "batman - Job"
+			}],
+			"VirtualizationType": "hvm"
+		}],
+		"OwnerId": "647461886534",
+		"RequesterId": "903220451833",
+		"ReservationId": "r-00d1392a94d02c52f"
+	},
+	{
+		"Groups": [],
+		"Instances": [{
+			"AmiLaunchIndex": 0,
+			"ImageId": "ami-08930570",
+			"InstanceId": "i-06c2a22f44d5f750d",
+			"InstanceType": "t2.small",
+			"KeyName": "amp-terraform-dev-key",
+			"LaunchTime": "2018-06-05T18:49:23.000Z",
+			"Monitoring": {
+				"State": "enabled"
+			},
+			"Placement": {
+				"AvailabilityZone": "us-west-2c",
+				"GroupName": "",
+				"Tenancy": "default"
+			},
+			"PrivateDnsName": "ip-10-0-20-252.us-west-2.compute.internal",
+			"PrivateIpAddress": "10.0.20.252",
+			"ProductCodes": [],
+			"PublicDnsName": "",
+			"State": {
+				"Code": 16,
+				"Name": "running"
+			},
+			"StateTransitionReason": "",
+			"SubnetId": "subnet-9d6b2ec6",
+			"VpcId": "vpc-d80f6fbe",
+			"Architecture": "x86_64",
+			"BlockDeviceMappings": [{
+				"DeviceName": "/dev/sda1",
+				"Ebs": {
+					"AttachTime": "2018-06-05T18:49:24.000Z",
+					"DeleteOnTermination": true,
+					"Status": "attached",
+					"VolumeId": "vol-0408c8c12478a20bf"
+				}
+			}],
+			"ClientToken": "f0258f45-20f0-52c9-9127-19916be9201a_subnet-9d6b2ec6_1",
+			"EbsOptimized": false,
+			"EnaSupport": true,
+			"Hypervisor": "xen",
+			"IamInstanceProfile": {
+				"Arn": "arn:aws:iam::647461886534:instance-profile/batman_RTI",
+				"Id": "AIPAJROAY3Z2RVNEKBFR6"
+			},
+			"ElasticGpuAssociations": [],
+			"NetworkInterfaces": [{
+				"Attachment": {
+					"AttachTime": "2018-06-05T18:49:23.000Z",
+					"AttachmentId": "eni-attach-0f3a6cf5",
+					"DeleteOnTermination": true,
+					"DeviceIndex": 0,
+					"Status": "attached"
+				},
+				"Description": "",
+				"Groups": [{
+					"GroupName": "batman_sg_shared_rds_access",
+					"GroupId": "sg-ab7585d6"
+				},
+				{
+					"GroupName": "batman_sg_consul",
+					"GroupId": "sg-077b8b7a"
+				},
+				{
+					"GroupName": "batmanrtisec",
+					"GroupId": "sg-3d798940"
+				}],
+				"Ipv6Addresses": [],
+				"MacAddress": "0a:f0:d4:a5:ed:28",
+				"NetworkInterfaceId": "eni-1acab102",
+				"OwnerId": "647461886534",
+				"PrivateDnsName": "ip-10-0-20-252.us-west-2.compute.internal",
+				"PrivateIpAddress": "10.0.20.252",
+				"PrivateIpAddresses": [{
+					"Primary": true,
+					"PrivateDnsName": "ip-10-0-20-252.us-west-2.compute.internal",
+					"PrivateIpAddress": "10.0.20.252"
+				}],
+				"SourceDestCheck": true,
+				"Status": "in-use",
+				"SubnetId": "subnet-9d6b2ec6",
+				"VpcId": "vpc-d80f6fbe"
+			}],
+			"RootDeviceName": "/dev/sda1",
+			"RootDeviceType": "ebs",
+			"SecurityGroups": [{
+				"GroupName": "batman_sg_shared_rds_access",
+				"GroupId": "sg-ab7585d6"
+			},
+			{
+				"GroupName": "batman_sg_consul",
+				"GroupId": "sg-077b8b7a"
+			},
+			{
+				"GroupName": "batmanrtisec",
+				"GroupId": "sg-3d798940"
+			}],
+			"SourceDestCheck": true,
+			"Tags": [{
+				"Key": "Environment",
+				"Value": "batman"
+			},
+			{
+				"Key": "Release",
+				"Value": "1.2.453"
+			},
+			{
+				"Key": "aws:autoscaling:groupName",
+				"Value": "batmanrtibridgeasgterraform-2018050416332387950000001820180504163333343600000023"
+			},
+			{
+				"Key": "Microservice",
+				"Value": "RTI Bridge"
+			},
+			{
+				"Key": "Name",
+				"Value": "batman - RTI Bridge"
+			},
+			{
+				"Key": "Provisioner",
+				"Value": "Terraform"
+			}],
+			"VirtualizationType": "hvm"
+		}],
+		"OwnerId": "647461886534",
+		"RequesterId": "903220451833",
+		"ReservationId": "r-07da6ef20c37d7dc7"
+	},
+	{
+		"Groups": [],
+		"Instances": [{
+			"AmiLaunchIndex": 0,
+			"ImageId": "ami-f7e89a8f",
+			"InstanceId": "i-0c52723e176b8895b",
+			"InstanceType": "t2.small",
+			"KeyName": "amp-terraform-dev-key",
+			"LaunchTime": "2018-06-05T18:49:36.000Z",
+			"Monitoring": {
+				"State": "enabled"
+			},
+			"Placement": {
+				"AvailabilityZone": "us-west-2c",
+				"GroupName": "",
+				"Tenancy": "default"
+			},
+			"PrivateDnsName": "ip-10-0-20-161.us-west-2.compute.internal",
+			"PrivateIpAddress": "10.0.20.161",
+			"ProductCodes": [],
+			"PublicDnsName": "",
+			"State": {
+				"Code": 16,
+				"Name": "running"
+			},
+			"StateTransitionReason": "",
+			"SubnetId": "subnet-9d6b2ec6",
+			"VpcId": "vpc-d80f6fbe",
+			"Architecture": "x86_64",
+			"BlockDeviceMappings": [{
+				"DeviceName": "/dev/sda1",
+				"Ebs": {
+					"AttachTime": "2018-06-05T18:49:36.000Z",
+					"DeleteOnTermination": true,
+					"Status": "attached",
+					"VolumeId": "vol-007e0b3d5f6367983"
+				}
+			}],
+			"ClientToken": "4b858f45-21b6-9feb-7767-fc2ac555913c_subnet-9d6b2ec6_1",
+			"EbsOptimized": false,
+			"EnaSupport": true,
+			"Hypervisor": "xen",
+			"IamInstanceProfile": {
+				"Arn": "arn:aws:iam::647461886534:instance-profile/batman_connect",
+				"Id": "AIPAILUHWWLRIPLA6XCJA"
+			},
+			"ElasticGpuAssociations": [],
+			"NetworkInterfaces": [{
+				"Attachment": {
+					"AttachTime": "2018-06-05T18:49:36.000Z",
+					"AttachmentId": "eni-attach-273c6add",
+					"DeleteOnTermination": true,
+					"DeviceIndex": 0,
+					"Status": "attached"
+				},
+				"Description": "",
+				"Groups": [{
+					"GroupName": "batman_sg_ssh",
+					"GroupId": "sg-687b8b15"
+				},
+				{
+					"GroupName": "batman_sg_blueprint",
+					"GroupId": "sg-39798944"
+				}],
+				"Ipv6Addresses": [],
+				"MacAddress": "0a:4c:d1:4e:64:42",
+				"NetworkInterfaceId": "eni-11c8b309",
+				"OwnerId": "647461886534",
+				"PrivateDnsName": "ip-10-0-20-161.us-west-2.compute.internal",
+				"PrivateIpAddress": "10.0.20.161",
+				"PrivateIpAddresses": [{
+					"Primary": true,
+					"PrivateDnsName": "ip-10-0-20-161.us-west-2.compute.internal",
+					"PrivateIpAddress": "10.0.20.161"
+				}],
+				"SourceDestCheck": true,
+				"Status": "in-use",
+				"SubnetId": "subnet-9d6b2ec6",
+				"VpcId": "vpc-d80f6fbe"
+			}],
+			"RootDeviceName": "/dev/sda1",
+			"RootDeviceType": "ebs",
+			"SecurityGroups": [{
+				"GroupName": "batman_sg_ssh",
+				"GroupId": "sg-687b8b15"
+			},
+			{
+				"GroupName": "batman_sg_blueprint",
+				"GroupId": "sg-39798944"
+			}],
+			"SourceDestCheck": true,
+			"Tags": [{
+				"Key": "Release",
+				"Value": "0.0.1.2312"
+			},
+			{
+				"Key": "aws:autoscaling:groupName",
+				"Value": "batman-blueprint2018052417110554340000000820180524171117220200000012"
+			},
+			{
+				"Key": "Environment",
+				"Value": "batman"
+			},
+			{
+				"Key": "Provisioner",
+				"Value": "Terraform"
+			},
+			{
+				"Key": "Microservice",
+				"Value": "blueprint"
+			},
+			{
+				"Key": "Name",
+				"Value": "batman - Blueprint"
+			}],
+			"VirtualizationType": "hvm"
+		}],
+		"OwnerId": "647461886534",
+		"RequesterId": "903220451833",
+		"ReservationId": "r-02d0ecbd59da95c13"
+	},
+	{
+		"Groups": [],
+		"Instances": [{
+			"AmiLaunchIndex": 0,
+			"ImageId": "ami-06ea987e",
+			"InstanceId": "i-0871f7e010f4f6965",
+			"InstanceType": "t2.small",
+			"KeyName": "amp-terraform-dev-key",
+			"LaunchTime": "2018-06-05T18:49:38.000Z",
+			"Monitoring": {
+				"State": "enabled"
+			},
+			"Placement": {
+				"AvailabilityZone": "us-west-2b",
+				"GroupName": "",
+				"Tenancy": "default"
+			},
+			"PrivateDnsName": "ip-10-0-19-164.us-west-2.compute.internal",
+			"PrivateIpAddress": "10.0.19.164",
+			"ProductCodes": [],
+			"PublicDnsName": "",
+			"State": {
+				"Code": 16,
+				"Name": "running"
+			},
+			"StateTransitionReason": "",
+			"SubnetId": "subnet-42e5330a",
+			"VpcId": "vpc-d80f6fbe",
+			"Architecture": "x86_64",
+			"BlockDeviceMappings": [{
+				"DeviceName": "/dev/sda1",
+				"Ebs": {
+					"AttachTime": "2018-06-05T18:49:39.000Z",
+					"DeleteOnTermination": true,
+					"Status": "attached",
+					"VolumeId": "vol-0bf11eb23382b8b0d"
+				}
+			}],
+			"ClientToken": "8f658f45-21e2-194d-2802-feaa7b6eb0f3_subnet-42e5330a_1",
+			"EbsOptimized": false,
+			"EnaSupport": true,
+			"Hypervisor": "xen",
+			"IamInstanceProfile": {
+				"Arn": "arn:aws:iam::647461886534:instance-profile/batman_connect",
+				"Id": "AIPAILUHWWLRIPLA6XCJA"
+			},
+			"ElasticGpuAssociations": [],
+			"NetworkInterfaces": [{
+				"Attachment": {
+					"AttachTime": "2018-06-05T18:49:38.000Z",
+					"AttachmentId": "eni-attach-96065962",
+					"DeleteOnTermination": true,
+					"DeviceIndex": 0,
+					"Status": "attached"
+				},
+				"Description": "",
+				"Groups": [{
+					"GroupName": "batman_sg_login",
+					"GroupId": "sg-3a768647"
+				},
+				{
+					"GroupName": "batman_sg_ssh",
+					"GroupId": "sg-687b8b15"
+				}],
+				"Ipv6Addresses": [],
+				"MacAddress": "06:68:89:66:52:da",
+				"NetworkInterfaceId": "eni-54794d5c",
+				"OwnerId": "647461886534",
+				"PrivateDnsName": "ip-10-0-19-164.us-west-2.compute.internal",
+				"PrivateIpAddress": "10.0.19.164",
+				"PrivateIpAddresses": [{
+					"Primary": true,
+					"PrivateDnsName": "ip-10-0-19-164.us-west-2.compute.internal",
+					"PrivateIpAddress": "10.0.19.164"
+				}],
+				"SourceDestCheck": true,
+				"Status": "in-use",
+				"SubnetId": "subnet-42e5330a",
+				"VpcId": "vpc-d80f6fbe"
+			}],
+			"RootDeviceName": "/dev/sda1",
+			"RootDeviceType": "ebs",
+			"SecurityGroups": [{
+				"GroupName": "batman_sg_login",
+				"GroupId": "sg-3a768647"
+			},
+			{
+				"GroupName": "batman_sg_ssh",
+				"GroupId": "sg-687b8b15"
+			}],
+			"SourceDestCheck": true,
+			"Tags": [{
+				"Key": "aws:autoscaling:groupName",
+				"Value": "batman-login201805241711044939000000042018052417112134700000001a"
+			},
+			{
+				"Key": "Environment",
+				"Value": "batman"
+			},
+			{
+				"Key": "Microservice",
+				"Value": "Login"
+			},
+			{
+				"Key": "Name",
+				"Value": "batman - Login"
+			},
+			{
+				"Key": "Provisioner",
+				"Value": "Terraform"
+			},
+			{
+				"Key": "Release",
+				"Value": "1.0.7.2282"
+			}],
+			"VirtualizationType": "hvm"
+		}],
+		"OwnerId": "647461886534",
+		"RequesterId": "903220451833",
+		"ReservationId": "r-0109f96492aa74df7"
+	},
+	{
+		"Groups": [],
+		"Instances": [{
+			"AmiLaunchIndex": 0,
+			"ImageId": "ami-3e128946",
+			"InstanceId": "i-04a4d30c8c08a8a5f",
+			"InstanceType": "t2.small",
+			"KeyName": "amp-terraform-dev-key",
+			"LaunchTime": "2018-06-05T18:49:49.000Z",
+			"Monitoring": {
+				"State": "enabled"
+			},
+			"Placement": {
+				"AvailabilityZone": "us-west-2c",
+				"GroupName": "",
+				"Tenancy": "default"
+			},
+			"PrivateDnsName": "ip-10-0-20-25.us-west-2.compute.internal",
+			"PrivateIpAddress": "10.0.20.25",
+			"ProductCodes": [],
+			"PublicDnsName": "",
+			"State": {
+				"Code": 16,
+				"Name": "running"
+			},
+			"StateTransitionReason": "",
+			"SubnetId": "subnet-9d6b2ec6",
+			"VpcId": "vpc-d80f6fbe",
+			"Architecture": "x86_64",
+			"BlockDeviceMappings": [{
+				"DeviceName": "/dev/sda1",
+				"Ebs": {
+					"AttachTime": "2018-06-05T18:49:50.000Z",
+					"DeleteOnTermination": true,
+					"Status": "attached",
+					"VolumeId": "vol-0bacaf7cf09156e41"
+				}
+			}],
+			"ClientToken": "48758f45-228b-972a-147c-7ea19ecb324b_subnet-9d6b2ec6_1",
+			"EbsOptimized": false,
+			"EnaSupport": true,
+			"Hypervisor": "xen",
+			"IamInstanceProfile": {
+				"Arn": "arn:aws:iam::647461886534:instance-profile/batman_RTI",
+				"Id": "AIPAJROAY3Z2RVNEKBFR6"
+			},
+			"ElasticGpuAssociations": [],
+			"NetworkInterfaces": [{
+				"Attachment": {
+					"AttachTime": "2018-06-05T18:49:49.000Z",
+					"AttachmentId": "eni-attach-cd3d6b37",
+					"DeleteOnTermination": true,
+					"DeviceIndex": 0,
+					"Status": "attached"
+				},
+				"Description": "",
+				"Groups": [{
+					"GroupName": "batman_sg_shared_rds_access",
+					"GroupId": "sg-ab7585d6"
+				},
+				{
+					"GroupName": "batman_sg_consul",
+					"GroupId": "sg-077b8b7a"
+				},
+				{
+					"GroupName": "batmanrtisec",
+					"GroupId": "sg-3d798940"
+				}],
+				"Ipv6Addresses": [],
+				"MacAddress": "0a:5a:31:95:90:4a",
+				"NetworkInterfaceId": "eni-15cab10d",
+				"OwnerId": "647461886534",
+				"PrivateDnsName": "ip-10-0-20-25.us-west-2.compute.internal",
+				"PrivateIpAddress": "10.0.20.25",
+				"PrivateIpAddresses": [{
+					"Primary": true,
+					"PrivateDnsName": "ip-10-0-20-25.us-west-2.compute.internal",
+					"PrivateIpAddress": "10.0.20.25"
+				}],
+				"SourceDestCheck": true,
+				"Status": "in-use",
+				"SubnetId": "subnet-9d6b2ec6",
+				"VpcId": "vpc-d80f6fbe"
+			}],
+			"RootDeviceName": "/dev/sda1",
+			"RootDeviceType": "ebs",
+			"SecurityGroups": [{
+				"GroupName": "batman_sg_shared_rds_access",
+				"GroupId": "sg-ab7585d6"
+			},
+			{
+				"GroupName": "batman_sg_consul",
+				"GroupId": "sg-077b8b7a"
+			},
+			{
+				"GroupName": "batmanrtisec",
+				"GroupId": "sg-3d798940"
+			}],
+			"SourceDestCheck": true,
+			"Tags": [{
+				"Key": "aws:autoscaling:groupName",
+				"Value": "batmanrtifinanceasgterraform-2018050416380063220000002420180504163802024900000027"
+			},
+			{
+				"Key": "Environment",
+				"Value": "batman"
+			},
+			{
+				"Key": "Name",
+				"Value": "batman - RTI Finance"
+			},
+			{
+				"Key": "Microservice",
+				"Value": "RTI Finance"
+			},
+			{
+				"Key": "Provisioner",
+				"Value": "Terraform"
+			},
+			{
+				"Key": "Release",
+				"Value": "0.1.0.269"
+			}],
+			"VirtualizationType": "hvm"
+		}],
+		"OwnerId": "647461886534",
+		"RequesterId": "903220451833",
+		"ReservationId": "r-0142220bfa7f624bd"
+	},
+	{
+		"Groups": [],
+		"Instances": [{
+			"AmiLaunchIndex": 0,
+			"ImageId": "ami-1f3a5467",
+			"InstanceId": "i-0e5d0018d1fa9497e",
+			"InstanceType": "t2.small",
+			"KeyName": "amp-terraform-dev-key",
+			"LaunchTime": "2018-06-05T18:49:53.000Z",
+			"Monitoring": {
+				"State": "enabled"
+			},
+			"Placement": {
+				"AvailabilityZone": "us-west-2c",
+				"GroupName": "",
+				"Tenancy": "default"
+			},
+			"PrivateDnsName": "ip-10-0-20-30.us-west-2.compute.internal",
+			"PrivateIpAddress": "10.0.20.30",
+			"ProductCodes": [],
+			"PublicDnsName": "",
+			"State": {
+				"Code": 16,
+				"Name": "running"
+			},
+			"StateTransitionReason": "",
+			"SubnetId": "subnet-9d6b2ec6",
+			"VpcId": "vpc-d80f6fbe",
+			"Architecture": "x86_64",
+			"BlockDeviceMappings": [{
+				"DeviceName": "/dev/sda1",
+				"Ebs": {
+					"AttachTime": "2018-06-05T18:49:54.000Z",
+					"DeleteOnTermination": true,
+					"Status": "attached",
+					"VolumeId": "vol-001224fc3528134a6"
+				}
+			}],
+			"ClientToken": "ee758f45-22c8-270d-1910-ece4610078e0_subnet-9d6b2ec6_1",
+			"EbsOptimized": false,
+			"EnaSupport": true,
+			"Hypervisor": "xen",
+			"IamInstanceProfile": {
+				"Arn": "arn:aws:iam::647461886534:instance-profile/batman_RTI",
+				"Id": "AIPAJROAY3Z2RVNEKBFR6"
+			},
+			"ElasticGpuAssociations": [],
+			"NetworkInterfaces": [{
+				"Attachment": {
+					"AttachTime": "2018-06-05T18:49:53.000Z",
+					"AttachmentId": "eni-attach-ce3d6b34",
+					"DeleteOnTermination": true,
+					"DeviceIndex": 0,
+					"Status": "attached"
+				},
+				"Description": "",
+				"Groups": [{
+					"GroupName": "batman_sg_shared_rds_access",
+					"GroupId": "sg-ab7585d6"
+				},
+				{
+					"GroupName": "batman_sg_consul",
+					"GroupId": "sg-077b8b7a"
+				},
+				{
+					"GroupName": "batmanrtisec",
+					"GroupId": "sg-3d798940"
+				}],
+				"Ipv6Addresses": [],
+				"MacAddress": "0a:90:e6:05:e2:ec",
+				"NetworkInterfaceId": "eni-6bc8b373",
+				"OwnerId": "647461886534",
+				"PrivateDnsName": "ip-10-0-20-30.us-west-2.compute.internal",
+				"PrivateIpAddress": "10.0.20.30",
+				"PrivateIpAddresses": [{
+					"Primary": true,
+					"PrivateDnsName": "ip-10-0-20-30.us-west-2.compute.internal",
+					"PrivateIpAddress": "10.0.20.30"
+				}],
+				"SourceDestCheck": true,
+				"Status": "in-use",
+				"SubnetId": "subnet-9d6b2ec6",
+				"VpcId": "vpc-d80f6fbe"
+			}],
+			"RootDeviceName": "/dev/sda1",
+			"RootDeviceType": "ebs",
+			"SecurityGroups": [{
+				"GroupName": "batman_sg_shared_rds_access",
+				"GroupId": "sg-ab7585d6"
+			},
+			{
+				"GroupName": "batman_sg_consul",
+				"GroupId": "sg-077b8b7a"
+			},
+			{
+				"GroupName": "batmanrtisec",
+				"GroupId": "sg-3d798940"
+			}],
+			"SourceDestCheck": true,
+			"Tags": [{
+				"Key": "aws:autoscaling:groupName",
+				"Value": "batmanrtimatchingasgterraform-2018050416380065040000002520180504163801803700000026"
+			},
+			{
+				"Key": "Release",
+				"Value": "0.1.0.508"
+			},
+			{
+				"Key": "Name",
+				"Value": "batman - RTI Matching"
+			},
+			{
+				"Key": "Microservice",
+				"Value": "RTI Matching"
+			},
+			{
+				"Key": "Provisioner",
+				"Value": "Terraform"
+			},
+			{
+				"Key": "Environment",
+				"Value": "batman"
+			}],
+			"VirtualizationType": "hvm"
+		}],
+		"OwnerId": "647461886534",
+		"RequesterId": "903220451833",
+		"ReservationId": "r-0ede288d90ee6cde9"
+	},
+	{
+		"Groups": [],
+		"Instances": [{
+			"AmiLaunchIndex": 0,
+			"ImageId": "ami-14eb996c",
+			"InstanceId": "i-06d761a2fe03649eb",
+			"InstanceType": "t2.small",
+			"KeyName": "amp-terraform-dev-key",
+			"LaunchTime": "2018-06-05T18:49:32.000Z",
+			"Monitoring": {
+				"State": "enabled"
+			},
+			"Placement": {
+				"AvailabilityZone": "us-west-2a",
+				"GroupName": "",
+				"Tenancy": "default"
+			},
+			"PrivateDnsName": "ip-10-0-18-36.us-west-2.compute.internal",
+			"PrivateIpAddress": "10.0.18.36",
+			"ProductCodes": [],
+			"PublicDnsName": "",
+			"State": {
+				"Code": 16,
+				"Name": "running"
+			},
+			"StateTransitionReason": "",
+			"SubnetId": "subnet-b94effdf",
+			"VpcId": "vpc-d80f6fbe",
+			"Architecture": "x86_64",
+			"BlockDeviceMappings": [{
+				"DeviceName": "/dev/sda1",
+				"Ebs": {
+					"AttachTime": "2018-06-05T18:49:32.000Z",
+					"DeleteOnTermination": true,
+					"Status": "attached",
+					"VolumeId": "vol-05415842014d82ac7"
+				}
+			}],
+			"ClientToken": "37f58f45-2175-31ac-1874-dfcf76c40654_subnet-b94effdf_1",
+			"EbsOptimized": false,
+			"EnaSupport": true,
+			"Hypervisor": "xen",
+			"IamInstanceProfile": {
+				"Arn": "arn:aws:iam::647461886534:instance-profile/batman_connect",
+				"Id": "AIPAILUHWWLRIPLA6XCJA"
+			},
+			"ElasticGpuAssociations": [],
+			"NetworkInterfaces": [{
+				"Attachment": {
+					"AttachTime": "2018-06-05T18:49:32.000Z",
+					"AttachmentId": "eni-attach-b0272cce",
+					"DeleteOnTermination": true,
+					"DeviceIndex": 0,
+					"Status": "attached"
+				},
+				"Description": "",
+				"Groups": [{
+					"GroupName": "batman_sg_ssh",
+					"GroupId": "sg-687b8b15"
+				},
+				{
+					"GroupName": "batman_sg_consul",
+					"GroupId": "sg-077b8b7a"
+				},
+				{
+					"GroupName": "batman_sg_document",
+					"GroupId": "sg-f9788884"
+				}],
+				"Ipv6Addresses": [],
+				"MacAddress": "02:2c:c4:80:7d:a0",
+				"NetworkInterfaceId": "eni-b55a3b8d",
+				"OwnerId": "647461886534",
+				"PrivateDnsName": "ip-10-0-18-36.us-west-2.compute.internal",
+				"PrivateIpAddress": "10.0.18.36",
+				"PrivateIpAddresses": [{
+					"Primary": true,
+					"PrivateDnsName": "ip-10-0-18-36.us-west-2.compute.internal",
+					"PrivateIpAddress": "10.0.18.36"
+				}],
+				"SourceDestCheck": true,
+				"Status": "in-use",
+				"SubnetId": "subnet-b94effdf",
+				"VpcId": "vpc-d80f6fbe"
+			}],
+			"RootDeviceName": "/dev/sda1",
+			"RootDeviceType": "ebs",
+			"SecurityGroups": [{
+				"GroupName": "batman_sg_ssh",
+				"GroupId": "sg-687b8b15"
+			},
+			{
+				"GroupName": "batman_sg_consul",
+				"GroupId": "sg-077b8b7a"
+			},
+			{
+				"GroupName": "batman_sg_document",
+				"GroupId": "sg-f9788884"
+			}],
+			"SourceDestCheck": true,
+			"Tags": [{
+				"Key": "Microservice",
+				"Value": "Document"
+			},
+			{
+				"Key": "Provisioner",
+				"Value": "Terraform"
+			},
+			{
+				"Key": "Environment",
+				"Value": "batman"
+			},
+			{
+				"Key": "Name",
+				"Value": "batman - Document"
+			},
+			{
+				"Key": "Release",
+				"Value": "0.0.3.616"
+			},
+			{
+				"Key": "aws:autoscaling:groupName",
+				"Value": "batman-document2018052417110492050000000720180524171119711100000017"
+			}],
+			"VirtualizationType": "hvm"
+		}],
+		"OwnerId": "647461886534",
+		"RequesterId": "903220451833",
+		"ReservationId": "r-090b17bbd31c84695"
+	},
+	{
+		"Groups": [],
+		"Instances": [{
+			"AmiLaunchIndex": 0,
+			"ImageId": "ami-d2e97faa",
+			"InstanceId": "i-030fe69c4f9a7676b",
+			"InstanceType": "t2.small",
+			"KeyName": "amp-terraform-dev-key",
+			"LaunchTime": "2018-06-05T18:49:41.000Z",
+			"Monitoring": {
+				"State": "enabled"
+			},
+			"Placement": {
+				"AvailabilityZone": "us-west-2c",
+				"GroupName": "",
+				"Tenancy": "default"
+			},
+			"PrivateDnsName": "ip-10-0-20-207.us-west-2.compute.internal",
+			"PrivateIpAddress": "10.0.20.207",
+			"ProductCodes": [],
+			"PublicDnsName": "",
+			"State": {
+				"Code": 16,
+				"Name": "running"
+			},
+			"StateTransitionReason": "",
+			"SubnetId": "subnet-9d6b2ec6",
+			"VpcId": "vpc-d80f6fbe",
+			"Architecture": "x86_64",
+			"BlockDeviceMappings": [{
+				"DeviceName": "/dev/sda1",
+				"Ebs": {
+					"AttachTime": "2018-06-05T18:49:42.000Z",
+					"DeleteOnTermination": true,
+					"Status": "attached",
+					"VolumeId": "vol-0170be005e926bf14"
+				}
+			}],
+			"ClientToken": "a9858f45-220e-05b2-0e8a-09eff27aa919_subnet-9d6b2ec6_1",
+			"EbsOptimized": false,
+			"EnaSupport": true,
+			"Hypervisor": "xen",
+			"IamInstanceProfile": {
+				"Arn": "arn:aws:iam::647461886534:instance-profile/batman_RTI",
+				"Id": "AIPAJROAY3Z2RVNEKBFR6"
+			},
+			"ElasticGpuAssociations": [],
+			"NetworkInterfaces": [{
+				"Attachment": {
+					"AttachTime": "2018-06-05T18:49:41.000Z",
+					"AttachmentId": "eni-attach-ef3a6c15",
+					"DeleteOnTermination": true,
+					"DeviceIndex": 0,
+					"Status": "attached"
+				},
+				"Description": "",
+				"Groups": [{
+					"GroupName": "batman_sg_shared_rds_access",
+					"GroupId": "sg-ab7585d6"
+				},
+				{
+					"GroupName": "batman_sg_consul",
+					"GroupId": "sg-077b8b7a"
+				},
+				{
+					"GroupName": "batmanrtisec",
+					"GroupId": "sg-3d798940"
+				}],
+				"Ipv6Addresses": [],
+				"MacAddress": "0a:64:e1:c2:89:e8",
+				"NetworkInterfaceId": "eni-12cab10a",
+				"OwnerId": "647461886534",
+				"PrivateDnsName": "ip-10-0-20-207.us-west-2.compute.internal",
+				"PrivateIpAddress": "10.0.20.207",
+				"PrivateIpAddresses": [{
+					"Primary": true,
+					"PrivateDnsName": "ip-10-0-20-207.us-west-2.compute.internal",
+					"PrivateIpAddress": "10.0.20.207"
+				}],
+				"SourceDestCheck": true,
+				"Status": "in-use",
+				"SubnetId": "subnet-9d6b2ec6",
+				"VpcId": "vpc-d80f6fbe"
+			}],
+			"RootDeviceName": "/dev/sda1",
+			"RootDeviceType": "ebs",
+			"SecurityGroups": [{
+				"GroupName": "batman_sg_shared_rds_access",
+				"GroupId": "sg-ab7585d6"
+			},
+			{
+				"GroupName": "batman_sg_consul",
+				"GroupId": "sg-077b8b7a"
+			},
+			{
+				"GroupName": "batmanrtisec",
+				"GroupId": "sg-3d798940"
+			}],
+			"SourceDestCheck": true,
+			"Tags": [{
+				"Key": "Name",
+				"Value": "batman - RTI Tributary"
+			},
+			{
+				"Key": "Microservice",
+				"Value": "RTI Tributary"
+			},
+			{
+				"Key": "aws:autoscaling:groupName",
+				"Value": "batmanrtitribasgterraform-2018050416332059660000001520180504163330304000000020"
+			},
+			{
+				"Key": "Release",
+				"Value": "0.0.6.156"
+			},
+			{
+				"Key": "Provisioner",
+				"Value": "Terraform"
+			},
+			{
+				"Key": "Environment",
+				"Value": "batman"
+			}],
+			"VirtualizationType": "hvm"
+		}],
+		"OwnerId": "647461886534",
+		"RequesterId": "903220451833",
+		"ReservationId": "r-0640666aecb2b4705"
+	},
+	{
+		"Groups": [],
+		"Instances": [{
+			"AmiLaunchIndex": 0,
+			"ImageId": "ami-c8e69fb0",
+			"InstanceId": "i-0ff36cbd0362ab742",
+			"InstanceType": "t2.small",
+			"KeyName": "amp-terraform-dev-key",
+			"LaunchTime": "2018-06-05T18:49:41.000Z",
+			"Monitoring": {
+				"State": "enabled"
+			},
+			"Placement": {
+				"AvailabilityZone": "us-west-2a",
+				"GroupName": "",
+				"Tenancy": "default"
+			},
+			"PrivateDnsName": "ip-10-0-18-87.us-west-2.compute.internal",
+			"PrivateIpAddress": "10.0.18.87",
+			"ProductCodes": [],
+			"PublicDnsName": "",
+			"State": {
+				"Code": 16,
+				"Name": "running"
+			},
+			"StateTransitionReason": "",
+			"SubnetId": "subnet-b94effdf",
+			"VpcId": "vpc-d80f6fbe",
+			"Architecture": "x86_64",
+			"BlockDeviceMappings": [{
+				"DeviceName": "/dev/sda1",
+				"Ebs": {
+					"AttachTime": "2018-06-05T18:49:42.000Z",
+					"DeleteOnTermination": true,
+					"Status": "attached",
+					"VolumeId": "vol-081e37ea691405c91"
+				}
+			}],
+			"ClientToken": "e2a58f45-2207-7b26-b10f-3fd4edb49e0d_subnet-b94effdf_1",
+			"EbsOptimized": false,
+			"EnaSupport": true,
+			"Hypervisor": "xen",
+			"IamInstanceProfile": {
+				"Arn": "arn:aws:iam::647461886534:instance-profile/batman_connect",
+				"Id": "AIPAILUHWWLRIPLA6XCJA"
+			},
+			"ElasticGpuAssociations": [],
+			"NetworkInterfaces": [{
+				"Attachment": {
+					"AttachTime": "2018-06-05T18:49:41.000Z",
+					"AttachmentId": "eni-attach-b8272cc6",
+					"DeleteOnTermination": true,
+					"DeviceIndex": 0,
+					"Status": "attached"
+				},
+				"Description": "",
+				"Groups": [{
+					"GroupName": "batman_sg_ssh",
+					"GroupId": "sg-687b8b15"
+				},
+				{
+					"GroupName": "batman_sg_timecard",
+					"GroupId": "sg-817989fc"
+				}],
+				"Ipv6Addresses": [],
+				"MacAddress": "02:d5:df:13:13:60",
+				"NetworkInterfaceId": "eni-7458394c",
+				"OwnerId": "647461886534",
+				"PrivateDnsName": "ip-10-0-18-87.us-west-2.compute.internal",
+				"PrivateIpAddress": "10.0.18.87",
+				"PrivateIpAddresses": [{
+					"Primary": true,
+					"PrivateDnsName": "ip-10-0-18-87.us-west-2.compute.internal",
+					"PrivateIpAddress": "10.0.18.87"
+				}],
+				"SourceDestCheck": true,
+				"Status": "in-use",
+				"SubnetId": "subnet-b94effdf",
+				"VpcId": "vpc-d80f6fbe"
+			}],
+			"RootDeviceName": "/dev/sda1",
+			"RootDeviceType": "ebs",
+			"SecurityGroups": [{
+				"GroupName": "batman_sg_ssh",
+				"GroupId": "sg-687b8b15"
+			},
+			{
+				"GroupName": "batman_sg_timecard",
+				"GroupId": "sg-817989fc"
+			}],
+			"SourceDestCheck": true,
+			"Tags": [{
+				"Key": "Release",
+				"Value": "0.0.2.892"
+			},
+			{
+				"Key": "aws:autoscaling:groupName",
+				"Value": "batman-timecard2018052919213599480000000420180529192144705500000009"
+			},
+			{
+				"Key": "Provisioner",
+				"Value": "Terraform"
+			},
+			{
+				"Key": "Environment",
+				"Value": "batman"
+			},
+			{
+				"Key": "Microservice",
+				"Value": "Timecard"
+			},
+			{
+				"Key": "Name",
+				"Value": "batman - Timecard"
+			}],
+			"VirtualizationType": "hvm"
+		}],
+		"OwnerId": "647461886534",
+		"RequesterId": "903220451833",
+		"ReservationId": "r-03905688155cbba76"
+	},
+	{
+		"Groups": [],
+		"Instances": [{
+			"AmiLaunchIndex": 0,
+			"ImageId": "ami-859600fd",
+			"InstanceId": "i-0b2f9e64aae6ce624",
+			"InstanceType": "t2.small",
+			"KeyName": "amp-terraform-dev-key",
+			"LaunchTime": "2018-06-05T18:49:26.000Z",
+			"Monitoring": {
+				"State": "enabled"
+			},
+			"Placement": {
+				"AvailabilityZone": "us-west-2c",
+				"GroupName": "",
+				"Tenancy": "default"
+			},
+			"PrivateDnsName": "ip-10-0-20-63.us-west-2.compute.internal",
+			"PrivateIpAddress": "10.0.20.63",
+			"ProductCodes": [],
+			"PublicDnsName": "",
+			"State": {
+				"Code": 16,
+				"Name": "running"
+			},
+			"StateTransitionReason": "",
+			"SubnetId": "subnet-9d6b2ec6",
+			"VpcId": "vpc-d80f6fbe",
+			"Architecture": "x86_64",
+			"BlockDeviceMappings": [{
+				"DeviceName": "/dev/sda1",
+				"Ebs": {
+					"AttachTime": "2018-06-05T18:49:27.000Z",
+					"DeleteOnTermination": true,
+					"Status": "attached",
+					"VolumeId": "vol-033ace6cb9bf3bd7b"
+				}
+			}],
+			"ClientToken": "c2b58f45-211d-d1e6-914a-a0b43c0bf625_subnet-9d6b2ec6_1",
+			"EbsOptimized": false,
+			"EnaSupport": true,
+			"Hypervisor": "xen",
+			"IamInstanceProfile": {
+				"Arn": "arn:aws:iam::647461886534:instance-profile/batman_RTI",
+				"Id": "AIPAJROAY3Z2RVNEKBFR6"
+			},
+			"ElasticGpuAssociations": [],
+			"NetworkInterfaces": [{
+				"Attachment": {
+					"AttachTime": "2018-06-05T18:49:26.000Z",
+					"AttachmentId": "eni-attach-1c3d6be6",
+					"DeleteOnTermination": true,
+					"DeviceIndex": 0,
+					"Status": "attached"
+				},
+				"Description": "",
+				"Groups": [{
+					"GroupName": "batman_sg_shared_rds_access",
+					"GroupId": "sg-ab7585d6"
+				},
+				{
+					"GroupName": "batman_sg_consul",
+					"GroupId": "sg-077b8b7a"
+				},
+				{
+					"GroupName": "batmanrtisec",
+					"GroupId": "sg-3d798940"
+				}],
+				"Ipv6Addresses": [],
+				"MacAddress": "0a:bf:71:8c:a3:2c",
+				"NetworkInterfaceId": "eni-1fc8b307",
+				"OwnerId": "647461886534",
+				"PrivateDnsName": "ip-10-0-20-63.us-west-2.compute.internal",
+				"PrivateIpAddress": "10.0.20.63",
+				"PrivateIpAddresses": [{
+					"Primary": true,
+					"PrivateDnsName": "ip-10-0-20-63.us-west-2.compute.internal",
+					"PrivateIpAddress": "10.0.20.63"
+				}],
+				"SourceDestCheck": true,
+				"Status": "in-use",
+				"SubnetId": "subnet-9d6b2ec6",
+				"VpcId": "vpc-d80f6fbe"
+			}],
+			"RootDeviceName": "/dev/sda1",
+			"RootDeviceType": "ebs",
+			"SecurityGroups": [{
+				"GroupName": "batman_sg_shared_rds_access",
+				"GroupId": "sg-ab7585d6"
+			},
+			{
+				"GroupName": "batman_sg_consul",
+				"GroupId": "sg-077b8b7a"
+			},
+			{
+				"GroupName": "batmanrtisec",
+				"GroupId": "sg-3d798940"
+			}],
+			"SourceDestCheck": true,
+			"Tags": [{
+				"Key": "Environment",
+				"Value": "batman"
+			},
+			{
+				"Key": "Microservice",
+				"Value": "RTI Staffhistory"
+			},
+			{
+				"Key": "aws:autoscaling:groupName",
+				"Value": "batman-rtistaffhistory2018031419432921000000000320180314194337880200000016"
+			},
+			{
+				"Key": "Provisioner",
+				"Value": "Terraform"
+			},
+			{
+				"Key": "Name",
+				"Value": "batman - RTI Staffhistory"
+			},
+			{
+				"Key": "Release",
+				"Value": "0.1.0.294"
+			}],
+			"VirtualizationType": "hvm"
+		}],
+		"OwnerId": "647461886534",
+		"RequesterId": "903220451833",
+		"ReservationId": "r-081b05abcb0811062"
+	},
+	{
+		"Groups": [],
+		"Instances": [{
+			"AmiLaunchIndex": 0,
+			"ImageId": "ami-f1eb9989",
+			"InstanceId": "i-0df58a86e866717e6",
+			"InstanceType": "t2.small",
+			"KeyName": "amp-terraform-dev-key",
+			"LaunchTime": "2018-06-05T18:49:44.000Z",
+			"Monitoring": {
+				"State": "enabled"
+			},
+			"Placement": {
+				"AvailabilityZone": "us-west-2b",
+				"GroupName": "",
+				"Tenancy": "default"
+			},
+			"PrivateDnsName": "ip-10-0-19-111.us-west-2.compute.internal",
+			"PrivateIpAddress": "10.0.19.111",
+			"ProductCodes": [],
+			"PublicDnsName": "",
+			"State": {
+				"Code": 16,
+				"Name": "running"
+			},
+			"StateTransitionReason": "",
+			"SubnetId": "subnet-42e5330a",
+			"VpcId": "vpc-d80f6fbe",
+			"Architecture": "x86_64",
+			"BlockDeviceMappings": [{
+				"DeviceName": "/dev/sda1",
+				"Ebs": {
+					"AttachTime": "2018-06-05T18:49:44.000Z",
+					"DeleteOnTermination": true,
+					"Status": "attached",
+					"VolumeId": "vol-03cb6100324c81dcf"
+				}
+			}],
+			"ClientToken": "d2858f45-2232-5ebc-744c-c6fe075b787b_subnet-42e5330a_1",
+			"EbsOptimized": false,
+			"EnaSupport": true,
+			"Hypervisor": "xen",
+			"IamInstanceProfile": {
+				"Arn": "arn:aws:iam::647461886534:instance-profile/batman_connect",
+				"Id": "AIPAILUHWWLRIPLA6XCJA"
+			},
+			"ElasticGpuAssociations": [],
+			"NetworkInterfaces": [{
+				"Attachment": {
+					"AttachTime": "2018-06-05T18:49:44.000Z",
+					"AttachmentId": "eni-attach-1b0659ef",
+					"DeleteOnTermination": true,
+					"DeviceIndex": 0,
+					"Status": "attached"
+				},
+				"Description": "",
+				"Groups": [{
+					"GroupName": "batman_sg_ssh",
+					"GroupId": "sg-687b8b15"
+				},
+				{
+					"GroupName": "batman_sg_shared_rds_access",
+					"GroupId": "sg-ab7585d6"
+				},
+				{
+					"GroupName": "batman_sg_consul",
+					"GroupId": "sg-077b8b7a"
+				},
+				{
+					"GroupName": "batman_sg_staff",
+					"GroupId": "sg-067b8b7b"
+				}],
+				"Ipv6Addresses": [],
+				"MacAddress": "06:e2:6d:de:17:48",
+				"NetworkInterfaceId": "eni-cb7f4bc3",
+				"OwnerId": "647461886534",
+				"PrivateDnsName": "ip-10-0-19-111.us-west-2.compute.internal",
+				"PrivateIpAddress": "10.0.19.111",
+				"PrivateIpAddresses": [{
+					"Primary": true,
+					"PrivateDnsName": "ip-10-0-19-111.us-west-2.compute.internal",
+					"PrivateIpAddress": "10.0.19.111"
+				}],
+				"SourceDestCheck": true,
+				"Status": "in-use",
+				"SubnetId": "subnet-42e5330a",
+				"VpcId": "vpc-d80f6fbe"
+			}],
+			"RootDeviceName": "/dev/sda1",
+			"RootDeviceType": "ebs",
+			"SecurityGroups": [{
+				"GroupName": "batman_sg_ssh",
+				"GroupId": "sg-687b8b15"
+			},
+			{
+				"GroupName": "batman_sg_shared_rds_access",
+				"GroupId": "sg-ab7585d6"
+			},
+			{
+				"GroupName": "batman_sg_consul",
+				"GroupId": "sg-077b8b7a"
+			},
+			{
+				"GroupName": "batman_sg_staff",
+				"GroupId": "sg-067b8b7b"
+			}],
+			"SourceDestCheck": true,
+			"Tags": [{
+				"Key": "Microservice",
+				"Value": "Staff"
+			},
+			{
+				"Key": "Name",
+				"Value": "batman - Staff"
+			},
+			{
+				"Key": "Provisioner",
+				"Value": "Terraform"
+			},
+			{
+				"Key": "Release",
+				"Value": "0.0.4.848"
+			},
+			{
+				"Key": "aws:autoscaling:groupName",
+				"Value": "batman-staff2018052417110772390000000c20180524171117732900000014"
+			},
+			{
+				"Key": "Environment",
+				"Value": "batman"
+			}],
+			"VirtualizationType": "hvm"
+		}],
+		"OwnerId": "647461886534",
+		"RequesterId": "903220451833",
+		"ReservationId": "r-0bf533fa9e618e1a1"
+	},
+	{
+		"Groups": [],
+		"Instances": [{
+			"AmiLaunchIndex": 0,
+			"ImageId": "ami-d1e299a9",
+			"InstanceId": "i-0854a60b1e486dd6c",
+			"InstanceType": "t2.small",
+			"KeyName": "amp-terraform-dev-key",
+			"LaunchTime": "2018-06-05T18:49:39.000Z",
+			"Monitoring": {
+				"State": "enabled"
+			},
+			"Placement": {
+				"AvailabilityZone": "us-west-2a",
+				"GroupName": "",
+				"Tenancy": "default"
+			},
+			"PrivateDnsName": "ip-10-0-18-119.us-west-2.compute.internal",
+			"PrivateIpAddress": "10.0.18.119",
+			"ProductCodes": [],
+			"PublicDnsName": "",
+			"State": {
+				"Code": 16,
+				"Name": "running"
+			},
+			"StateTransitionReason": "",
+			"SubnetId": "subnet-b94effdf",
+			"VpcId": "vpc-d80f6fbe",
+			"Architecture": "x86_64",
+			"BlockDeviceMappings": [{
+				"DeviceName": "/dev/sda1",
+				"Ebs": {
+					"AttachTime": "2018-06-05T18:49:40.000Z",
+					"DeleteOnTermination": true,
+					"Status": "attached",
+					"VolumeId": "vol-0e5c73643b11fe463"
+				}
+			}],
+			"ClientToken": "68558f45-21ec-a0d2-3276-2f8633584527_subnet-b94effdf_1",
+			"EbsOptimized": false,
+			"EnaSupport": true,
+			"Hypervisor": "xen",
+			"IamInstanceProfile": {
+				"Arn": "arn:aws:iam::647461886534:instance-profile/batman_connect",
+				"Id": "AIPAILUHWWLRIPLA6XCJA"
+			},
+			"ElasticGpuAssociations": [],
+			"NetworkInterfaces": [{
+				"Attachment": {
+					"AttachTime": "2018-06-05T18:49:39.000Z",
+					"AttachmentId": "eni-attach-3d262d43",
+					"DeleteOnTermination": true,
+					"DeviceIndex": 0,
+					"Status": "attached"
+				},
+				"Description": "",
+				"Groups": [{
+					"GroupName": "batman_sg_ssh",
+					"GroupId": "sg-687b8b15"
+				},
+				{
+					"GroupName": "batman_sg_chat",
+					"GroupId": "sg-1677876b"
+				}],
+				"Ipv6Addresses": [],
+				"MacAddress": "02:3b:08:cb:48:d0",
+				"NetworkInterfaceId": "eni-5d563765",
+				"OwnerId": "647461886534",
+				"PrivateDnsName": "ip-10-0-18-119.us-west-2.compute.internal",
+				"PrivateIpAddress": "10.0.18.119",
+				"PrivateIpAddresses": [{
+					"Primary": true,
+					"PrivateDnsName": "ip-10-0-18-119.us-west-2.compute.internal",
+					"PrivateIpAddress": "10.0.18.119"
+				}],
+				"SourceDestCheck": true,
+				"Status": "in-use",
+				"SubnetId": "subnet-b94effdf",
+				"VpcId": "vpc-d80f6fbe"
+			}],
+			"RootDeviceName": "/dev/sda1",
+			"RootDeviceType": "ebs",
+			"SecurityGroups": [{
+				"GroupName": "batman_sg_ssh",
+				"GroupId": "sg-687b8b15"
+			},
+			{
+				"GroupName": "batman_sg_chat",
+				"GroupId": "sg-1677876b"
+			}],
+			"SourceDestCheck": true,
+			"Tags": [{
+				"Key": "Microservice",
+				"Value": "Chat"
+			},
+			{
+				"Key": "Release",
+				"Value": "0.0.2.628"
+			},
+			{
+				"Key": "Provisioner",
+				"Value": "Terraform"
+			},
+			{
+				"Key": "Environment",
+				"Value": "batman"
+			},
+			{
+				"Key": "Name",
+				"Value": "batman - Chat"
+			},
+			{
+				"Key": "aws:autoscaling:groupName",
+				"Value": "batman-chat2018053120591759030000000220180531205919664600000006"
+			}],
+			"VirtualizationType": "hvm"
+		}],
+		"OwnerId": "647461886534",
+		"RequesterId": "903220451833",
+		"ReservationId": "r-04f82206631bec227"
+	},
+	{
+		"Groups": [],
+		"Instances": [{
+			"AmiLaunchIndex": 0,
+			"ImageId": "ami-6ce89a14",
+			"InstanceId": "i-0d8a0b27ac835f511",
+			"InstanceType": "t2.small",
+			"KeyName": "amp-terraform-dev-key",
+			"LaunchTime": "2018-06-05T18:49:36.000Z",
+			"Monitoring": {
+				"State": "enabled"
+			},
+			"Placement": {
+				"AvailabilityZone": "us-west-2b",
+				"GroupName": "",
+				"Tenancy": "default"
+			},
+			"PrivateDnsName": "ip-10-0-19-122.us-west-2.compute.internal",
+			"PrivateIpAddress": "10.0.19.122",
+			"ProductCodes": [],
+			"PublicDnsName": "",
+			"State": {
+				"Code": 16,
+				"Name": "running"
+			},
+			"StateTransitionReason": "",
+			"SubnetId": "subnet-42e5330a",
+			"VpcId": "vpc-d80f6fbe",
+			"Architecture": "x86_64",
+			"BlockDeviceMappings": [{
+				"DeviceName": "/dev/sda1",
+				"Ebs": {
+					"AttachTime": "2018-06-05T18:49:37.000Z",
+					"DeleteOnTermination": true,
+					"Status": "attached",
+					"VolumeId": "vol-08d29eca8ee5a6d95"
+				}
+			}],
+			"ClientToken": "6c558f45-21c1-7b74-e319-2173ef7ba0ac_subnet-42e5330a_1",
+			"EbsOptimized": false,
+			"EnaSupport": true,
+			"Hypervisor": "xen",
+			"IamInstanceProfile": {
+				"Arn": "arn:aws:iam::647461886534:instance-profile/batman_connect",
+				"Id": "AIPAILUHWWLRIPLA6XCJA"
+			},
+			"ElasticGpuAssociations": [],
+			"NetworkInterfaces": [{
+				"Attachment": {
+					"AttachTime": "2018-06-05T18:49:36.000Z",
+					"AttachmentId": "eni-attach-58055aac",
+					"DeleteOnTermination": true,
+					"DeviceIndex": 0,
+					"Status": "attached"
+				},
+				"Description": "",
+				"Groups": [{
+					"GroupName": "batman_sg_ssh",
+					"GroupId": "sg-687b8b15"
+				},
+				{
+					"GroupName": "batman_sg_gps",
+					"GroupId": "sg-667b8b1b"
+				}],
+				"Ipv6Addresses": [],
+				"MacAddress": "06:2b:5d:97:c8:ec",
+				"NetworkInterfaceId": "eni-e6784cee",
+				"OwnerId": "647461886534",
+				"PrivateDnsName": "ip-10-0-19-122.us-west-2.compute.internal",
+				"PrivateIpAddress": "10.0.19.122",
+				"PrivateIpAddresses": [{
+					"Primary": true,
+					"PrivateDnsName": "ip-10-0-19-122.us-west-2.compute.internal",
+					"PrivateIpAddress": "10.0.19.122"
+				}],
+				"SourceDestCheck": true,
+				"Status": "in-use",
+				"SubnetId": "subnet-42e5330a",
+				"VpcId": "vpc-d80f6fbe"
+			}],
+			"RootDeviceName": "/dev/sda1",
+			"RootDeviceType": "ebs",
+			"SecurityGroups": [{
+				"GroupName": "batman_sg_ssh",
+				"GroupId": "sg-687b8b15"
+			},
+			{
+				"GroupName": "batman_sg_gps",
+				"GroupId": "sg-667b8b1b"
+			}],
+			"SourceDestCheck": true,
+			"Tags": [{
+				"Key": "aws:autoscaling:groupName",
+				"Value": "batman-gps2018052417110456590000000520180524171116548500000010"
+			},
+			{
+				"Key": "Name",
+				"Value": "batman - GPS"
+			},
+			{
+				"Key": "Provisioner",
+				"Value": "Terraform"
+			},
+			{
+				"Key": "Release",
+				"Value": "0.0.2.717"
+			},
+			{
+				"Key": "Microservice",
+				"Value": "GPS"
+			},
+			{
+				"Key": "Environment",
+				"Value": "batman"
+			}],
+			"VirtualizationType": "hvm"
+		}],
+		"OwnerId": "647461886534",
+		"RequesterId": "903220451833",
+		"ReservationId": "r-0667554fa70934918"
+	},
+	{
+		"Groups": [],
+		"Instances": [{
+			"AmiLaunchIndex": 0,
+			"ImageId": "ami-3d1e7045",
+			"InstanceId": "i-018aedf6696732c4f",
+			"InstanceType": "t2.small",
+			"KeyName": "amp-terraform-dev-key",
+			"LaunchTime": "2018-05-22T04:47:58.000Z",
+			"Monitoring": {
+				"State": "disabled"
+			},
+			"Placement": {
+				"AvailabilityZone": "us-west-2a",
+				"GroupName": "",
+				"Tenancy": "default"
+			},
+			"PrivateDnsName": "ip-10-0-15-98.us-west-2.compute.internal",
+			"PrivateIpAddress": "10.0.15.98",
+			"ProductCodes": [],
+			"PublicDnsName": "ec2-52-41-158-140.us-west-2.compute.amazonaws.com",
+			"PublicIpAddress": "52.41.158.140",
+			"State": {
+				"Code": 16,
+				"Name": "running"
+			},
+			"StateTransitionReason": "",
+			"SubnetId": "subnet-864effe0",
+			"VpcId": "vpc-d80f6fbe",
+			"Architecture": "x86_64",
+			"BlockDeviceMappings": [{
+				"DeviceName": "/dev/sda1",
+				"Ebs": {
+					"AttachTime": "2018-05-22T04:47:59.000Z",
+					"DeleteOnTermination": true,
+					"Status": "attached",
+					"VolumeId": "vol-0a5ee457afe0f8082"
+				}
+			}],
+			"ClientToken": "",
+			"EbsOptimized": false,
+			"EnaSupport": true,
+			"Hypervisor": "xen",
+			"IamInstanceProfile": {
+				"Arn": "arn:aws:iam::647461886534:instance-profile/batman_bastion",
+				"Id": "AIPAJBSS56S4HCCYVRUUS"
+			},
+			"ElasticGpuAssociations": [],
+			"NetworkInterfaces": [{
+				"Association": {
+					"IpOwnerId": "647461886534",
+					"PublicDnsName": "ec2-52-41-158-140.us-west-2.compute.amazonaws.com",
+					"PublicIp": "52.41.158.140"
+				},
+				"Attachment": {
+					"AttachTime": "2018-05-22T04:47:58.000Z",
+					"AttachmentId": "eni-attach-c5c42505",
+					"DeleteOnTermination": true,
+					"DeviceIndex": 0,
+					"Status": "attached"
+				},
+				"Description": "",
+				"Groups": [{
+					"GroupName": "batman_sg_bastion",
+					"GroupId": "sg-047b8b79"
+				},
+				{
+					"GroupName": "batman_sg_sisense",
+					"GroupId": "sg-3a6da24b"
+				}],
+				"Ipv6Addresses": [],
+				"MacAddress": "02:8c:3a:0e:38:56",
+				"NetworkInterfaceId": "eni-18566521",
+				"OwnerId": "647461886534",
+				"PrivateDnsName": "ip-10-0-15-98.us-west-2.compute.internal",
+				"PrivateIpAddress": "10.0.15.98",
+				"PrivateIpAddresses": [{
+					"Association": {
+						"IpOwnerId": "647461886534",
+						"PublicDnsName": "ec2-52-41-158-140.us-west-2.compute.amazonaws.com",
+						"PublicIp": "52.41.158.140"
+					},
+					"Primary": true,
+					"PrivateDnsName": "ip-10-0-15-98.us-west-2.compute.internal",
+					"PrivateIpAddress": "10.0.15.98"
+				}],
+				"SourceDestCheck": true,
+				"Status": "in-use",
+				"SubnetId": "subnet-864effe0",
+				"VpcId": "vpc-d80f6fbe"
+			}],
+			"RootDeviceName": "/dev/sda1",
+			"RootDeviceType": "ebs",
+			"SecurityGroups": [{
+				"GroupName": "batman_sg_bastion",
+				"GroupId": "sg-047b8b79"
+			},
+			{
+				"GroupName": "batman_sg_sisense",
+				"GroupId": "sg-3a6da24b"
+			}],
+			"SourceDestCheck": true,
+			"Tags": [{
+				"Key": "Name",
+				"Value": "batman - SSH-Bastion"
+			},
+			{
+				"Key": "Provisioner",
+				"Value": "Terraform"
+			},
+			{
+				"Key": "Environment",
+				"Value": "batman"
+			},
+			{
+				"Key": "Release",
+				"Value": "0.0.1.70"
+			}],
+			"VirtualizationType": "hvm"
+		}],
+		"OwnerId": "647461886534",
+		"ReservationId": "r-05c3c71a052718160"
+	},
+	{
+		"Groups": [],
+		"Instances": [{
+			"AmiLaunchIndex": 0,
+			"ImageId": "ami-c29600ba",
+			"InstanceId": "i-0fc5b1dc803264535",
+			"InstanceType": "t2.small",
+			"KeyName": "amp-terraform-dev-key",
+			"LaunchTime": "2018-06-05T18:49:28.000Z",
+			"Monitoring": {
+				"State": "enabled"
+			},
+			"Placement": {
+				"AvailabilityZone": "us-west-2a",
+				"GroupName": "",
+				"Tenancy": "default"
+			},
+			"PrivateDnsName": "ip-10-0-18-144.us-west-2.compute.internal",
+			"PrivateIpAddress": "10.0.18.144",
+			"ProductCodes": [],
+			"PublicDnsName": "",
+			"State": {
+				"Code": 16,
+				"Name": "running"
+			},
+			"StateTransitionReason": "",
+			"SubnetId": "subnet-b94effdf",
+			"VpcId": "vpc-d80f6fbe",
+			"Architecture": "x86_64",
+			"BlockDeviceMappings": [{
+				"DeviceName": "/dev/sda1",
+				"Ebs": {
+					"AttachTime": "2018-06-05T18:49:29.000Z",
+					"DeleteOnTermination": true,
+					"Status": "attached",
+					"VolumeId": "vol-08c92888bde54c87e"
+				}
+			}],
+			"ClientToken": "2b658f45-213d-bc07-a3c3-3feb7cfd4b50_subnet-b94effdf_1",
+			"EbsOptimized": false,
+			"EnaSupport": true,
+			"Hypervisor": "xen",
+			"IamInstanceProfile": {
+				"Arn": "arn:aws:iam::647461886534:instance-profile/batman_RTI",
+				"Id": "AIPAJROAY3Z2RVNEKBFR6"
+			},
+			"ElasticGpuAssociations": [],
+			"NetworkInterfaces": [{
+				"Attachment": {
+					"AttachTime": "2018-06-05T18:49:28.000Z",
+					"AttachmentId": "eni-attach-2c212a52",
+					"DeleteOnTermination": true,
+					"DeviceIndex": 0,
+					"Status": "attached"
+				},
+				"Description": "",
+				"Groups": [{
+					"GroupName": "batman_sg_shared_rds_access",
+					"GroupId": "sg-ab7585d6"
+				},
+				{
+					"GroupName": "batman_sg_consul",
+					"GroupId": "sg-077b8b7a"
+				},
+				{
+					"GroupName": "batmanrtisec",
+					"GroupId": "sg-3d798940"
+				}],
+				"Ipv6Addresses": [],
+				"MacAddress": "02:82:41:5a:2e:c4",
+				"NetworkInterfaceId": "eni-3459380c",
+				"OwnerId": "647461886534",
+				"PrivateDnsName": "ip-10-0-18-144.us-west-2.compute.internal",
+				"PrivateIpAddress": "10.0.18.144",
+				"PrivateIpAddresses": [{
+					"Primary": true,
+					"PrivateDnsName": "ip-10-0-18-144.us-west-2.compute.internal",
+					"PrivateIpAddress": "10.0.18.144"
+				}],
+				"SourceDestCheck": true,
+				"Status": "in-use",
+				"SubnetId": "subnet-b94effdf",
+				"VpcId": "vpc-d80f6fbe"
+			}],
+			"RootDeviceName": "/dev/sda1",
+			"RootDeviceType": "ebs",
+			"SecurityGroups": [{
+				"GroupName": "batman_sg_shared_rds_access",
+				"GroupId": "sg-ab7585d6"
+			},
+			{
+				"GroupName": "batman_sg_consul",
+				"GroupId": "sg-077b8b7a"
+			},
+			{
+				"GroupName": "batmanrtisec",
+				"GroupId": "sg-3d798940"
+			}],
+			"SourceDestCheck": true,
+			"Tags": [{
+				"Key": "Name",
+				"Value": "batman - RTI StaffhistoryData"
+			},
+			{
+				"Key": "Environment",
+				"Value": "batman"
+			},
+			{
+				"Key": "Version",
+				"Value": "0.1.0.129"
+			},
+			{
+				"Key": "Microservice",
+				"Value": "RTI"
+			},
+			{
+				"Key": "Provisioner",
+				"Value": "Terraform"
+			},
+			{
+				"Key": "aws:autoscaling:groupName",
+				"Value": "batman-rtistaffhistorydata2018050416332470260000001920180504163332011200000022"
+			}],
+			"VirtualizationType": "hvm"
+		}],
+		"OwnerId": "647461886534",
+		"RequesterId": "903220451833",
+		"ReservationId": "r-0866690b431cd54fe"
+	},
+	{
+		"Groups": [],
+		"Instances": [{
+			"AmiLaunchIndex": 0,
+			"ImageId": "ami-f6eb998e",
+			"InstanceId": "i-0f145b42b9b48a39c",
+			"InstanceType": "t2.small",
+			"KeyName": "amp-terraform-dev-key",
+			"LaunchTime": "2018-06-05T18:49:53.000Z",
+			"Monitoring": {
+				"State": "enabled"
+			},
+			"Placement": {
+				"AvailabilityZone": "us-west-2c",
+				"GroupName": "",
+				"Tenancy": "default"
+			},
+			"PrivateDnsName": "ip-10-0-20-124.us-west-2.compute.internal",
+			"PrivateIpAddress": "10.0.20.124",
+			"ProductCodes": [],
+			"PublicDnsName": "",
+			"State": {
+				"Code": 16,
+				"Name": "running"
+			},
+			"StateTransitionReason": "",
+			"SubnetId": "subnet-9d6b2ec6",
+			"VpcId": "vpc-d80f6fbe",
+			"Architecture": "x86_64",
+			"BlockDeviceMappings": [{
+				"DeviceName": "/dev/sda1",
+				"Ebs": {
+					"AttachTime": "2018-06-05T18:49:54.000Z",
+					"DeleteOnTermination": true,
+					"Status": "attached",
+					"VolumeId": "vol-0afcd6b39d8433878"
+				}
+			}],
+			"ClientToken": "d5658f45-22c7-06a8-81e1-efa9de01ea67_subnet-9d6b2ec6_1",
+			"EbsOptimized": false,
+			"EnaSupport": true,
+			"Hypervisor": "xen",
+			"IamInstanceProfile": {
+				"Arn": "arn:aws:iam::647461886534:instance-profile/batman_connect",
+				"Id": "AIPAILUHWWLRIPLA6XCJA"
+			},
+			"ElasticGpuAssociations": [],
+			"NetworkInterfaces": [{
+				"Attachment": {
+					"AttachTime": "2018-06-05T18:49:53.000Z",
+					"AttachmentId": "eni-attach-763b6d8c",
+					"DeleteOnTermination": true,
+					"DeviceIndex": 0,
+					"Status": "attached"
+				},
+				"Description": "",
+				"Groups": [{
+					"GroupName": "batman_sg_ssh",
+					"GroupId": "sg-687b8b15"
+				},
+				{
+					"GroupName": "batman_sg_roles",
+					"GroupId": "sg-037b8b7e"
+				}],
+				"Ipv6Addresses": [],
+				"MacAddress": "0a:e7:f8:00:28:2a",
+				"NetworkInterfaceId": "eni-e7ceb5ff",
+				"OwnerId": "647461886534",
+				"PrivateDnsName": "ip-10-0-20-124.us-west-2.compute.internal",
+				"PrivateIpAddress": "10.0.20.124",
+				"PrivateIpAddresses": [{
+					"Primary": true,
+					"PrivateDnsName": "ip-10-0-20-124.us-west-2.compute.internal",
+					"PrivateIpAddress": "10.0.20.124"
+				}],
+				"SourceDestCheck": true,
+				"Status": "in-use",
+				"SubnetId": "subnet-9d6b2ec6",
+				"VpcId": "vpc-d80f6fbe"
+			}],
+			"RootDeviceName": "/dev/sda1",
+			"RootDeviceType": "ebs",
+			"SecurityGroups": [{
+				"GroupName": "batman_sg_ssh",
+				"GroupId": "sg-687b8b15"
+			},
+			{
+				"GroupName": "batman_sg_roles",
+				"GroupId": "sg-037b8b7e"
+			}],
+			"SourceDestCheck": true,
+			"Tags": [{
+				"Key": "Name",
+				"Value": "batman - Roles"
+			},
+			{
+				"Key": "aws:autoscaling:groupName",
+				"Value": "batman-roles2018052417110566660000000920180524171117851600000015"
+			},
+			{
+				"Key": "Release",
+				"Value": "1.0.6.912"
+			},
+			{
+				"Key": "Microservice",
+				"Value": "Roles"
+			},
+			{
+				"Key": "Environment",
+				"Value": "batman"
+			},
+			{
+				"Key": "Provisioner",
+				"Value": "Terraform"
+			}],
+			"VirtualizationType": "hvm"
+		}],
+		"OwnerId": "647461886534",
+		"RequesterId": "903220451833",
+		"ReservationId": "r-02ee47945b4cc7b22"
+	},
+	{
+		"Groups": [],
+		"Instances": [{
+			"AmiLaunchIndex": 0,
+			"ImageId": "ami-fc63f284",
+			"InstanceId": "i-068b10d63b7202c4e",
+			"InstanceType": "t2.small",
+			"KeyName": "amp-terraform-dev-key",
+			"LaunchTime": "2018-06-05T18:49:52.000Z",
+			"Monitoring": {
+				"State": "enabled"
+			},
+			"Placement": {
+				"AvailabilityZone": "us-west-2a",
+				"GroupName": "",
+				"Tenancy": "default"
+			},
+			"PrivateDnsName": "ip-10-0-18-249.us-west-2.compute.internal",
+			"PrivateIpAddress": "10.0.18.249",
+			"ProductCodes": [],
+			"PublicDnsName": "",
+			"State": {
+				"Code": 16,
+				"Name": "running"
+			},
+			"StateTransitionReason": "",
+			"SubnetId": "subnet-b94effdf",
+			"VpcId": "vpc-d80f6fbe",
+			"Architecture": "x86_64",
+			"BlockDeviceMappings": [{
+				"DeviceName": "/dev/sda1",
+				"Ebs": {
+					"AttachTime": "2018-06-05T18:49:53.000Z",
+					"DeleteOnTermination": true,
+					"Status": "attached",
+					"VolumeId": "vol-005b650c74d20424f"
+				}
+			}],
+			"ClientToken": "f0a58f45-22b2-3752-a84a-8722cbbc7a8f_subnet-b94effdf_1",
+			"EbsOptimized": false,
+			"EnaSupport": true,
+			"Hypervisor": "xen",
+			"IamInstanceProfile": {
+				"Arn": "arn:aws:iam::647461886534:instance-profile/batman_RTI",
+				"Id": "AIPAJROAY3Z2RVNEKBFR6"
+			},
+			"ElasticGpuAssociations": [],
+			"NetworkInterfaces": [{
+				"Attachment": {
+					"AttachTime": "2018-06-05T18:49:52.000Z",
+					"AttachmentId": "eni-attach-10252e6e",
+					"DeleteOnTermination": true,
+					"DeviceIndex": 0,
+					"Status": "attached"
+				},
+				"Description": "",
+				"Groups": [{
+					"GroupName": "batman_sg_shared_rds_access",
+					"GroupId": "sg-ab7585d6"
+				},
+				{
+					"GroupName": "batman_sg_consul",
+					"GroupId": "sg-077b8b7a"
+				},
+				{
+					"GroupName": "batmanrtisec",
+					"GroupId": "sg-3d798940"
+				}],
+				"Ipv6Addresses": [],
+				"MacAddress": "02:89:8e:01:bd:96",
+				"NetworkInterfaceId": "eni-9f5736a7",
+				"OwnerId": "647461886534",
+				"PrivateDnsName": "ip-10-0-18-249.us-west-2.compute.internal",
+				"PrivateIpAddress": "10.0.18.249",
+				"PrivateIpAddresses": [{
+					"Primary": true,
+					"PrivateDnsName": "ip-10-0-18-249.us-west-2.compute.internal",
+					"PrivateIpAddress": "10.0.18.249"
+				}],
+				"SourceDestCheck": true,
+				"Status": "in-use",
+				"SubnetId": "subnet-b94effdf",
+				"VpcId": "vpc-d80f6fbe"
+			}],
+			"RootDeviceName": "/dev/sda1",
+			"RootDeviceType": "ebs",
+			"SecurityGroups": [{
+				"GroupName": "batman_sg_shared_rds_access",
+				"GroupId": "sg-ab7585d6"
+			},
+			{
+				"GroupName": "batman_sg_consul",
+				"GroupId": "sg-077b8b7a"
+			},
+			{
+				"GroupName": "batmanrtisec",
+				"GroupId": "sg-3d798940"
+			}],
+			"SourceDestCheck": true,
+			"Tags": [{
+				"Key": "Environment",
+				"Value": "batman"
+			},
+			{
+				"Key": "Provisioner",
+				"Value": "Terraform"
+			},
+			{
+				"Key": "aws:autoscaling:groupName",
+				"Value": "batmanrtidataasgterraform-2018050416332291290000001720180504163331708300000021"
+			},
+			{
+				"Key": "Microservice",
+				"Value": "RTI Data"
+			},
+			{
+				"Key": "Release",
+				"Value": "0.1.0.94"
+			},
+			{
+				"Key": "Name",
+				"Value": "batman - RTI Data"
+			}],
+			"VirtualizationType": "hvm"
+		}],
+		"OwnerId": "647461886534",
+		"RequesterId": "903220451833",
+		"ReservationId": "r-0d53e6cc69e5e22d9"
+	}]
+}

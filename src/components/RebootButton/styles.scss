@@ -1,0 +1,21 @@
+///.icon --> +1 specificity to override semantic-ui-react styles
+.RebootButton.icon{ 
+
+    cursor:pointer;
+    margin:0;
+    height:auto;
+    font-size:1.5em;
+
+    &.happening {
+        animation: spinning 2s infinite linear;
+    }
+
+    @keyframes spinning {
+        0% {
+            transform: rotate(0deg);
+        }
+        100% {
+            transform: rotate(359deg);
+        }
+    }
+}

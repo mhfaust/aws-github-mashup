@@ -1,0 +1,18 @@
+.CommitsComparison{
+    position:relative;
+    min-height: 15em;
+    //any z-index (other than 'auto') defines a stacking context  
+    //, which we need so the contained <dimmer> doesn't apper over
+    // the navbar when <CommitsComparison> is behind it.
+    z-index: 0; 
+    .no-avatar::before{
+        font-size: 2em;
+        margin-right: -4px;
+        position: relative;
+        top: 6px;
+        color: #ddd;
+    }
+    h4{
+        margin-top:1em !important;
+    }
+}

@@ -1,0 +1,23 @@
+.Login{
+    .statusBoardContainer{
+        position:relative;
+        display:flex;
+        justify-content: space-between;
+    }
+    .compWrapper{
+        margin: 1.5em 3em;
+    }
+    i.icon.merge{
+        font-size: 1.5em; 
+        line-height: 1em; 
+        cursor: pointer;
+    }
+    .sticky{
+        margin-top:80px;
+    }
+    .prLink{margin-left:2em;}
+    .dropdown{
+        display: inline-block;
+        min-width:12em;
+    }
+}

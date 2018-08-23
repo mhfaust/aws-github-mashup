@@ -1,0 +1,53 @@
+.VpcsHome{
+    .vpcCard{
+        float:left;
+        width: 280px;
+        margin:.5em;
+        border: 1px solid #fff;
+        // background-color
+        border-radius:10px;
+        padding:10px;
+        transition: border-color 1.00s cubic-bezier(0.4, 0.0, 0.2, 1);
+    }
+    .vpcBox{
+        display: flex;
+        transition: opacity 3.00s cubic-bezier(0.4, 0.0, 0.2, 1);
+        transition: filter 3.00s cubic-bezier(0.4, 0.0, 0.2, 1);
+    }
+    h2::first-letter{
+        text-transform: uppercase;
+    }
+    .overview{
+        margin-left: 1em;
+    }
+    .awake{
+        border-color: #fff;
+        filter:grayscale(0);
+        opacity:1;
+        // box-shadow: 0 1px 2px 0 rgba(34,36,38,.15)
+    }
+    .asleep{
+        filter: grayscale(1);
+        opacity:.25;
+        .connect {display:none}
+    }
+
+    .unknown{
+        // outline:10px solid green;
+    }
+    .toggler{
+        display: block;
+        margin-left: 26px;
+        margin-top: .5em;
+    }
+    .ui.toggle.checkbox input:not(checked)~label:before{
+        background-color: #aaa;
+    }
+}
+.sleep-toggle-message{
+    padding:3em;
+    .vpcImg{
+        display:block;
+        margin:auto;
+    }
+}

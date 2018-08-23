@@ -1,0 +1,13 @@
+# dev stuff
+.vscode/
+
+/node_modules/*
+*temp.json
+/pub/bundle.js
+/pub/main.css
+/src/bundle.js
+/backend/data/experimental.js
+/npm-debug.log
+.DS_Store
+.yo-rc.json
+

@@ -1,0 +1,44 @@
+.VpcStatus{
+    z-index: 0; //establishes a stacking context.
+    padding:1em;
+    display: flex;
+    flex-direction:row;
+    align-items:start;
+    align-content: space-between;
+
+    > *{
+        margin:0 2em;
+    }
+
+    .vpc-table{
+        margin-top:0;
+    }
+    .details-link{
+        //more affordance for the click
+        margin:-1em;
+        padding:1em;
+    }
+    tr.current{
+        background-color: #fffcf4;
+        .details-link{
+            font-weight: bold;
+            color: black;
+        }
+    }
+    .vpcBasicStatsTable{
+        width:100% !important;
+        table-layout: fixed;
+    }
+    .vpcBasicStats{
+        display:flex; 
+        flex-direction:column;
+    }
+    .labelColumn{
+        min-width: 8em;
+    }
+    .statColumn{
+        width:10em
+    }
+
+
+}

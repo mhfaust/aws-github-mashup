@@ -1,0 +1,54 @@
+{
+	"ResponseMetadata": {
+		"RequestId": "55293fde-83dd-5493-bb8e-6c4f92f14282"
+	},
+	"Subscriptions": [{
+		"SubscriptionArn": "arn:aws:sns:us-west-2:647461886534:pt-vpc-d80f6fbe-BlueprintCustomerPublished:bc40841a-afa5-4b1d-b0c8-58c9fdd7b7a2",
+		"Owner": "647461886534",
+		"Protocol": "sqs",
+		"Endpoint": "arn:aws:sqs:us-west-2:647461886534:mq-vpc-d80f6fbe-timecard-backend-BlueprintCustomerPublished-inq",
+		"TopicArn": "arn:aws:sns:us-west-2:647461886534:pt-vpc-d80f6fbe-BlueprintCustomerPublished"
+	},
+	{
+		"SubscriptionArn": "arn:aws:sns:us-west-2:647461886534:pt-vpc-d80f6fbe-BlueprintCustomerPublished:315cd999-1102-4ecd-b61d-a1ba31c8b004",
+		"Owner": "647461886534",
+		"Protocol": "sqs",
+		"Endpoint": "arn:aws:sqs:us-west-2:647461886534:mq-vpc-d80f6fbe-login-backend-BlueprintCustomerPublished-inq",
+		"TopicArn": "arn:aws:sns:us-west-2:647461886534:pt-vpc-d80f6fbe-BlueprintCustomerPublished"
+	},
+	{
+		"SubscriptionArn": "arn:aws:sns:us-west-2:647461886534:pt-vpc-d80f6fbe-BlueprintCustomerPublished:bf07c930-a04d-4cfa-b278-da3b1e1647d8",
+		"Owner": "647461886534",
+		"Protocol": "sqs",
+		"Endpoint": "arn:aws:sqs:us-west-2:647461886534:batman_bridge",
+		"TopicArn": "arn:aws:sns:us-west-2:647461886534:pt-vpc-d80f6fbe-BlueprintCustomerPublished"
+	},
+	{
+		"SubscriptionArn": "arn:aws:sns:us-west-2:647461886534:pt-vpc-d80f6fbe-BlueprintCustomerPublished:617d832e-bfe0-4b1d-9145-953a27903e4d",
+		"Owner": "647461886534",
+		"Protocol": "sqs",
+		"Endpoint": "arn:aws:sqs:us-west-2:647461886534:mq-vpc-d80f6fbe-scheduling-backend-BlueprintCustomerPublished-inq",
+		"TopicArn": "arn:aws:sns:us-west-2:647461886534:pt-vpc-d80f6fbe-BlueprintCustomerPublished"
+	},
+	{
+		"SubscriptionArn": "arn:aws:sns:us-west-2:647461886534:pt-vpc-d80f6fbe-BlueprintCustomerPublished:e9876626-f297-4b9d-80d3-1f4bac481dbe",
+		"Owner": "647461886534",
+		"Protocol": "sqs",
+		"Endpoint": "arn:aws:sqs:us-west-2:647461886534:mq-vpc-d80f6fbe-billing-backend-BlueprintCustomerPublished-inq",
+		"TopicArn": "arn:aws:sns:us-west-2:647461886534:pt-vpc-d80f6fbe-BlueprintCustomerPublished"
+	},
+	{
+		"SubscriptionArn": "arn:aws:sns:us-west-2:647461886534:pt-vpc-d80f6fbe-BlueprintCustomerPublished:8f6944fa-a53e-4064-9036-d2cdcb293f7a",
+		"Owner": "647461886534",
+		"Protocol": "sqs",
+		"Endpoint": "arn:aws:sqs:us-west-2:647461886534:mq-vpc-d80f6fbe-notifications-backend-BlueprintCustomerPublished-inq",
+		"TopicArn": "arn:aws:sns:us-west-2:647461886534:pt-vpc-d80f6fbe-BlueprintCustomerPublished"
+	},
+	{
+		"SubscriptionArn": "arn:aws:sns:us-west-2:647461886534:pt-vpc-d80f6fbe-BlueprintCustomerPublished:4fc92c7e-0e6a-44a7-b491-8d4c778ca1f1",
+		"Owner": "647461886534",
+		"Protocol": "sqs",
+		"Endpoint": "arn:aws:sqs:us-west-2:647461886534:mq-vpc-d80f6fbe-job-backend-BlueprintCustomerPublished-inq",
+		"TopicArn": "arn:aws:sns:us-west-2:647461886534:pt-vpc-d80f6fbe-BlueprintCustomerPublished"
+	}]
+}
