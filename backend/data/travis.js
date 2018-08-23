@@ -27,7 +27,7 @@ async function getBuilds(repo) {
   var options = {
     protocol: 'https:',
     hostname: 'api.travis-ci.com',
-    path: '/repo/ShiftWise%2F' + repo + '/builds',
+    path: '/repo/Thecompany%2F' + repo + '/builds',
     headers: {
       'Content-Type': 'application/json',
       'Accept': 'application/json',

@@ -5,7 +5,7 @@
         "commit": {
             "author": {
                 "name": "Marc Schluper",
-                "email": "marc.schluper@shiftwise.com",
+                "email": "marc.schluper@Thecompany.com",
                 "date": "2018-05-29T22:07:31Z"
             },
             "committer": {
@@ -13,23 +13,23 @@
                 "email": "noreply@github.com",
                 "date": "2018-05-29T22:07:31Z"
             },
-            "message": "Merge pull request #194 from ShiftWise/sprint/kraken4\n\nSprint/kraken4",
+            "message": "Merge pull request #194 from Thecompany/sprint/kraken4\n\nSprint/kraken4",
             "tree": {
                 "sha": "082b978fa5e9fba89c3c78d24269397a7698c25c",
-                "url": "https://api.github.com/repos/ShiftWise/job-backend/git/trees/082b978fa5e9fba89c3c78d24269397a7698c25c"
+                "url": "https://api.github.com/repos/Thecompany/job-backend/git/trees/082b978fa5e9fba89c3c78d24269397a7698c25c"
             },
-            "url": "https://api.github.com/repos/ShiftWise/job-backend/git/commits/0de3f5a575ab4b48be55e25211156e216eb9ff99",
+            "url": "https://api.github.com/repos/Thecompany/job-backend/git/commits/0de3f5a575ab4b48be55e25211156e216eb9ff99",
             "comment_count": 0,
             "verification": {
                 "verified": true,
                 "reason": "valid",
                 "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJbDc8jCRBK7hj4Ov3rIwAAdHIIAIMuu5grdBeT9kAau91mZ7Bv\n1RIWOvghC5lve2f7of4w7zkTjkH1idf+B7NGIjOo2Mz/ELA8bijEnflvH+gO00FR\nzWWsKz/f1EQhVuVyj0X7oSmUJSf1C9daf2NI9BMUD1xbrJYQ1r4oxc+PvhCelmjX\n1cOP+/wEJSCZcFuGwDGLuQFGk8MWMrFXdup09rQrJEurrW3q8xXsIFiNvIe/ucWz\nNPRAIFC3j8SSY0CLreXt1g7Ds0yIABMF+I0da2z663tQSqc+05i+kWj/Q8H00dxl\ntg+A/Jkru8f2IGjjjaIVTFNSVqe+bkwq3HX7j5JKSO1+dq9e13LLNVSeBEei6RM=\n=CGs2\n-----END PGP SIGNATURE-----\n",
-                "payload": "tree 082b978fa5e9fba89c3c78d24269397a7698c25c\nparent c583fd508d862558714ef873542b9a33b6fe8bd8\nparent 4a5e7eb74beae467c3239e6b62675400fd052df9\nauthor Marc Schluper <Marc.Schluper@ShiftWise.com> 1527631651 -0700\ncommitter GitHub <noreply@github.com> 1527631651 -0700\n\nMerge pull request #194 from ShiftWise/sprint/kraken4\n\nSprint/kraken4"
+                "payload": "tree 082b978fa5e9fba89c3c78d24269397a7698c25c\nparent c583fd508d862558714ef873542b9a33b6fe8bd8\nparent 4a5e7eb74beae467c3239e6b62675400fd052df9\nauthor Marc Schluper <Marc.Schluper@Thecompany.com> 1527631651 -0700\ncommitter GitHub <noreply@github.com> 1527631651 -0700\n\nMerge pull request #194 from Thecompany/sprint/kraken4\n\nSprint/kraken4"
             }
         },
-        "url": "https://api.github.com/repos/ShiftWise/job-backend/commits/0de3f5a575ab4b48be55e25211156e216eb9ff99",
-        "html_url": "https://github.com/ShiftWise/job-backend/commit/0de3f5a575ab4b48be55e25211156e216eb9ff99",
-        "comments_url": "https://api.github.com/repos/ShiftWise/job-backend/commits/0de3f5a575ab4b48be55e25211156e216eb9ff99/comments",
+        "url": "https://api.github.com/repos/Thecompany/job-backend/commits/0de3f5a575ab4b48be55e25211156e216eb9ff99",
+        "html_url": "https://github.com/Thecompany/job-backend/commit/0de3f5a575ab4b48be55e25211156e216eb9ff99",
+        "comments_url": "https://api.github.com/repos/Thecompany/job-backend/commits/0de3f5a575ab4b48be55e25211156e216eb9ff99/comments",
         "author": {
             "login": "Marc-Schluper",
             "id": 30181878,
@@ -72,13 +72,13 @@
         },
         "parents": [{
             "sha": "c583fd508d862558714ef873542b9a33b6fe8bd8",
-            "url": "https://api.github.com/repos/ShiftWise/job-backend/commits/c583fd508d862558714ef873542b9a33b6fe8bd8",
-            "html_url": "https://github.com/ShiftWise/job-backend/commit/c583fd508d862558714ef873542b9a33b6fe8bd8"
+            "url": "https://api.github.com/repos/Thecompany/job-backend/commits/c583fd508d862558714ef873542b9a33b6fe8bd8",
+            "html_url": "https://github.com/Thecompany/job-backend/commit/c583fd508d862558714ef873542b9a33b6fe8bd8"
         },
         {
             "sha": "4a5e7eb74beae467c3239e6b62675400fd052df9",
-            "url": "https://api.github.com/repos/ShiftWise/job-backend/commits/4a5e7eb74beae467c3239e6b62675400fd052df9",
-            "html_url": "https://github.com/ShiftWise/job-backend/commit/4a5e7eb74beae467c3239e6b62675400fd052df9"
+            "url": "https://api.github.com/repos/Thecompany/job-backend/commits/4a5e7eb74beae467c3239e6b62675400fd052df9",
+            "html_url": "https://github.com/Thecompany/job-backend/commit/4a5e7eb74beae467c3239e6b62675400fd052df9"
         }]
     },
     {
@@ -87,7 +87,7 @@
         "commit": {
             "author": {
                 "name": "Brian W",
-                "email": "brian.warren@shiftwise.com",
+                "email": "brian.warren@Thecompany.com",
                 "date": "2018-05-29T20:24:01Z"
             },
             "committer": {
@@ -95,23 +95,23 @@
                 "email": "noreply@github.com",
                 "date": "2018-05-29T20:24:01Z"
             },
-            "message": "Merge pull request #192 from ShiftWise/feature/NEXT-7879-sqitch\n\nadded sqitch folders",
+            "message": "Merge pull request #192 from Thecompany/feature/NEXT-7879-sqitch\n\nadded sqitch folders",
             "tree": {
                 "sha": "06c110b1c9e529e90451956f7f74c05d57a6558e",
-                "url": "https://api.github.com/repos/ShiftWise/job-backend/git/trees/06c110b1c9e529e90451956f7f74c05d57a6558e"
+                "url": "https://api.github.com/repos/Thecompany/job-backend/git/trees/06c110b1c9e529e90451956f7f74c05d57a6558e"
             },
-            "url": "https://api.github.com/repos/ShiftWise/job-backend/git/commits/c583fd508d862558714ef873542b9a33b6fe8bd8",
+            "url": "https://api.github.com/repos/Thecompany/job-backend/git/commits/c583fd508d862558714ef873542b9a33b6fe8bd8",
             "comment_count": 0,
             "verification": {
                 "verified": true,
                 "reason": "valid",
                 "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJbDbbhCRBK7hj4Ov3rIwAAdHIIAAx/3/EaOKWCR8Bjd19bAXTL\neyvZXwWXOv+mgD00tzRg38piSB6EJCN/rrplk8VqxI/eRA4+BQ4kflDbRKOgjsME\nmcZEp6sV58wQVT6AZHtP87702yT2YlHSbcAMjUZcWMT3PI+8BbJnTTWVnpzoeunL\nghgztdTOipwikRy46KP0JwDJ0Rqa1ACqjH7+NvXuSWuChb3LUWqiJY2Bq2V7FvtS\nEVd20wgkEwWtF1w0RewTL08zDb1+aIKyODZH0UjmoDEpZVCiIDSFfVbG6peNHgYJ\nYPtvMgZUqHYPCFueO4MaPccj/ES9bs+MNmLfwOEcwjOMru0GFJYStEYRjr1RHQ0=\n=7oTW\n-----END PGP SIGNATURE-----\n",
-                "payload": "tree 06c110b1c9e529e90451956f7f74c05d57a6558e\nparent 316ee85993da84d79c89e91488139bd244cba54b\nparent 9ee57d5f6b53c414945cec7943e2acfef6600c44\nauthor Brian W <brian.warren@shiftwise.com> 1527625441 -0700\ncommitter GitHub <noreply@github.com> 1527625441 -0700\n\nMerge pull request #192 from ShiftWise/feature/NEXT-7879-sqitch\n\nadded sqitch folders"
+                "payload": "tree 06c110b1c9e529e90451956f7f74c05d57a6558e\nparent 316ee85993da84d79c89e91488139bd244cba54b\nparent 9ee57d5f6b53c414945cec7943e2acfef6600c44\nauthor Brian W <brian.warren@Thecompany.com> 1527625441 -0700\ncommitter GitHub <noreply@github.com> 1527625441 -0700\n\nMerge pull request #192 from Thecompany/feature/NEXT-7879-sqitch\n\nadded sqitch folders"
             }
         },
-        "url": "https://api.github.com/repos/ShiftWise/job-backend/commits/c583fd508d862558714ef873542b9a33b6fe8bd8",
-        "html_url": "https://github.com/ShiftWise/job-backend/commit/c583fd508d862558714ef873542b9a33b6fe8bd8",
-        "comments_url": "https://api.github.com/repos/ShiftWise/job-backend/commits/c583fd508d862558714ef873542b9a33b6fe8bd8/comments",
+        "url": "https://api.github.com/repos/Thecompany/job-backend/commits/c583fd508d862558714ef873542b9a33b6fe8bd8",
+        "html_url": "https://github.com/Thecompany/job-backend/commit/c583fd508d862558714ef873542b9a33b6fe8bd8",
+        "comments_url": "https://api.github.com/repos/Thecompany/job-backend/commits/c583fd508d862558714ef873542b9a33b6fe8bd8/comments",
         "author": {
             "login": "brian-sw",
             "id": 24942849,
@@ -154,13 +154,13 @@
         },
         "parents": [{
             "sha": "316ee85993da84d79c89e91488139bd244cba54b",
-            "url": "https://api.github.com/repos/ShiftWise/job-backend/commits/316ee85993da84d79c89e91488139bd244cba54b",
-            "html_url": "https://github.com/ShiftWise/job-backend/commit/316ee85993da84d79c89e91488139bd244cba54b"
+            "url": "https://api.github.com/repos/Thecompany/job-backend/commits/316ee85993da84d79c89e91488139bd244cba54b",
+            "html_url": "https://github.com/Thecompany/job-backend/commit/316ee85993da84d79c89e91488139bd244cba54b"
         },
         {
             "sha": "9ee57d5f6b53c414945cec7943e2acfef6600c44",
-            "url": "https://api.github.com/repos/ShiftWise/job-backend/commits/9ee57d5f6b53c414945cec7943e2acfef6600c44",
-            "html_url": "https://github.com/ShiftWise/job-backend/commit/9ee57d5f6b53c414945cec7943e2acfef6600c44"
+            "url": "https://api.github.com/repos/Thecompany/job-backend/commits/9ee57d5f6b53c414945cec7943e2acfef6600c44",
+            "html_url": "https://github.com/Thecompany/job-backend/commit/9ee57d5f6b53c414945cec7943e2acfef6600c44"
         }]
     },
     {
@@ -169,7 +169,7 @@
         "commit": {
             "author": {
                 "name": "Mike",
-                "email": "38436885+mhfaust-shiftwise@users.noreply.github.com",
+                "email": "38436885+mhfaust-Thecompany@users.noreply.github.com",
                 "date": "2018-05-29T17:28:59Z"
             },
             "committer": {
@@ -177,40 +177,40 @@
                 "email": "noreply@github.com",
                 "date": "2018-05-29T17:28:59Z"
             },
-            "message": "Merge pull request #190 from ShiftWise/feature/NEXT-9020-notification-for-chat-message\n\nfeature/NEXT-9020-notifications-for-chat-messages",
+            "message": "Merge pull request #190 from Thecompany/feature/NEXT-9020-notification-for-chat-message\n\nfeature/NEXT-9020-notifications-for-chat-messages",
             "tree": {
                 "sha": "6d57c3cbbabf0b866fdedc4ecf9f7d974d3e6679",
-                "url": "https://api.github.com/repos/ShiftWise/job-backend/git/trees/6d57c3cbbabf0b866fdedc4ecf9f7d974d3e6679"
+                "url": "https://api.github.com/repos/Thecompany/job-backend/git/trees/6d57c3cbbabf0b866fdedc4ecf9f7d974d3e6679"
             },
-            "url": "https://api.github.com/repos/ShiftWise/job-backend/git/commits/4a5e7eb74beae467c3239e6b62675400fd052df9",
+            "url": "https://api.github.com/repos/Thecompany/job-backend/git/commits/4a5e7eb74beae467c3239e6b62675400fd052df9",
             "comment_count": 0,
             "verification": {
                 "verified": true,
                 "reason": "valid",
                 "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJbDY3bCRBK7hj4Ov3rIwAAdHIIAC+yJFekp1HyQZVQZMiMcJnh\nAndux8Pl0v4TOU+VFzPsDENO3ed6bydo4QLAy0SWKW7xnacg9QadhaB8RkOhMOKj\nOriyhLfbk9pwJs7bZM+yRICTEvH3QvydV3kjdtAbT8uyJxIYezuJbjaZha1273n7\nRGSiXX9/prFbCoMb5enATBhhiewm3qpAChX0TKQx3E2Wjhr30/FvbCAcZFeZcgRN\nP5b4ZEYQb2Ox4IL0T3XFsP6PnR+Ak8Zz3/kEbFUeXpGQdgZ7m48X8FKz0C0HiXO/\n9IgC28nAVb5K0CQtvQstuidWGTtidHkZMqC8MixePQPAxKGp9MKWxqz9krUTDEM=\n=poYo\n-----END PGP SIGNATURE-----\n",
-                "payload": "tree 6d57c3cbbabf0b866fdedc4ecf9f7d974d3e6679\nparent ce5651dfbe517aab67784764768a4fca585bf070\nparent 5b24ec3efeda51f6e5b564f482c24439beda0a25\nauthor Mike <38436885+mhfaust-shiftwise@users.noreply.github.com> 1527614939 -0700\ncommitter GitHub <noreply@github.com> 1527614939 -0700\n\nMerge pull request #190 from ShiftWise/feature/NEXT-9020-notification-for-chat-message\n\nfeature/NEXT-9020-notifications-for-chat-messages"
+                "payload": "tree 6d57c3cbbabf0b866fdedc4ecf9f7d974d3e6679\nparent ce5651dfbe517aab67784764768a4fca585bf070\nparent 5b24ec3efeda51f6e5b564f482c24439beda0a25\nauthor Mike <38436885+mhfaust-Thecompany@users.noreply.github.com> 1527614939 -0700\ncommitter GitHub <noreply@github.com> 1527614939 -0700\n\nMerge pull request #190 from Thecompany/feature/NEXT-9020-notification-for-chat-message\n\nfeature/NEXT-9020-notifications-for-chat-messages"
             }
         },
-        "url": "https://api.github.com/repos/ShiftWise/job-backend/commits/4a5e7eb74beae467c3239e6b62675400fd052df9",
-        "html_url": "https://github.com/ShiftWise/job-backend/commit/4a5e7eb74beae467c3239e6b62675400fd052df9",
-        "comments_url": "https://api.github.com/repos/ShiftWise/job-backend/commits/4a5e7eb74beae467c3239e6b62675400fd052df9/comments",
+        "url": "https://api.github.com/repos/Thecompany/job-backend/commits/4a5e7eb74beae467c3239e6b62675400fd052df9",
+        "html_url": "https://github.com/Thecompany/job-backend/commit/4a5e7eb74beae467c3239e6b62675400fd052df9",
+        "comments_url": "https://api.github.com/repos/Thecompany/job-backend/commits/4a5e7eb74beae467c3239e6b62675400fd052df9/comments",
         "author": {
-            "login": "mhfaust-shiftwise",
+            "login": "mhfaust-Thecompany",
             "id": 38436885,
             "node_id": "MDQ6VXNlcjM4NDM2ODg1",
             "avatar_url": "https://avatars3.githubusercontent.com/u/38436885?v=4",
             "gravatar_id": "",
-            "url": "https://api.github.com/users/mhfaust-shiftwise",
-            "html_url": "https://github.com/mhfaust-shiftwise",
-            "followers_url": "https://api.github.com/users/mhfaust-shiftwise/followers",
-            "following_url": "https://api.github.com/users/mhfaust-shiftwise/following{/other_user}",
-            "gists_url": "https://api.github.com/users/mhfaust-shiftwise/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/mhfaust-shiftwise/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/mhfaust-shiftwise/subscriptions",
-            "organizations_url": "https://api.github.com/users/mhfaust-shiftwise/orgs",
-            "repos_url": "https://api.github.com/users/mhfaust-shiftwise/repos",
-            "events_url": "https://api.github.com/users/mhfaust-shiftwise/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/mhfaust-shiftwise/received_events",
+            "url": "https://api.github.com/users/mhfaust-Thecompany",
+            "html_url": "https://github.com/mhfaust-Thecompany",
+            "followers_url": "https://api.github.com/users/mhfaust-Thecompany/followers",
+            "following_url": "https://api.github.com/users/mhfaust-Thecompany/following{/other_user}",
+            "gists_url": "https://api.github.com/users/mhfaust-Thecompany/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/mhfaust-Thecompany/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/mhfaust-Thecompany/subscriptions",
+            "organizations_url": "https://api.github.com/users/mhfaust-Thecompany/orgs",
+            "repos_url": "https://api.github.com/users/mhfaust-Thecompany/repos",
+            "events_url": "https://api.github.com/users/mhfaust-Thecompany/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/mhfaust-Thecompany/received_events",
             "type": "User",
             "site_admin": false
         },
@@ -236,13 +236,13 @@
         },
         "parents": [{
             "sha": "ce5651dfbe517aab67784764768a4fca585bf070",
-            "url": "https://api.github.com/repos/ShiftWise/job-backend/commits/ce5651dfbe517aab67784764768a4fca585bf070",
-            "html_url": "https://github.com/ShiftWise/job-backend/commit/ce5651dfbe517aab67784764768a4fca585bf070"
+            "url": "https://api.github.com/repos/Thecompany/job-backend/commits/ce5651dfbe517aab67784764768a4fca585bf070",
+            "html_url": "https://github.com/Thecompany/job-backend/commit/ce5651dfbe517aab67784764768a4fca585bf070"
         },
         {
             "sha": "5b24ec3efeda51f6e5b564f482c24439beda0a25",
-            "url": "https://api.github.com/repos/ShiftWise/job-backend/commits/5b24ec3efeda51f6e5b564f482c24439beda0a25",
-            "html_url": "https://github.com/ShiftWise/job-backend/commit/5b24ec3efeda51f6e5b564f482c24439beda0a25"
+            "url": "https://api.github.com/repos/Thecompany/job-backend/commits/5b24ec3efeda51f6e5b564f482c24439beda0a25",
+            "html_url": "https://github.com/Thecompany/job-backend/commit/5b24ec3efeda51f6e5b564f482c24439beda0a25"
         }]
     },
     {
@@ -251,20 +251,20 @@
         "commit": {
             "author": {
                 "name": "Mike Hildebrand-Faust",
-                "email": "mike.faust@shiftwise.com",
+                "email": "mike.faust@Thecompany.com",
                 "date": "2018-05-26T04:13:20Z"
             },
             "committer": {
                 "name": "Mike Hildebrand-Faust",
-                "email": "mike.faust@shiftwise.com",
+                "email": "mike.faust@Thecompany.com",
                 "date": "2018-05-26T04:13:20Z"
             },
             "message": "Service test",
             "tree": {
                 "sha": "bc274515c0c6867bc9deb75152ccac0face19b5e",
-                "url": "https://api.github.com/repos/ShiftWise/job-backend/git/trees/bc274515c0c6867bc9deb75152ccac0face19b5e"
+                "url": "https://api.github.com/repos/Thecompany/job-backend/git/trees/bc274515c0c6867bc9deb75152ccac0face19b5e"
             },
-            "url": "https://api.github.com/repos/ShiftWise/job-backend/git/commits/5b24ec3efeda51f6e5b564f482c24439beda0a25",
+            "url": "https://api.github.com/repos/Thecompany/job-backend/git/commits/5b24ec3efeda51f6e5b564f482c24439beda0a25",
             "comment_count": 0,
             "verification": {
                 "verified": false,
@@ -273,9 +273,9 @@
                 "payload": null
             }
         },
-        "url": "https://api.github.com/repos/ShiftWise/job-backend/commits/5b24ec3efeda51f6e5b564f482c24439beda0a25",
-        "html_url": "https://github.com/ShiftWise/job-backend/commit/5b24ec3efeda51f6e5b564f482c24439beda0a25",
-        "comments_url": "https://api.github.com/repos/ShiftWise/job-backend/commits/5b24ec3efeda51f6e5b564f482c24439beda0a25/comments",
+        "url": "https://api.github.com/repos/Thecompany/job-backend/commits/5b24ec3efeda51f6e5b564f482c24439beda0a25",
+        "html_url": "https://github.com/Thecompany/job-backend/commit/5b24ec3efeda51f6e5b564f482c24439beda0a25",
+        "comments_url": "https://api.github.com/repos/Thecompany/job-backend/commits/5b24ec3efeda51f6e5b564f482c24439beda0a25/comments",
         "author": {
             "login": "mhfaust-sw",
             "id": 29869680,
@@ -318,8 +318,8 @@
         },
         "parents": [{
             "sha": "d6fb4fdb9afa7120f369792cbdc9acdeeb46f37b",
-            "url": "https://api.github.com/repos/ShiftWise/job-backend/commits/d6fb4fdb9afa7120f369792cbdc9acdeeb46f37b",
-            "html_url": "https://github.com/ShiftWise/job-backend/commit/d6fb4fdb9afa7120f369792cbdc9acdeeb46f37b"
+            "url": "https://api.github.com/repos/Thecompany/job-backend/commits/d6fb4fdb9afa7120f369792cbdc9acdeeb46f37b",
+            "html_url": "https://github.com/Thecompany/job-backend/commit/d6fb4fdb9afa7120f369792cbdc9acdeeb46f37b"
         }]
     },
     {
@@ -328,7 +328,7 @@
         "commit": {
             "author": {
                 "name": "Kayla Gould",
-                "email": "kayla.gould@shiftwise.com",
+                "email": "kayla.gould@Thecompany.com",
                 "date": "2018-05-26T01:20:50Z"
             },
             "committer": {
@@ -336,23 +336,23 @@
                 "email": "noreply@github.com",
                 "date": "2018-05-26T01:20:50Z"
             },
-            "message": "Merge pull request #187 from ShiftWise/feature/NEXT-10204-taskCompletion\n\nFeature/next 10204 task completion",
+            "message": "Merge pull request #187 from Thecompany/feature/NEXT-10204-taskCompletion\n\nFeature/next 10204 task completion",
             "tree": {
                 "sha": "89e55b57c31f6033b23cece618cf1c81c5be89b0",
-                "url": "https://api.github.com/repos/ShiftWise/job-backend/git/trees/89e55b57c31f6033b23cece618cf1c81c5be89b0"
+                "url": "https://api.github.com/repos/Thecompany/job-backend/git/trees/89e55b57c31f6033b23cece618cf1c81c5be89b0"
             },
-            "url": "https://api.github.com/repos/ShiftWise/job-backend/git/commits/ce5651dfbe517aab67784764768a4fca585bf070",
+            "url": "https://api.github.com/repos/Thecompany/job-backend/git/commits/ce5651dfbe517aab67784764768a4fca585bf070",
             "comment_count": 0,
             "verification": {
                 "verified": true,
                 "reason": "valid",
                 "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJbCLZyCRBK7hj4Ov3rIwAAdHIIABjkt7KtimA3uhKX0oH61d5O\nkY0we6DEu3jRajs7YEXf3LZ5COcc4nYlYNPchLTo5ts7zjdf5gcp5pJM2wnzxyZm\n4UNt9fwikFHXFIsU/lIVgvbsRxwAGMhPDeExcRplpaG3En2hp646wlYj0FCATkgT\nKaeLTLpuNN3kHH/3twTT2GrNsrZTrfq5MBDAkZrOUKZg+MfeLgKD+qXA7oVaILLa\nRhoQgGHeWmLOqKnjI+mNoa3pXMvbumTSOTBPXFVxkB+Ipjgb+hPtTIdYyqlWQErU\nCCNQKIBm7JI+cBxLvyRzDBDKGpZnv0Je0MsEWNVuz0LW/LSTy10uEtqVIBmnMg0=\n=WC8R\n-----END PGP SIGNATURE-----\n",
-                "payload": "tree 89e55b57c31f6033b23cece618cf1c81c5be89b0\nparent 1836c956cc198331d82a3e710aa9bdc5f8540470\nparent d9729d008bfee1c803f7a63a9466132f13487ff0\nauthor Kayla Gould <kayla.gould@shiftwise.com> 1527297650 -0700\ncommitter GitHub <noreply@github.com> 1527297650 -0700\n\nMerge pull request #187 from ShiftWise/feature/NEXT-10204-taskCompletion\n\nFeature/next 10204 task completion"
+                "payload": "tree 89e55b57c31f6033b23cece618cf1c81c5be89b0\nparent 1836c956cc198331d82a3e710aa9bdc5f8540470\nparent d9729d008bfee1c803f7a63a9466132f13487ff0\nauthor Kayla Gould <kayla.gould@Thecompany.com> 1527297650 -0700\ncommitter GitHub <noreply@github.com> 1527297650 -0700\n\nMerge pull request #187 from Thecompany/feature/NEXT-10204-taskCompletion\n\nFeature/next 10204 task completion"
             }
         },
-        "url": "https://api.github.com/repos/ShiftWise/job-backend/commits/ce5651dfbe517aab67784764768a4fca585bf070",
-        "html_url": "https://github.com/ShiftWise/job-backend/commit/ce5651dfbe517aab67784764768a4fca585bf070",
-        "comments_url": "https://api.github.com/repos/ShiftWise/job-backend/commits/ce5651dfbe517aab67784764768a4fca585bf070/comments",
+        "url": "https://api.github.com/repos/Thecompany/job-backend/commits/ce5651dfbe517aab67784764768a4fca585bf070",
+        "html_url": "https://github.com/Thecompany/job-backend/commit/ce5651dfbe517aab67784764768a4fca585bf070",
+        "comments_url": "https://api.github.com/repos/Thecompany/job-backend/commits/ce5651dfbe517aab67784764768a4fca585bf070/comments",
         "author": {
             "login": "kgould-sw",
             "id": 27228439,
@@ -395,13 +395,13 @@
         },
         "parents": [{
             "sha": "1836c956cc198331d82a3e710aa9bdc5f8540470",
-            "url": "https://api.github.com/repos/ShiftWise/job-backend/commits/1836c956cc198331d82a3e710aa9bdc5f8540470",
-            "html_url": "https://github.com/ShiftWise/job-backend/commit/1836c956cc198331d82a3e710aa9bdc5f8540470"
+            "url": "https://api.github.com/repos/Thecompany/job-backend/commits/1836c956cc198331d82a3e710aa9bdc5f8540470",
+            "html_url": "https://github.com/Thecompany/job-backend/commit/1836c956cc198331d82a3e710aa9bdc5f8540470"
         },
         {
             "sha": "d9729d008bfee1c803f7a63a9466132f13487ff0",
-            "url": "https://api.github.com/repos/ShiftWise/job-backend/commits/d9729d008bfee1c803f7a63a9466132f13487ff0",
-            "html_url": "https://github.com/ShiftWise/job-backend/commit/d9729d008bfee1c803f7a63a9466132f13487ff0"
+            "url": "https://api.github.com/repos/Thecompany/job-backend/commits/d9729d008bfee1c803f7a63a9466132f13487ff0",
+            "html_url": "https://github.com/Thecompany/job-backend/commit/d9729d008bfee1c803f7a63a9466132f13487ff0"
         }]
     },
     {
@@ -410,20 +410,20 @@
         "commit": {
             "author": {
                 "name": "Mike Hildebrand-Faust",
-                "email": "mike.faust@shiftwise.com",
+                "email": "mike.faust@Thecompany.com",
                 "date": "2018-05-25T23:29:46Z"
             },
             "committer": {
                 "name": "Mike Hildebrand-Faust",
-                "email": "mike.faust@shiftwise.com",
+                "email": "mike.faust@Thecompany.com",
                 "date": "2018-05-25T23:29:46Z"
             },
             "message": "Refactored Biz method to take in Object instead of 11 arguments. Unit tests",
             "tree": {
                 "sha": "e40e87b35b6c178d9d3dc286eb71c77e0b714dd6",
-                "url": "https://api.github.com/repos/ShiftWise/job-backend/git/trees/e40e87b35b6c178d9d3dc286eb71c77e0b714dd6"
+                "url": "https://api.github.com/repos/Thecompany/job-backend/git/trees/e40e87b35b6c178d9d3dc286eb71c77e0b714dd6"
             },
-            "url": "https://api.github.com/repos/ShiftWise/job-backend/git/commits/d6fb4fdb9afa7120f369792cbdc9acdeeb46f37b",
+            "url": "https://api.github.com/repos/Thecompany/job-backend/git/commits/d6fb4fdb9afa7120f369792cbdc9acdeeb46f37b",
             "comment_count": 0,
             "verification": {
                 "verified": false,
@@ -432,9 +432,9 @@
                 "payload": null
             }
         },
-        "url": "https://api.github.com/repos/ShiftWise/job-backend/commits/d6fb4fdb9afa7120f369792cbdc9acdeeb46f37b",
-        "html_url": "https://github.com/ShiftWise/job-backend/commit/d6fb4fdb9afa7120f369792cbdc9acdeeb46f37b",
-        "comments_url": "https://api.github.com/repos/ShiftWise/job-backend/commits/d6fb4fdb9afa7120f369792cbdc9acdeeb46f37b/comments",
+        "url": "https://api.github.com/repos/Thecompany/job-backend/commits/d6fb4fdb9afa7120f369792cbdc9acdeeb46f37b",
+        "html_url": "https://github.com/Thecompany/job-backend/commit/d6fb4fdb9afa7120f369792cbdc9acdeeb46f37b",
+        "comments_url": "https://api.github.com/repos/Thecompany/job-backend/commits/d6fb4fdb9afa7120f369792cbdc9acdeeb46f37b/comments",
         "author": {
             "login": "mhfaust-sw",
             "id": 29869680,
@@ -477,8 +477,8 @@
         },
         "parents": [{
             "sha": "59cf0b292d58cc0f507ca3ff4d8f8cd372942932",
-            "url": "https://api.github.com/repos/ShiftWise/job-backend/commits/59cf0b292d58cc0f507ca3ff4d8f8cd372942932",
-            "html_url": "https://github.com/ShiftWise/job-backend/commit/59cf0b292d58cc0f507ca3ff4d8f8cd372942932"
+            "url": "https://api.github.com/repos/Thecompany/job-backend/commits/59cf0b292d58cc0f507ca3ff4d8f8cd372942932",
+            "html_url": "https://github.com/Thecompany/job-backend/commit/59cf0b292d58cc0f507ca3ff4d8f8cd372942932"
         }]
     },
     {
@@ -487,20 +487,20 @@
         "commit": {
             "author": {
                 "name": "brian-sw",
-                "email": "brian.warren@shiftwise.com",
+                "email": "brian.warren@Thecompany.com",
                 "date": "2018-05-25T19:55:18Z"
             },
             "committer": {
                 "name": "brian-sw",
-                "email": "brian.warren@shiftwise.com",
+                "email": "brian.warren@Thecompany.com",
                 "date": "2018-05-25T19:55:18Z"
             },
             "message": "added sqitch folders",
             "tree": {
                 "sha": "23d3d3f61906a14fba27fc4abdc4e074d37f6520",
-                "url": "https://api.github.com/repos/ShiftWise/job-backend/git/trees/23d3d3f61906a14fba27fc4abdc4e074d37f6520"
+                "url": "https://api.github.com/repos/Thecompany/job-backend/git/trees/23d3d3f61906a14fba27fc4abdc4e074d37f6520"
             },
-            "url": "https://api.github.com/repos/ShiftWise/job-backend/git/commits/9ee57d5f6b53c414945cec7943e2acfef6600c44",
+            "url": "https://api.github.com/repos/Thecompany/job-backend/git/commits/9ee57d5f6b53c414945cec7943e2acfef6600c44",
             "comment_count": 0,
             "verification": {
                 "verified": false,
@@ -509,9 +509,9 @@
                 "payload": null
             }
         },
-        "url": "https://api.github.com/repos/ShiftWise/job-backend/commits/9ee57d5f6b53c414945cec7943e2acfef6600c44",
-        "html_url": "https://github.com/ShiftWise/job-backend/commit/9ee57d5f6b53c414945cec7943e2acfef6600c44",
-        "comments_url": "https://api.github.com/repos/ShiftWise/job-backend/commits/9ee57d5f6b53c414945cec7943e2acfef6600c44/comments",
+        "url": "https://api.github.com/repos/Thecompany/job-backend/commits/9ee57d5f6b53c414945cec7943e2acfef6600c44",
+        "html_url": "https://github.com/Thecompany/job-backend/commit/9ee57d5f6b53c414945cec7943e2acfef6600c44",
+        "comments_url": "https://api.github.com/repos/Thecompany/job-backend/commits/9ee57d5f6b53c414945cec7943e2acfef6600c44/comments",
         "author": {
             "login": "brian-sw",
             "id": 24942849,
@@ -554,8 +554,8 @@
         },
         "parents": [{
             "sha": "cc91d74dc74b0802d494482cd4523ef82ceefe21",
-            "url": "https://api.github.com/repos/ShiftWise/job-backend/commits/cc91d74dc74b0802d494482cd4523ef82ceefe21",
-            "html_url": "https://github.com/ShiftWise/job-backend/commit/cc91d74dc74b0802d494482cd4523ef82ceefe21"
+            "url": "https://api.github.com/repos/Thecompany/job-backend/commits/cc91d74dc74b0802d494482cd4523ef82ceefe21",
+            "html_url": "https://github.com/Thecompany/job-backend/commit/cc91d74dc74b0802d494482cd4523ef82ceefe21"
         }]
     },
     {
@@ -564,20 +564,20 @@
         "commit": {
             "author": {
                 "name": "Mike Hildebrand-Faust",
-                "email": "mike.faust@shiftwise.com",
+                "email": "mike.faust@Thecompany.com",
                 "date": "2018-05-25T14:24:17Z"
             },
             "committer": {
                 "name": "Mike Hildebrand-Faust",
-                "email": "mike.faust@shiftwise.com",
+                "email": "mike.faust@Thecompany.com",
                 "date": "2018-05-25T14:24:17Z"
             },
             "message": "latest chat package w/o beta",
             "tree": {
                 "sha": "5063fa172308f503e0401f903a7c97b9905ed8b8",
-                "url": "https://api.github.com/repos/ShiftWise/job-backend/git/trees/5063fa172308f503e0401f903a7c97b9905ed8b8"
+                "url": "https://api.github.com/repos/Thecompany/job-backend/git/trees/5063fa172308f503e0401f903a7c97b9905ed8b8"
             },
-            "url": "https://api.github.com/repos/ShiftWise/job-backend/git/commits/59cf0b292d58cc0f507ca3ff4d8f8cd372942932",
+            "url": "https://api.github.com/repos/Thecompany/job-backend/git/commits/59cf0b292d58cc0f507ca3ff4d8f8cd372942932",
             "comment_count": 0,
             "verification": {
                 "verified": false,
@@ -586,9 +586,9 @@
                 "payload": null
             }
         },
-        "url": "https://api.github.com/repos/ShiftWise/job-backend/commits/59cf0b292d58cc0f507ca3ff4d8f8cd372942932",
-        "html_url": "https://github.com/ShiftWise/job-backend/commit/59cf0b292d58cc0f507ca3ff4d8f8cd372942932",
-        "comments_url": "https://api.github.com/repos/ShiftWise/job-backend/commits/59cf0b292d58cc0f507ca3ff4d8f8cd372942932/comments",
+        "url": "https://api.github.com/repos/Thecompany/job-backend/commits/59cf0b292d58cc0f507ca3ff4d8f8cd372942932",
+        "html_url": "https://github.com/Thecompany/job-backend/commit/59cf0b292d58cc0f507ca3ff4d8f8cd372942932",
+        "comments_url": "https://api.github.com/repos/Thecompany/job-backend/commits/59cf0b292d58cc0f507ca3ff4d8f8cd372942932/comments",
         "author": {
             "login": "mhfaust-sw",
             "id": 29869680,
@@ -631,8 +631,8 @@
         },
         "parents": [{
             "sha": "c6695647538c0ed742e477dd5637aa02e2c1e9e1",
-            "url": "https://api.github.com/repos/ShiftWise/job-backend/commits/c6695647538c0ed742e477dd5637aa02e2c1e9e1",
-            "html_url": "https://github.com/ShiftWise/job-backend/commit/c6695647538c0ed742e477dd5637aa02e2c1e9e1"
+            "url": "https://api.github.com/repos/Thecompany/job-backend/commits/c6695647538c0ed742e477dd5637aa02e2c1e9e1",
+            "html_url": "https://github.com/Thecompany/job-backend/commit/c6695647538c0ed742e477dd5637aa02e2c1e9e1"
         }]
     },
     {
@@ -649,23 +649,23 @@
                 "email": "noreply@github.com",
                 "date": "2018-05-24T22:34:33Z"
             },
-            "message": "Merge pull request #191 from ShiftWise/feature/no-quotes\n\nremove quotes",
+            "message": "Merge pull request #191 from Thecompany/feature/no-quotes\n\nremove quotes",
             "tree": {
                 "sha": "c02e27381c4e0014c8c6826620b35ea07307a19e",
-                "url": "https://api.github.com/repos/ShiftWise/job-backend/git/trees/c02e27381c4e0014c8c6826620b35ea07307a19e"
+                "url": "https://api.github.com/repos/Thecompany/job-backend/git/trees/c02e27381c4e0014c8c6826620b35ea07307a19e"
             },
-            "url": "https://api.github.com/repos/ShiftWise/job-backend/git/commits/316ee85993da84d79c89e91488139bd244cba54b",
+            "url": "https://api.github.com/repos/Thecompany/job-backend/git/commits/316ee85993da84d79c89e91488139bd244cba54b",
             "comment_count": 0,
             "verification": {
                 "verified": true,
                 "reason": "valid",
                 "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJbBz35CRBK7hj4Ov3rIwAAdHIIAFjrEymam9kIdOe9XYACLAgy\npx4VBwYZJVNMHqQL1jE5IAqCGZDs707ncMuQwJ3RtANUz2K/3Rnf6Pt9OPj46j1S\nnEdAkRmP9TQHsm3k1tBs8wsbhwzGwpur9uMbhGSPt5e7r3iByjb6zxl2lwXRGoFs\n/UwNfmw7Q3pzFnSGdh535GMb/X/3ufcXRrQSDgwynYe9icEAbUgcVkvFCDtIDir6\nrXz1kNOC3d0UKLuE1JmuZ1Fd8TEn4oL7y9BvlV5gTeSpSZhVHfZ0dy8Z4H1YNB0w\nUGcwft42+c2dWTVQTTNn/UrDoY00CHWWF5AyPbuF6gQyyX9M3hEOeyShawHIrlc=\n=Z4ep\n-----END PGP SIGNATURE-----\n",
-                "payload": "tree c02e27381c4e0014c8c6826620b35ea07307a19e\nparent a78f6815051e72bc9544cec5afd0c15ae4aa1a70\nparent e29f1c7c3a8521adcace8e0088b2b4dd21dabde5\nauthor AlexMaciasRocha <37882809+AlexMaciasRocha@users.noreply.github.com> 1527201273 -0500\ncommitter GitHub <noreply@github.com> 1527201273 -0500\n\nMerge pull request #191 from ShiftWise/feature/no-quotes\n\nremove quotes"
+                "payload": "tree c02e27381c4e0014c8c6826620b35ea07307a19e\nparent a78f6815051e72bc9544cec5afd0c15ae4aa1a70\nparent e29f1c7c3a8521adcace8e0088b2b4dd21dabde5\nauthor AlexMaciasRocha <37882809+AlexMaciasRocha@users.noreply.github.com> 1527201273 -0500\ncommitter GitHub <noreply@github.com> 1527201273 -0500\n\nMerge pull request #191 from Thecompany/feature/no-quotes\n\nremove quotes"
             }
         },
-        "url": "https://api.github.com/repos/ShiftWise/job-backend/commits/316ee85993da84d79c89e91488139bd244cba54b",
-        "html_url": "https://github.com/ShiftWise/job-backend/commit/316ee85993da84d79c89e91488139bd244cba54b",
-        "comments_url": "https://api.github.com/repos/ShiftWise/job-backend/commits/316ee85993da84d79c89e91488139bd244cba54b/comments",
+        "url": "https://api.github.com/repos/Thecompany/job-backend/commits/316ee85993da84d79c89e91488139bd244cba54b",
+        "html_url": "https://github.com/Thecompany/job-backend/commit/316ee85993da84d79c89e91488139bd244cba54b",
+        "comments_url": "https://api.github.com/repos/Thecompany/job-backend/commits/316ee85993da84d79c89e91488139bd244cba54b/comments",
         "author": {
             "login": "AlexMaciasRocha",
             "id": 37882809,
@@ -708,13 +708,13 @@
         },
         "parents": [{
             "sha": "a78f6815051e72bc9544cec5afd0c15ae4aa1a70",
-            "url": "https://api.github.com/repos/ShiftWise/job-backend/commits/a78f6815051e72bc9544cec5afd0c15ae4aa1a70",
-            "html_url": "https://github.com/ShiftWise/job-backend/commit/a78f6815051e72bc9544cec5afd0c15ae4aa1a70"
+            "url": "https://api.github.com/repos/Thecompany/job-backend/commits/a78f6815051e72bc9544cec5afd0c15ae4aa1a70",
+            "html_url": "https://github.com/Thecompany/job-backend/commit/a78f6815051e72bc9544cec5afd0c15ae4aa1a70"
         },
         {
             "sha": "e29f1c7c3a8521adcace8e0088b2b4dd21dabde5",
-            "url": "https://api.github.com/repos/ShiftWise/job-backend/commits/e29f1c7c3a8521adcace8e0088b2b4dd21dabde5",
-            "html_url": "https://github.com/ShiftWise/job-backend/commit/e29f1c7c3a8521adcace8e0088b2b4dd21dabde5"
+            "url": "https://api.github.com/repos/Thecompany/job-backend/commits/e29f1c7c3a8521adcace8e0088b2b4dd21dabde5",
+            "html_url": "https://github.com/Thecompany/job-backend/commit/e29f1c7c3a8521adcace8e0088b2b4dd21dabde5"
         }]
     },
     {
@@ -723,20 +723,20 @@
         "commit": {
             "author": {
                 "name": "EricAldinger",
-                "email": "eric.aldinger@shiftwise.com",
+                "email": "eric.aldinger@Thecompany.com",
                 "date": "2018-05-24T22:33:16Z"
             },
             "committer": {
                 "name": "EricAldinger",
-                "email": "eric.aldinger@shiftwise.com",
+                "email": "eric.aldinger@Thecompany.com",
                 "date": "2018-05-24T22:33:16Z"
             },
             "message": "remove quotes",
             "tree": {
                 "sha": "c02e27381c4e0014c8c6826620b35ea07307a19e",
-                "url": "https://api.github.com/repos/ShiftWise/job-backend/git/trees/c02e27381c4e0014c8c6826620b35ea07307a19e"
+                "url": "https://api.github.com/repos/Thecompany/job-backend/git/trees/c02e27381c4e0014c8c6826620b35ea07307a19e"
             },
-            "url": "https://api.github.com/repos/ShiftWise/job-backend/git/commits/e29f1c7c3a8521adcace8e0088b2b4dd21dabde5",
+            "url": "https://api.github.com/repos/Thecompany/job-backend/git/commits/e29f1c7c3a8521adcace8e0088b2b4dd21dabde5",
             "comment_count": 0,
             "verification": {
                 "verified": false,
@@ -745,9 +745,9 @@
                 "payload": null
             }
         },
-        "url": "https://api.github.com/repos/ShiftWise/job-backend/commits/e29f1c7c3a8521adcace8e0088b2b4dd21dabde5",
-        "html_url": "https://github.com/ShiftWise/job-backend/commit/e29f1c7c3a8521adcace8e0088b2b4dd21dabde5",
-        "comments_url": "https://api.github.com/repos/ShiftWise/job-backend/commits/e29f1c7c3a8521adcace8e0088b2b4dd21dabde5/comments",
+        "url": "https://api.github.com/repos/Thecompany/job-backend/commits/e29f1c7c3a8521adcace8e0088b2b4dd21dabde5",
+        "html_url": "https://github.com/Thecompany/job-backend/commit/e29f1c7c3a8521adcace8e0088b2b4dd21dabde5",
+        "comments_url": "https://api.github.com/repos/Thecompany/job-backend/commits/e29f1c7c3a8521adcace8e0088b2b4dd21dabde5/comments",
         "author": {
             "login": "eric-aldinger",
             "id": 11687514,
@@ -790,8 +790,8 @@
         },
         "parents": [{
             "sha": "a78f6815051e72bc9544cec5afd0c15ae4aa1a70",
-            "url": "https://api.github.com/repos/ShiftWise/job-backend/commits/a78f6815051e72bc9544cec5afd0c15ae4aa1a70",
-            "html_url": "https://github.com/ShiftWise/job-backend/commit/a78f6815051e72bc9544cec5afd0c15ae4aa1a70"
+            "url": "https://api.github.com/repos/Thecompany/job-backend/commits/a78f6815051e72bc9544cec5afd0c15ae4aa1a70",
+            "html_url": "https://github.com/Thecompany/job-backend/commit/a78f6815051e72bc9544cec5afd0c15ae4aa1a70"
         }]
     },
     {
@@ -800,20 +800,20 @@
         "commit": {
             "author": {
                 "name": "Aaron Hildebrand",
-                "email": "aaron.hildebrand@shiftwise.com",
+                "email": "aaron.hildebrand@Thecompany.com",
                 "date": "2018-05-24T20:57:36Z"
             },
             "committer": {
                 "name": "Aaron Hildebrand",
-                "email": "aaron.hildebrand@shiftwise.com",
+                "email": "aaron.hildebrand@Thecompany.com",
                 "date": "2018-05-24T20:57:36Z"
             },
             "message": "Reformatting and adding comment to make receivedJob assignment more clear",
             "tree": {
                 "sha": "bbba1911a5909236d3c521bc613d9cdf561404c9",
-                "url": "https://api.github.com/repos/ShiftWise/job-backend/git/trees/bbba1911a5909236d3c521bc613d9cdf561404c9"
+                "url": "https://api.github.com/repos/Thecompany/job-backend/git/trees/bbba1911a5909236d3c521bc613d9cdf561404c9"
             },
-            "url": "https://api.github.com/repos/ShiftWise/job-backend/git/commits/c6695647538c0ed742e477dd5637aa02e2c1e9e1",
+            "url": "https://api.github.com/repos/Thecompany/job-backend/git/commits/c6695647538c0ed742e477dd5637aa02e2c1e9e1",
             "comment_count": 0,
             "verification": {
                 "verified": false,
@@ -822,9 +822,9 @@
                 "payload": null
             }
         },
-        "url": "https://api.github.com/repos/ShiftWise/job-backend/commits/c6695647538c0ed742e477dd5637aa02e2c1e9e1",
-        "html_url": "https://github.com/ShiftWise/job-backend/commit/c6695647538c0ed742e477dd5637aa02e2c1e9e1",
-        "comments_url": "https://api.github.com/repos/ShiftWise/job-backend/commits/c6695647538c0ed742e477dd5637aa02e2c1e9e1/comments",
+        "url": "https://api.github.com/repos/Thecompany/job-backend/commits/c6695647538c0ed742e477dd5637aa02e2c1e9e1",
+        "html_url": "https://github.com/Thecompany/job-backend/commit/c6695647538c0ed742e477dd5637aa02e2c1e9e1",
+        "comments_url": "https://api.github.com/repos/Thecompany/job-backend/commits/c6695647538c0ed742e477dd5637aa02e2c1e9e1/comments",
         "author": {
             "login": "sw-ahildebrand",
             "id": 28154162,
@@ -867,8 +867,8 @@
         },
         "parents": [{
             "sha": "14c07f7133e9eec09b3003f26ad705e5b90d32a6",
-            "url": "https://api.github.com/repos/ShiftWise/job-backend/commits/14c07f7133e9eec09b3003f26ad705e5b90d32a6",
-            "html_url": "https://github.com/ShiftWise/job-backend/commit/14c07f7133e9eec09b3003f26ad705e5b90d32a6"
+            "url": "https://api.github.com/repos/Thecompany/job-backend/commits/14c07f7133e9eec09b3003f26ad705e5b90d32a6",
+            "html_url": "https://github.com/Thecompany/job-backend/commit/14c07f7133e9eec09b3003f26ad705e5b90d32a6"
         }]
     },
     {
@@ -877,20 +877,20 @@
         "commit": {
             "author": {
                 "name": "Kayla Gould",
-                "email": "kayla.gould@shiftwise.com",
+                "email": "kayla.gould@Thecompany.com",
                 "date": "2018-05-24T17:18:24Z"
             },
             "committer": {
                 "name": "Kayla Gould",
-                "email": "kayla.gould@shiftwise.com",
+                "email": "kayla.gould@Thecompany.com",
                 "date": "2018-05-24T17:18:24Z"
             },
             "message": "fixed some namespacing",
             "tree": {
                 "sha": "89e55b57c31f6033b23cece618cf1c81c5be89b0",
-                "url": "https://api.github.com/repos/ShiftWise/job-backend/git/trees/89e55b57c31f6033b23cece618cf1c81c5be89b0"
+                "url": "https://api.github.com/repos/Thecompany/job-backend/git/trees/89e55b57c31f6033b23cece618cf1c81c5be89b0"
             },
-            "url": "https://api.github.com/repos/ShiftWise/job-backend/git/commits/d9729d008bfee1c803f7a63a9466132f13487ff0",
+            "url": "https://api.github.com/repos/Thecompany/job-backend/git/commits/d9729d008bfee1c803f7a63a9466132f13487ff0",
             "comment_count": 0,
             "verification": {
                 "verified": false,
@@ -899,9 +899,9 @@
                 "payload": null
             }
         },
-        "url": "https://api.github.com/repos/ShiftWise/job-backend/commits/d9729d008bfee1c803f7a63a9466132f13487ff0",
-        "html_url": "https://github.com/ShiftWise/job-backend/commit/d9729d008bfee1c803f7a63a9466132f13487ff0",
-        "comments_url": "https://api.github.com/repos/ShiftWise/job-backend/commits/d9729d008bfee1c803f7a63a9466132f13487ff0/comments",
+        "url": "https://api.github.com/repos/Thecompany/job-backend/commits/d9729d008bfee1c803f7a63a9466132f13487ff0",
+        "html_url": "https://github.com/Thecompany/job-backend/commit/d9729d008bfee1c803f7a63a9466132f13487ff0",
+        "comments_url": "https://api.github.com/repos/Thecompany/job-backend/commits/d9729d008bfee1c803f7a63a9466132f13487ff0/comments",
         "author": {
             "login": "kgould-sw",
             "id": 27228439,
@@ -944,8 +944,8 @@
         },
         "parents": [{
             "sha": "716bbf465090544b6ea737487284b32a18bc61f7",
-            "url": "https://api.github.com/repos/ShiftWise/job-backend/commits/716bbf465090544b6ea737487284b32a18bc61f7",
-            "html_url": "https://github.com/ShiftWise/job-backend/commit/716bbf465090544b6ea737487284b32a18bc61f7"
+            "url": "https://api.github.com/repos/Thecompany/job-backend/commits/716bbf465090544b6ea737487284b32a18bc61f7",
+            "html_url": "https://github.com/Thecompany/job-backend/commit/716bbf465090544b6ea737487284b32a18bc61f7"
         }]
     },
     {
@@ -954,20 +954,20 @@
         "commit": {
             "author": {
                 "name": "Kayla Gould",
-                "email": "kayla.gould@shiftwise.com",
+                "email": "kayla.gould@Thecompany.com",
                 "date": "2018-05-24T17:16:24Z"
             },
             "committer": {
                 "name": "Kayla Gould",
-                "email": "kayla.gould@shiftwise.com",
+                "email": "kayla.gould@Thecompany.com",
                 "date": "2018-05-24T17:16:24Z"
             },
             "message": "renamed the tests to match the actual class name",
             "tree": {
                 "sha": "3cbc4750a96487ce1f85e986fb1e1c2fd03bc68c",
-                "url": "https://api.github.com/repos/ShiftWise/job-backend/git/trees/3cbc4750a96487ce1f85e986fb1e1c2fd03bc68c"
+                "url": "https://api.github.com/repos/Thecompany/job-backend/git/trees/3cbc4750a96487ce1f85e986fb1e1c2fd03bc68c"
             },
-            "url": "https://api.github.com/repos/ShiftWise/job-backend/git/commits/716bbf465090544b6ea737487284b32a18bc61f7",
+            "url": "https://api.github.com/repos/Thecompany/job-backend/git/commits/716bbf465090544b6ea737487284b32a18bc61f7",
             "comment_count": 0,
             "verification": {
                 "verified": false,
@@ -976,9 +976,9 @@
                 "payload": null
             }
         },
-        "url": "https://api.github.com/repos/ShiftWise/job-backend/commits/716bbf465090544b6ea737487284b32a18bc61f7",
-        "html_url": "https://github.com/ShiftWise/job-backend/commit/716bbf465090544b6ea737487284b32a18bc61f7",
-        "comments_url": "https://api.github.com/repos/ShiftWise/job-backend/commits/716bbf465090544b6ea737487284b32a18bc61f7/comments",
+        "url": "https://api.github.com/repos/Thecompany/job-backend/commits/716bbf465090544b6ea737487284b32a18bc61f7",
+        "html_url": "https://github.com/Thecompany/job-backend/commit/716bbf465090544b6ea737487284b32a18bc61f7",
+        "comments_url": "https://api.github.com/repos/Thecompany/job-backend/commits/716bbf465090544b6ea737487284b32a18bc61f7/comments",
         "author": {
             "login": "kgould-sw",
             "id": 27228439,
@@ -1021,8 +1021,8 @@
         },
         "parents": [{
             "sha": "3bc1b5d4bef007c25fb3e25e73a937e5aa7be4fe",
-            "url": "https://api.github.com/repos/ShiftWise/job-backend/commits/3bc1b5d4bef007c25fb3e25e73a937e5aa7be4fe",
-            "html_url": "https://github.com/ShiftWise/job-backend/commit/3bc1b5d4bef007c25fb3e25e73a937e5aa7be4fe"
+            "url": "https://api.github.com/repos/Thecompany/job-backend/commits/3bc1b5d4bef007c25fb3e25e73a937e5aa7be4fe",
+            "html_url": "https://github.com/Thecompany/job-backend/commit/3bc1b5d4bef007c25fb3e25e73a937e5aa7be4fe"
         }]
     },
     {
@@ -1031,20 +1031,20 @@
         "commit": {
             "author": {
                 "name": "Kayla Gould",
-                "email": "kayla.gould@shiftwise.com",
+                "email": "kayla.gould@Thecompany.com",
                 "date": "2018-05-24T17:13:55Z"
             },
             "committer": {
                 "name": "Kayla Gould",
-                "email": "kayla.gould@shiftwise.com",
+                "email": "kayla.gould@Thecompany.com",
                 "date": "2018-05-24T17:13:55Z"
             },
             "message": "added test for RemoveStaff logic",
             "tree": {
                 "sha": "bea7d3ab11d027de21898498f6f5e627cd376489",
-                "url": "https://api.github.com/repos/ShiftWise/job-backend/git/trees/bea7d3ab11d027de21898498f6f5e627cd376489"
+                "url": "https://api.github.com/repos/Thecompany/job-backend/git/trees/bea7d3ab11d027de21898498f6f5e627cd376489"
             },
-            "url": "https://api.github.com/repos/ShiftWise/job-backend/git/commits/3bc1b5d4bef007c25fb3e25e73a937e5aa7be4fe",
+            "url": "https://api.github.com/repos/Thecompany/job-backend/git/commits/3bc1b5d4bef007c25fb3e25e73a937e5aa7be4fe",
             "comment_count": 0,
             "verification": {
                 "verified": false,
@@ -1053,9 +1053,9 @@
                 "payload": null
             }
         },
-        "url": "https://api.github.com/repos/ShiftWise/job-backend/commits/3bc1b5d4bef007c25fb3e25e73a937e5aa7be4fe",
-        "html_url": "https://github.com/ShiftWise/job-backend/commit/3bc1b5d4bef007c25fb3e25e73a937e5aa7be4fe",
-        "comments_url": "https://api.github.com/repos/ShiftWise/job-backend/commits/3bc1b5d4bef007c25fb3e25e73a937e5aa7be4fe/comments",
+        "url": "https://api.github.com/repos/Thecompany/job-backend/commits/3bc1b5d4bef007c25fb3e25e73a937e5aa7be4fe",
+        "html_url": "https://github.com/Thecompany/job-backend/commit/3bc1b5d4bef007c25fb3e25e73a937e5aa7be4fe",
+        "comments_url": "https://api.github.com/repos/Thecompany/job-backend/commits/3bc1b5d4bef007c25fb3e25e73a937e5aa7be4fe/comments",
         "author": {
             "login": "kgould-sw",
             "id": 27228439,
@@ -1098,8 +1098,8 @@
         },
         "parents": [{
             "sha": "275c31a80f81745429966aefe9d1709547100320",
-            "url": "https://api.github.com/repos/ShiftWise/job-backend/commits/275c31a80f81745429966aefe9d1709547100320",
-            "html_url": "https://github.com/ShiftWise/job-backend/commit/275c31a80f81745429966aefe9d1709547100320"
+            "url": "https://api.github.com/repos/Thecompany/job-backend/commits/275c31a80f81745429966aefe9d1709547100320",
+            "html_url": "https://github.com/Thecompany/job-backend/commit/275c31a80f81745429966aefe9d1709547100320"
         }]
     },
     {
@@ -1108,20 +1108,20 @@
         "commit": {
             "author": {
                 "name": "Marc Schluper",
-                "email": "marc.schluper@shiftwise.com",
+                "email": "marc.schluper@Thecompany.com",
                 "date": "2018-05-24T15:50:34Z"
             },
             "committer": {
                 "name": "Marc Schluper",
-                "email": "marc.schluper@shiftwise.com",
+                "email": "marc.schluper@Thecompany.com",
                 "date": "2018-05-24T15:50:34Z"
             },
             "message": "RemoveStaff has now Action property that distinguishes between 'Cancel' and 'Terminate'",
             "tree": {
                 "sha": "280f750506044eaabdd7bae850f67e5c6f27ef81",
-                "url": "https://api.github.com/repos/ShiftWise/job-backend/git/trees/280f750506044eaabdd7bae850f67e5c6f27ef81"
+                "url": "https://api.github.com/repos/Thecompany/job-backend/git/trees/280f750506044eaabdd7bae850f67e5c6f27ef81"
             },
-            "url": "https://api.github.com/repos/ShiftWise/job-backend/git/commits/275c31a80f81745429966aefe9d1709547100320",
+            "url": "https://api.github.com/repos/Thecompany/job-backend/git/commits/275c31a80f81745429966aefe9d1709547100320",
             "comment_count": 0,
             "verification": {
                 "verified": false,
@@ -1130,9 +1130,9 @@
                 "payload": null
             }
         },
-        "url": "https://api.github.com/repos/ShiftWise/job-backend/commits/275c31a80f81745429966aefe9d1709547100320",
-        "html_url": "https://github.com/ShiftWise/job-backend/commit/275c31a80f81745429966aefe9d1709547100320",
-        "comments_url": "https://api.github.com/repos/ShiftWise/job-backend/commits/275c31a80f81745429966aefe9d1709547100320/comments",
+        "url": "https://api.github.com/repos/Thecompany/job-backend/commits/275c31a80f81745429966aefe9d1709547100320",
+        "html_url": "https://github.com/Thecompany/job-backend/commit/275c31a80f81745429966aefe9d1709547100320",
+        "comments_url": "https://api.github.com/repos/Thecompany/job-backend/commits/275c31a80f81745429966aefe9d1709547100320/comments",
         "author": {
             "login": "Marc-Schluper",
             "id": 30181878,
@@ -1175,8 +1175,8 @@
         },
         "parents": [{
             "sha": "970ebc668acddafc97b19d8dd833a0c54238523e",
-            "url": "https://api.github.com/repos/ShiftWise/job-backend/commits/970ebc668acddafc97b19d8dd833a0c54238523e",
-            "html_url": "https://github.com/ShiftWise/job-backend/commit/970ebc668acddafc97b19d8dd833a0c54238523e"
+            "url": "https://api.github.com/repos/Thecompany/job-backend/commits/970ebc668acddafc97b19d8dd833a0c54238523e",
+            "html_url": "https://github.com/Thecompany/job-backend/commit/970ebc668acddafc97b19d8dd833a0c54238523e"
         }]
     },
     {
@@ -1185,20 +1185,20 @@
         "commit": {
             "author": {
                 "name": "Marc Schluper",
-                "email": "marc.schluper@shiftwise.com",
+                "email": "marc.schluper@Thecompany.com",
                 "date": "2018-05-24T13:19:58Z"
             },
             "committer": {
                 "name": "Marc Schluper",
-                "email": "marc.schluper@shiftwise.com",
+                "email": "marc.schluper@Thecompany.com",
                 "date": "2018-05-24T13:19:58Z"
             },
-            "message": "Merge branch 'feature/NEXT-10204-taskCompletion' of https://github.com/ShiftWise/job-backend into feature/NEXT-10204-taskCompletion",
+            "message": "Merge branch 'feature/NEXT-10204-taskCompletion' of https://github.com/Thecompany/job-backend into feature/NEXT-10204-taskCompletion",
             "tree": {
                 "sha": "f8d9ff19bb774293369d2903902244c645ee9395",
-                "url": "https://api.github.com/repos/ShiftWise/job-backend/git/trees/f8d9ff19bb774293369d2903902244c645ee9395"
+                "url": "https://api.github.com/repos/Thecompany/job-backend/git/trees/f8d9ff19bb774293369d2903902244c645ee9395"
             },
-            "url": "https://api.github.com/repos/ShiftWise/job-backend/git/commits/970ebc668acddafc97b19d8dd833a0c54238523e",
+            "url": "https://api.github.com/repos/Thecompany/job-backend/git/commits/970ebc668acddafc97b19d8dd833a0c54238523e",
             "comment_count": 0,
             "verification": {
                 "verified": false,
@@ -1207,9 +1207,9 @@
                 "payload": null
             }
         },
-        "url": "https://api.github.com/repos/ShiftWise/job-backend/commits/970ebc668acddafc97b19d8dd833a0c54238523e",
-        "html_url": "https://github.com/ShiftWise/job-backend/commit/970ebc668acddafc97b19d8dd833a0c54238523e",
-        "comments_url": "https://api.github.com/repos/ShiftWise/job-backend/commits/970ebc668acddafc97b19d8dd833a0c54238523e/comments",
+        "url": "https://api.github.com/repos/Thecompany/job-backend/commits/970ebc668acddafc97b19d8dd833a0c54238523e",
+        "html_url": "https://github.com/Thecompany/job-backend/commit/970ebc668acddafc97b19d8dd833a0c54238523e",
+        "comments_url": "https://api.github.com/repos/Thecompany/job-backend/commits/970ebc668acddafc97b19d8dd833a0c54238523e/comments",
         "author": {
             "login": "Marc-Schluper",
             "id": 30181878,
@@ -1252,13 +1252,13 @@
         },
         "parents": [{
             "sha": "84fd9bb5a3cc23864315343622ad4d7f0bab0abb",
-            "url": "https://api.github.com/repos/ShiftWise/job-backend/commits/84fd9bb5a3cc23864315343622ad4d7f0bab0abb",
-            "html_url": "https://github.com/ShiftWise/job-backend/commit/84fd9bb5a3cc23864315343622ad4d7f0bab0abb"
+            "url": "https://api.github.com/repos/Thecompany/job-backend/commits/84fd9bb5a3cc23864315343622ad4d7f0bab0abb",
+            "html_url": "https://github.com/Thecompany/job-backend/commit/84fd9bb5a3cc23864315343622ad4d7f0bab0abb"
         },
         {
             "sha": "f381f4759d9c410b8190516cd39a1195dc45fac2",
-            "url": "https://api.github.com/repos/ShiftWise/job-backend/commits/f381f4759d9c410b8190516cd39a1195dc45fac2",
-            "html_url": "https://github.com/ShiftWise/job-backend/commit/f381f4759d9c410b8190516cd39a1195dc45fac2"
+            "url": "https://api.github.com/repos/Thecompany/job-backend/commits/f381f4759d9c410b8190516cd39a1195dc45fac2",
+            "html_url": "https://github.com/Thecompany/job-backend/commit/f381f4759d9c410b8190516cd39a1195dc45fac2"
         }]
     },
     {
@@ -1267,20 +1267,20 @@
         "commit": {
             "author": {
                 "name": "Marc Schluper",
-                "email": "marc.schluper@shiftwise.com",
+                "email": "marc.schluper@Thecompany.com",
                 "date": "2018-05-24T13:10:04Z"
             },
             "committer": {
                 "name": "Marc Schluper",
-                "email": "marc.schluper@shiftwise.com",
+                "email": "marc.schluper@Thecompany.com",
                 "date": "2018-05-24T13:10:04Z"
             },
             "message": "Temp. ignore test",
             "tree": {
                 "sha": "f8d9ff19bb774293369d2903902244c645ee9395",
-                "url": "https://api.github.com/repos/ShiftWise/job-backend/git/trees/f8d9ff19bb774293369d2903902244c645ee9395"
+                "url": "https://api.github.com/repos/Thecompany/job-backend/git/trees/f8d9ff19bb774293369d2903902244c645ee9395"
             },
-            "url": "https://api.github.com/repos/ShiftWise/job-backend/git/commits/84fd9bb5a3cc23864315343622ad4d7f0bab0abb",
+            "url": "https://api.github.com/repos/Thecompany/job-backend/git/commits/84fd9bb5a3cc23864315343622ad4d7f0bab0abb",
             "comment_count": 0,
             "verification": {
                 "verified": false,
@@ -1289,9 +1289,9 @@
                 "payload": null
             }
         },
-        "url": "https://api.github.com/repos/ShiftWise/job-backend/commits/84fd9bb5a3cc23864315343622ad4d7f0bab0abb",
-        "html_url": "https://github.com/ShiftWise/job-backend/commit/84fd9bb5a3cc23864315343622ad4d7f0bab0abb",
-        "comments_url": "https://api.github.com/repos/ShiftWise/job-backend/commits/84fd9bb5a3cc23864315343622ad4d7f0bab0abb/comments",
+        "url": "https://api.github.com/repos/Thecompany/job-backend/commits/84fd9bb5a3cc23864315343622ad4d7f0bab0abb",
+        "html_url": "https://github.com/Thecompany/job-backend/commit/84fd9bb5a3cc23864315343622ad4d7f0bab0abb",
+        "comments_url": "https://api.github.com/repos/Thecompany/job-backend/commits/84fd9bb5a3cc23864315343622ad4d7f0bab0abb/comments",
         "author": {
             "login": "Marc-Schluper",
             "id": 30181878,
@@ -1334,8 +1334,8 @@
         },
         "parents": [{
             "sha": "8ce7aa731d3f7c970030f6eb24ed1ead1038475d",
-            "url": "https://api.github.com/repos/ShiftWise/job-backend/commits/8ce7aa731d3f7c970030f6eb24ed1ead1038475d",
-            "html_url": "https://github.com/ShiftWise/job-backend/commit/8ce7aa731d3f7c970030f6eb24ed1ead1038475d"
+            "url": "https://api.github.com/repos/Thecompany/job-backend/commits/8ce7aa731d3f7c970030f6eb24ed1ead1038475d",
+            "html_url": "https://github.com/Thecompany/job-backend/commit/8ce7aa731d3f7c970030f6eb24ed1ead1038475d"
         }]
     },
     {
@@ -1344,20 +1344,20 @@
         "commit": {
             "author": {
                 "name": "Marc Schluper",
-                "email": "marc.schluper@shiftwise.com",
+                "email": "marc.schluper@Thecompany.com",
                 "date": "2018-05-24T05:12:35Z"
             },
             "committer": {
                 "name": "Marc Schluper",
-                "email": "marc.schluper@shiftwise.com",
+                "email": "marc.schluper@Thecompany.com",
                 "date": "2018-05-24T05:12:35Z"
             },
             "message": "shameless and blunt way to keep using RemoveStaff message for TerminateStaff w/o side effects",
             "tree": {
                 "sha": "aeee3cb81d846785963261458ed7766ec3be1ef8",
-                "url": "https://api.github.com/repos/ShiftWise/job-backend/git/trees/aeee3cb81d846785963261458ed7766ec3be1ef8"
+                "url": "https://api.github.com/repos/Thecompany/job-backend/git/trees/aeee3cb81d846785963261458ed7766ec3be1ef8"
             },
-            "url": "https://api.github.com/repos/ShiftWise/job-backend/git/commits/f381f4759d9c410b8190516cd39a1195dc45fac2",
+            "url": "https://api.github.com/repos/Thecompany/job-backend/git/commits/f381f4759d9c410b8190516cd39a1195dc45fac2",
             "comment_count": 0,
             "verification": {
                 "verified": false,
@@ -1366,9 +1366,9 @@
                 "payload": null
             }
         },
-        "url": "https://api.github.com/repos/ShiftWise/job-backend/commits/f381f4759d9c410b8190516cd39a1195dc45fac2",
-        "html_url": "https://github.com/ShiftWise/job-backend/commit/f381f4759d9c410b8190516cd39a1195dc45fac2",
-        "comments_url": "https://api.github.com/repos/ShiftWise/job-backend/commits/f381f4759d9c410b8190516cd39a1195dc45fac2/comments",
+        "url": "https://api.github.com/repos/Thecompany/job-backend/commits/f381f4759d9c410b8190516cd39a1195dc45fac2",
+        "html_url": "https://github.com/Thecompany/job-backend/commit/f381f4759d9c410b8190516cd39a1195dc45fac2",
+        "comments_url": "https://api.github.com/repos/Thecompany/job-backend/commits/f381f4759d9c410b8190516cd39a1195dc45fac2/comments",
         "author": {
             "login": "Marc-Schluper",
             "id": 30181878,
@@ -1411,8 +1411,8 @@
         },
         "parents": [{
             "sha": "851c9939aa249c4dcdc4685e11dbf97918835a87",
-            "url": "https://api.github.com/repos/ShiftWise/job-backend/commits/851c9939aa249c4dcdc4685e11dbf97918835a87",
-            "html_url": "https://github.com/ShiftWise/job-backend/commit/851c9939aa249c4dcdc4685e11dbf97918835a87"
+            "url": "https://api.github.com/repos/Thecompany/job-backend/commits/851c9939aa249c4dcdc4685e11dbf97918835a87",
+            "html_url": "https://github.com/Thecompany/job-backend/commit/851c9939aa249c4dcdc4685e11dbf97918835a87"
         }]
     },
     {
@@ -1421,20 +1421,20 @@
         "commit": {
             "author": {
                 "name": "Marc Schluper",
-                "email": "marc.schluper@shiftwise.com",
+                "email": "marc.schluper@Thecompany.com",
                 "date": "2018-05-24T04:21:49Z"
             },
             "committer": {
                 "name": "Marc Schluper",
-                "email": "marc.schluper@shiftwise.com",
+                "email": "marc.schluper@Thecompany.com",
                 "date": "2018-05-24T04:21:49Z"
             },
             "message": "shameless blunt way to keep using RemoveStaff instead of a new message 'TerminateStaff'",
             "tree": {
                 "sha": "aeee3cb81d846785963261458ed7766ec3be1ef8",
-                "url": "https://api.github.com/repos/ShiftWise/job-backend/git/trees/aeee3cb81d846785963261458ed7766ec3be1ef8"
+                "url": "https://api.github.com/repos/Thecompany/job-backend/git/trees/aeee3cb81d846785963261458ed7766ec3be1ef8"
             },
-            "url": "https://api.github.com/repos/ShiftWise/job-backend/git/commits/8ce7aa731d3f7c970030f6eb24ed1ead1038475d",
+            "url": "https://api.github.com/repos/Thecompany/job-backend/git/commits/8ce7aa731d3f7c970030f6eb24ed1ead1038475d",
             "comment_count": 0,
             "verification": {
                 "verified": false,
@@ -1443,9 +1443,9 @@
                 "payload": null
             }
         },
-        "url": "https://api.github.com/repos/ShiftWise/job-backend/commits/8ce7aa731d3f7c970030f6eb24ed1ead1038475d",
-        "html_url": "https://github.com/ShiftWise/job-backend/commit/8ce7aa731d3f7c970030f6eb24ed1ead1038475d",
-        "comments_url": "https://api.github.com/repos/ShiftWise/job-backend/commits/8ce7aa731d3f7c970030f6eb24ed1ead1038475d/comments",
+        "url": "https://api.github.com/repos/Thecompany/job-backend/commits/8ce7aa731d3f7c970030f6eb24ed1ead1038475d",
+        "html_url": "https://github.com/Thecompany/job-backend/commit/8ce7aa731d3f7c970030f6eb24ed1ead1038475d",
+        "comments_url": "https://api.github.com/repos/Thecompany/job-backend/commits/8ce7aa731d3f7c970030f6eb24ed1ead1038475d/comments",
         "author": {
             "login": "Marc-Schluper",
             "id": 30181878,
@@ -1488,8 +1488,8 @@
         },
         "parents": [{
             "sha": "851c9939aa249c4dcdc4685e11dbf97918835a87",
-            "url": "https://api.github.com/repos/ShiftWise/job-backend/commits/851c9939aa249c4dcdc4685e11dbf97918835a87",
-            "html_url": "https://github.com/ShiftWise/job-backend/commit/851c9939aa249c4dcdc4685e11dbf97918835a87"
+            "url": "https://api.github.com/repos/Thecompany/job-backend/commits/851c9939aa249c4dcdc4685e11dbf97918835a87",
+            "html_url": "https://github.com/Thecompany/job-backend/commit/851c9939aa249c4dcdc4685e11dbf97918835a87"
         }]
     }]
 }

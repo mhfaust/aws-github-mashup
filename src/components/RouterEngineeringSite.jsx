@@ -36,7 +36,7 @@ const RouterEngineeringSite = () => (
                         <Menu.Menu position='right'>
                           <Menu.Item as={NavLink} to="/config">
                             Connect Dashboard
-                            <img className="ui mini image" src={awsUrls.dashboardImg('shiftwise-logo.png')} style={{marginLeft: 2 + 'em'}} />
+                            <img className="ui mini image" src={awsUrls.dashboardImg('Thecompany-logo.png')} style={{marginLeft: 2 + 'em'}} />
                           </Menu.Item>
                         </Menu.Menu>
                     </Menu>

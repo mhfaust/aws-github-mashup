@@ -2,7 +2,7 @@ const github = require('github')();
 const errors = require('../errors.js');
 
 
-const owner = 'ShiftWise';
+const owner = 'Thecompany';
 
 // TODO: OAuth2
 let authenticate = () => github.authenticate({

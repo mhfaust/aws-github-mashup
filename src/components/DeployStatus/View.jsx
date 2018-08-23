@@ -42,7 +42,7 @@ const View = ({
             <Table.Row key={tag.name}>
               <Table.Cell></Table.Cell>
               <Table.Cell>
-                <a href={`https://github.com/ShiftWise/iac/releases/tag/${tag.name}`} target="_blank">
+                <a href={`https://github.com/Thecompany/iac/releases/tag/${tag.name}`} target="_blank">
                   {tag.name}
                 </a>
               </Table.Cell>

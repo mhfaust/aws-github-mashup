@@ -8,7 +8,7 @@ async function handler(){
 		pullRequests.getAll('iac').then(response => response)
 	]);
 
-	//all pr labels prepend a branch name with 'Shiftwise:', hence the .slice(10) 
+	//all pr labels prepend a branch name with 'Thecompany:', hence the .slice(10) 
 	let prBranchNames = new Set(prs.map(pr => pr.head.label.slice(10)));
 
 	branches.forEach(branch => branch.pullRequestUrl = 

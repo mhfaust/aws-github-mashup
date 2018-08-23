@@ -1,17 +1,17 @@
 {
 	"data": {
-		"url": "https://api.github.com/repos/ShiftWise/blueprint-backend/compare/0.0.1.2312...develop",
-		"html_url": "https://github.com/ShiftWise/blueprint-backend/compare/0.0.1.2312...develop",
-		"permalink_url": "https://github.com/ShiftWise/blueprint-backend/compare/ShiftWise:622c9c1...ShiftWise:de7c9a3",
-		"diff_url": "https://github.com/ShiftWise/blueprint-backend/compare/0.0.1.2312...develop.diff",
-		"patch_url": "https://github.com/ShiftWise/blueprint-backend/compare/0.0.1.2312...develop.patch",
+		"url": "https://api.github.com/repos/Thecompany/blueprint-backend/compare/0.0.1.2312...develop",
+		"html_url": "https://github.com/Thecompany/blueprint-backend/compare/0.0.1.2312...develop",
+		"permalink_url": "https://github.com/Thecompany/blueprint-backend/compare/Thecompany:622c9c1...Thecompany:de7c9a3",
+		"diff_url": "https://github.com/Thecompany/blueprint-backend/compare/0.0.1.2312...develop.diff",
+		"patch_url": "https://github.com/Thecompany/blueprint-backend/compare/0.0.1.2312...develop.patch",
 		"base_commit": {
 			"sha": "622c9c115737d4288b3e89350179b7fbb53d69db",
 			"node_id": "MDY6Q29tbWl0OTQ0ODgyMzc6NjIyYzljMTE1NzM3ZDQyODhiM2U4OTM1MDE3OWI3ZmJiNTNkNjlkYg==",
 			"commit": {
 				"author": {
 					"name": "Carlin",
-					"email": "carlin.scott@shiftwise.com",
+					"email": "carlin.scott@Thecompany.com",
 					"date": "2018-05-15T23:10:26Z"
 				},
 				"committer": {
@@ -19,23 +19,23 @@
 					"email": "noreply@github.com",
 					"date": "2018-05-15T23:10:26Z"
 				},
-				"message": "Merge pull request #176 from ShiftWise/feature/NEXT-10240\n\nFeature/Next-10240: Change loglevel to be an ENV variable",
+				"message": "Merge pull request #176 from Thecompany/feature/NEXT-10240\n\nFeature/Next-10240: Change loglevel to be an ENV variable",
 				"tree": {
 					"sha": "041ac02fc636f87b269d2e39cc1e5e2cc26fe1e1",
-					"url": "https://api.github.com/repos/ShiftWise/blueprint-backend/git/trees/041ac02fc636f87b269d2e39cc1e5e2cc26fe1e1"
+					"url": "https://api.github.com/repos/Thecompany/blueprint-backend/git/trees/041ac02fc636f87b269d2e39cc1e5e2cc26fe1e1"
 				},
-				"url": "https://api.github.com/repos/ShiftWise/blueprint-backend/git/commits/622c9c115737d4288b3e89350179b7fbb53d69db",
+				"url": "https://api.github.com/repos/Thecompany/blueprint-backend/git/commits/622c9c115737d4288b3e89350179b7fbb53d69db",
 				"comment_count": 0,
 				"verification": {
 					"verified": true,
 					"reason": "valid",
 					"signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJa+2jjCRBK7hj4Ov3rIwAAdHIIAIdG4Nbh+OHBUDeJ8uaoORND\nPMtOut0yH2jqY3z7Ktbp2ugu3KAW0FuxPUubef2t5DZnrVP4L1Zx/80rVnIKl7vj\njqX3HwsjvRK4q9VqdkWBrFB2zDd5rrOI43YUdo3Bld6IoXb/m+xrDHJZUkmX7hNx\n9VozCbdTT8Ap8jX9hmA9lsZb6DcMQ2jR+t4l6OrUfM51IapfN7k5jPXhFpi0P/JM\nDsDjh3GKK9mBROMAxM9ijNObji8rH4VNxbclTIthT30bQ/HSJxoF678rKb++S6W2\ncpz136qHxV4YEasP80HHQQ0a3LkbKFWz8CWIDO9gmM5eEazhQEJs2c3ef7adUp8=\n=bQdy\n-----END PGP SIGNATURE-----\n",
-					"payload": "tree 041ac02fc636f87b269d2e39cc1e5e2cc26fe1e1\nparent 7f49c8bb3503ce6aad9d44ead69c24650364187a\nparent 7c39a677e8e84a9fa63edbf77e0ca5e4f4016506\nauthor Carlin <carlin.scott@shiftwise.com> 1526425826 -0700\ncommitter GitHub <noreply@github.com> 1526425826 -0700\n\nMerge pull request #176 from ShiftWise/feature/NEXT-10240\n\nFeature/Next-10240: Change loglevel to be an ENV variable"
+					"payload": "tree 041ac02fc636f87b269d2e39cc1e5e2cc26fe1e1\nparent 7f49c8bb3503ce6aad9d44ead69c24650364187a\nparent 7c39a677e8e84a9fa63edbf77e0ca5e4f4016506\nauthor Carlin <carlin.scott@Thecompany.com> 1526425826 -0700\ncommitter GitHub <noreply@github.com> 1526425826 -0700\n\nMerge pull request #176 from Thecompany/feature/NEXT-10240\n\nFeature/Next-10240: Change loglevel to be an ENV variable"
 				}
 			},
-			"url": "https://api.github.com/repos/ShiftWise/blueprint-backend/commits/622c9c115737d4288b3e89350179b7fbb53d69db",
-			"html_url": "https://github.com/ShiftWise/blueprint-backend/commit/622c9c115737d4288b3e89350179b7fbb53d69db",
-			"comments_url": "https://api.github.com/repos/ShiftWise/blueprint-backend/commits/622c9c115737d4288b3e89350179b7fbb53d69db/comments",
+			"url": "https://api.github.com/repos/Thecompany/blueprint-backend/commits/622c9c115737d4288b3e89350179b7fbb53d69db",
+			"html_url": "https://github.com/Thecompany/blueprint-backend/commit/622c9c115737d4288b3e89350179b7fbb53d69db",
+			"comments_url": "https://api.github.com/repos/Thecompany/blueprint-backend/commits/622c9c115737d4288b3e89350179b7fbb53d69db/comments",
 			"author": {
 				"login": "sw-carlin",
 				"id": 27784780,
@@ -78,13 +78,13 @@
 			},
 			"parents": [{
 				"sha": "7f49c8bb3503ce6aad9d44ead69c24650364187a",
-				"url": "https://api.github.com/repos/ShiftWise/blueprint-backend/commits/7f49c8bb3503ce6aad9d44ead69c24650364187a",
-				"html_url": "https://github.com/ShiftWise/blueprint-backend/commit/7f49c8bb3503ce6aad9d44ead69c24650364187a"
+				"url": "https://api.github.com/repos/Thecompany/blueprint-backend/commits/7f49c8bb3503ce6aad9d44ead69c24650364187a",
+				"html_url": "https://github.com/Thecompany/blueprint-backend/commit/7f49c8bb3503ce6aad9d44ead69c24650364187a"
 			},
 			{
 				"sha": "7c39a677e8e84a9fa63edbf77e0ca5e4f4016506",
-				"url": "https://api.github.com/repos/ShiftWise/blueprint-backend/commits/7c39a677e8e84a9fa63edbf77e0ca5e4f4016506",
-				"html_url": "https://github.com/ShiftWise/blueprint-backend/commit/7c39a677e8e84a9fa63edbf77e0ca5e4f4016506"
+				"url": "https://api.github.com/repos/Thecompany/blueprint-backend/commits/7c39a677e8e84a9fa63edbf77e0ca5e4f4016506",
+				"html_url": "https://github.com/Thecompany/blueprint-backend/commit/7c39a677e8e84a9fa63edbf77e0ca5e4f4016506"
 			}]
 		},
 		"merge_base_commit": {
@@ -93,7 +93,7 @@
 			"commit": {
 				"author": {
 					"name": "Carlin",
-					"email": "carlin.scott@shiftwise.com",
+					"email": "carlin.scott@Thecompany.com",
 					"date": "2018-05-15T23:10:26Z"
 				},
 				"committer": {
@@ -101,23 +101,23 @@
 					"email": "noreply@github.com",
 					"date": "2018-05-15T23:10:26Z"
 				},
-				"message": "Merge pull request #176 from ShiftWise/feature/NEXT-10240\n\nFeature/Next-10240: Change loglevel to be an ENV variable",
+				"message": "Merge pull request #176 from Thecompany/feature/NEXT-10240\n\nFeature/Next-10240: Change loglevel to be an ENV variable",
 				"tree": {
 					"sha": "041ac02fc636f87b269d2e39cc1e5e2cc26fe1e1",
-					"url": "https://api.github.com/repos/ShiftWise/blueprint-backend/git/trees/041ac02fc636f87b269d2e39cc1e5e2cc26fe1e1"
+					"url": "https://api.github.com/repos/Thecompany/blueprint-backend/git/trees/041ac02fc636f87b269d2e39cc1e5e2cc26fe1e1"
 				},
-				"url": "https://api.github.com/repos/ShiftWise/blueprint-backend/git/commits/622c9c115737d4288b3e89350179b7fbb53d69db",
+				"url": "https://api.github.com/repos/Thecompany/blueprint-backend/git/commits/622c9c115737d4288b3e89350179b7fbb53d69db",
 				"comment_count": 0,
 				"verification": {
 					"verified": true,
 					"reason": "valid",
 					"signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJa+2jjCRBK7hj4Ov3rIwAAdHIIAIdG4Nbh+OHBUDeJ8uaoORND\nPMtOut0yH2jqY3z7Ktbp2ugu3KAW0FuxPUubef2t5DZnrVP4L1Zx/80rVnIKl7vj\njqX3HwsjvRK4q9VqdkWBrFB2zDd5rrOI43YUdo3Bld6IoXb/m+xrDHJZUkmX7hNx\n9VozCbdTT8Ap8jX9hmA9lsZb6DcMQ2jR+t4l6OrUfM51IapfN7k5jPXhFpi0P/JM\nDsDjh3GKK9mBROMAxM9ijNObji8rH4VNxbclTIthT30bQ/HSJxoF678rKb++S6W2\ncpz136qHxV4YEasP80HHQQ0a3LkbKFWz8CWIDO9gmM5eEazhQEJs2c3ef7adUp8=\n=bQdy\n-----END PGP SIGNATURE-----\n",
-					"payload": "tree 041ac02fc636f87b269d2e39cc1e5e2cc26fe1e1\nparent 7f49c8bb3503ce6aad9d44ead69c24650364187a\nparent 7c39a677e8e84a9fa63edbf77e0ca5e4f4016506\nauthor Carlin <carlin.scott@shiftwise.com> 1526425826 -0700\ncommitter GitHub <noreply@github.com> 1526425826 -0700\n\nMerge pull request #176 from ShiftWise/feature/NEXT-10240\n\nFeature/Next-10240: Change loglevel to be an ENV variable"
+					"payload": "tree 041ac02fc636f87b269d2e39cc1e5e2cc26fe1e1\nparent 7f49c8bb3503ce6aad9d44ead69c24650364187a\nparent 7c39a677e8e84a9fa63edbf77e0ca5e4f4016506\nauthor Carlin <carlin.scott@Thecompany.com> 1526425826 -0700\ncommitter GitHub <noreply@github.com> 1526425826 -0700\n\nMerge pull request #176 from Thecompany/feature/NEXT-10240\n\nFeature/Next-10240: Change loglevel to be an ENV variable"
 				}
 			},
-			"url": "https://api.github.com/repos/ShiftWise/blueprint-backend/commits/622c9c115737d4288b3e89350179b7fbb53d69db",
-			"html_url": "https://github.com/ShiftWise/blueprint-backend/commit/622c9c115737d4288b3e89350179b7fbb53d69db",
-			"comments_url": "https://api.github.com/repos/ShiftWise/blueprint-backend/commits/622c9c115737d4288b3e89350179b7fbb53d69db/comments",
+			"url": "https://api.github.com/repos/Thecompany/blueprint-backend/commits/622c9c115737d4288b3e89350179b7fbb53d69db",
+			"html_url": "https://github.com/Thecompany/blueprint-backend/commit/622c9c115737d4288b3e89350179b7fbb53d69db",
+			"comments_url": "https://api.github.com/repos/Thecompany/blueprint-backend/commits/622c9c115737d4288b3e89350179b7fbb53d69db/comments",
 			"author": {
 				"login": "sw-carlin",
 				"id": 27784780,
@@ -160,13 +160,13 @@
 			},
 			"parents": [{
 				"sha": "7f49c8bb3503ce6aad9d44ead69c24650364187a",
-				"url": "https://api.github.com/repos/ShiftWise/blueprint-backend/commits/7f49c8bb3503ce6aad9d44ead69c24650364187a",
-				"html_url": "https://github.com/ShiftWise/blueprint-backend/commit/7f49c8bb3503ce6aad9d44ead69c24650364187a"
+				"url": "https://api.github.com/repos/Thecompany/blueprint-backend/commits/7f49c8bb3503ce6aad9d44ead69c24650364187a",
+				"html_url": "https://github.com/Thecompany/blueprint-backend/commit/7f49c8bb3503ce6aad9d44ead69c24650364187a"
 			},
 			{
 				"sha": "7c39a677e8e84a9fa63edbf77e0ca5e4f4016506",
-				"url": "https://api.github.com/repos/ShiftWise/blueprint-backend/commits/7c39a677e8e84a9fa63edbf77e0ca5e4f4016506",
-				"html_url": "https://github.com/ShiftWise/blueprint-backend/commit/7c39a677e8e84a9fa63edbf77e0ca5e4f4016506"
+				"url": "https://api.github.com/repos/Thecompany/blueprint-backend/commits/7c39a677e8e84a9fa63edbf77e0ca5e4f4016506",
+				"html_url": "https://github.com/Thecompany/blueprint-backend/commit/7c39a677e8e84a9fa63edbf77e0ca5e4f4016506"
 			}]
 		},
 		"status": "ahead",
@@ -179,20 +179,20 @@
 			"commit": {
 				"author": {
 					"name": "brian-sw",
-					"email": "brian.warren@shiftwise.com",
+					"email": "brian.warren@Thecompany.com",
 					"date": "2018-05-21T22:56:15Z"
 				},
 				"committer": {
 					"name": "brian-sw",
-					"email": "brian.warren@shiftwise.com",
+					"email": "brian.warren@Thecompany.com",
 					"date": "2018-05-21T22:56:15Z"
 				},
 				"message": "adding sqitch",
 				"tree": {
 					"sha": "7869ba2467541fd9b0e5a6ff397aaaee4a15854e",
-					"url": "https://api.github.com/repos/ShiftWise/blueprint-backend/git/trees/7869ba2467541fd9b0e5a6ff397aaaee4a15854e"
+					"url": "https://api.github.com/repos/Thecompany/blueprint-backend/git/trees/7869ba2467541fd9b0e5a6ff397aaaee4a15854e"
 				},
-				"url": "https://api.github.com/repos/ShiftWise/blueprint-backend/git/commits/b8fcf2f76f96feb18a04fb3ff0209561259b830c",
+				"url": "https://api.github.com/repos/Thecompany/blueprint-backend/git/commits/b8fcf2f76f96feb18a04fb3ff0209561259b830c",
 				"comment_count": 0,
 				"verification": {
 					"verified": false,
@@ -201,9 +201,9 @@
 					"payload": null
 				}
 			},
-			"url": "https://api.github.com/repos/ShiftWise/blueprint-backend/commits/b8fcf2f76f96feb18a04fb3ff0209561259b830c",
-			"html_url": "https://github.com/ShiftWise/blueprint-backend/commit/b8fcf2f76f96feb18a04fb3ff0209561259b830c",
-			"comments_url": "https://api.github.com/repos/ShiftWise/blueprint-backend/commits/b8fcf2f76f96feb18a04fb3ff0209561259b830c/comments",
+			"url": "https://api.github.com/repos/Thecompany/blueprint-backend/commits/b8fcf2f76f96feb18a04fb3ff0209561259b830c",
+			"html_url": "https://github.com/Thecompany/blueprint-backend/commit/b8fcf2f76f96feb18a04fb3ff0209561259b830c",
+			"comments_url": "https://api.github.com/repos/Thecompany/blueprint-backend/commits/b8fcf2f76f96feb18a04fb3ff0209561259b830c/comments",
 			"author": {
 				"login": "brian-sw",
 				"id": 24942849,
@@ -246,8 +246,8 @@
 			},
 			"parents": [{
 				"sha": "622c9c115737d4288b3e89350179b7fbb53d69db",
-				"url": "https://api.github.com/repos/ShiftWise/blueprint-backend/commits/622c9c115737d4288b3e89350179b7fbb53d69db",
-				"html_url": "https://github.com/ShiftWise/blueprint-backend/commit/622c9c115737d4288b3e89350179b7fbb53d69db"
+				"url": "https://api.github.com/repos/Thecompany/blueprint-backend/commits/622c9c115737d4288b3e89350179b7fbb53d69db",
+				"html_url": "https://github.com/Thecompany/blueprint-backend/commit/622c9c115737d4288b3e89350179b7fbb53d69db"
 			}]
 		},
 		{
@@ -267,9 +267,9 @@
 				"message": "added folders for sqitch",
 				"tree": {
 					"sha": "248a2f408080684ab70285cb9613fa94d67798bb",
-					"url": "https://api.github.com/repos/ShiftWise/blueprint-backend/git/trees/248a2f408080684ab70285cb9613fa94d67798bb"
+					"url": "https://api.github.com/repos/Thecompany/blueprint-backend/git/trees/248a2f408080684ab70285cb9613fa94d67798bb"
 				},
-				"url": "https://api.github.com/repos/ShiftWise/blueprint-backend/git/commits/0851855e6e605f1c5a90d890935da7498a8e6c0b",
+				"url": "https://api.github.com/repos/Thecompany/blueprint-backend/git/commits/0851855e6e605f1c5a90d890935da7498a8e6c0b",
 				"comment_count": 0,
 				"verification": {
 					"verified": false,
@@ -278,15 +278,15 @@
 					"payload": null
 				}
 			},
-			"url": "https://api.github.com/repos/ShiftWise/blueprint-backend/commits/0851855e6e605f1c5a90d890935da7498a8e6c0b",
-			"html_url": "https://github.com/ShiftWise/blueprint-backend/commit/0851855e6e605f1c5a90d890935da7498a8e6c0b",
-			"comments_url": "https://api.github.com/repos/ShiftWise/blueprint-backend/commits/0851855e6e605f1c5a90d890935da7498a8e6c0b/comments",
+			"url": "https://api.github.com/repos/Thecompany/blueprint-backend/commits/0851855e6e605f1c5a90d890935da7498a8e6c0b",
+			"html_url": "https://github.com/Thecompany/blueprint-backend/commit/0851855e6e605f1c5a90d890935da7498a8e6c0b",
+			"comments_url": "https://api.github.com/repos/Thecompany/blueprint-backend/commits/0851855e6e605f1c5a90d890935da7498a8e6c0b/comments",
 			"author": null,
 			"committer": null,
 			"parents": [{
 				"sha": "b8fcf2f76f96feb18a04fb3ff0209561259b830c",
-				"url": "https://api.github.com/repos/ShiftWise/blueprint-backend/commits/b8fcf2f76f96feb18a04fb3ff0209561259b830c",
-				"html_url": "https://github.com/ShiftWise/blueprint-backend/commit/b8fcf2f76f96feb18a04fb3ff0209561259b830c"
+				"url": "https://api.github.com/repos/Thecompany/blueprint-backend/commits/b8fcf2f76f96feb18a04fb3ff0209561259b830c",
+				"html_url": "https://github.com/Thecompany/blueprint-backend/commit/b8fcf2f76f96feb18a04fb3ff0209561259b830c"
 			}]
 		},
 		{
@@ -295,7 +295,7 @@
 			"commit": {
 				"author": {
 					"name": "Brian W",
-					"email": "brian.warren@shiftwise.com",
+					"email": "brian.warren@Thecompany.com",
 					"date": "2018-05-25T22:39:01Z"
 				},
 				"committer": {
@@ -303,23 +303,23 @@
 					"email": "noreply@github.com",
 					"date": "2018-05-25T22:39:01Z"
 				},
-				"message": "Merge pull request #179 from ShiftWise/feature/NEXT-7879-sqitch\n\nadding sqitch",
+				"message": "Merge pull request #179 from Thecompany/feature/NEXT-7879-sqitch\n\nadding sqitch",
 				"tree": {
 					"sha": "248a2f408080684ab70285cb9613fa94d67798bb",
-					"url": "https://api.github.com/repos/ShiftWise/blueprint-backend/git/trees/248a2f408080684ab70285cb9613fa94d67798bb"
+					"url": "https://api.github.com/repos/Thecompany/blueprint-backend/git/trees/248a2f408080684ab70285cb9613fa94d67798bb"
 				},
-				"url": "https://api.github.com/repos/ShiftWise/blueprint-backend/git/commits/de7c9a3554eef8918ff4cb2b95183198fc18f167",
+				"url": "https://api.github.com/repos/Thecompany/blueprint-backend/git/commits/de7c9a3554eef8918ff4cb2b95183198fc18f167",
 				"comment_count": 0,
 				"verification": {
 					"verified": true,
 					"reason": "valid",
 					"signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJbCJCFCRBK7hj4Ov3rIwAAdHIIABWfU9auoWwTAOpv7GLGZRTT\ns0xvjVNsbhK8iwEdxob/F0QrYMYFgeQ0+KzQgLQeHsuY5RmCSM08nsrxLHlSFxqK\nxxQtipZCB294NY1aLrP0vq8jtRizGlma3YOUH2+h8lW//QM2SFnujzwWD0yTXo0p\nDXujmMTZRLOgE1vituNJ0O0B6bL8lMk4uQHJRqWubYl8Vw+I/euNqq0DQgLCdI5+\nH3DaV4BirzTFRhTmd5DpsuQo4ZO4cYRCG2KVtuWiwD/0qdBDLoCBLw5ottuJoBGi\nB8jRlKskwl422NYCTpa6KW7TFmieXD/LDliyX9vC2U0Do44LQyhihFwrvrI4xcQ=\n=EZn7\n-----END PGP SIGNATURE-----\n",
-					"payload": "tree 248a2f408080684ab70285cb9613fa94d67798bb\nparent 622c9c115737d4288b3e89350179b7fbb53d69db\nparent 0851855e6e605f1c5a90d890935da7498a8e6c0b\nauthor Brian W <brian.warren@shiftwise.com> 1527287941 -0700\ncommitter GitHub <noreply@github.com> 1527287941 -0700\n\nMerge pull request #179 from ShiftWise/feature/NEXT-7879-sqitch\n\nadding sqitch"
+					"payload": "tree 248a2f408080684ab70285cb9613fa94d67798bb\nparent 622c9c115737d4288b3e89350179b7fbb53d69db\nparent 0851855e6e605f1c5a90d890935da7498a8e6c0b\nauthor Brian W <brian.warren@Thecompany.com> 1527287941 -0700\ncommitter GitHub <noreply@github.com> 1527287941 -0700\n\nMerge pull request #179 from Thecompany/feature/NEXT-7879-sqitch\n\nadding sqitch"
 				}
 			},
-			"url": "https://api.github.com/repos/ShiftWise/blueprint-backend/commits/de7c9a3554eef8918ff4cb2b95183198fc18f167",
-			"html_url": "https://github.com/ShiftWise/blueprint-backend/commit/de7c9a3554eef8918ff4cb2b95183198fc18f167",
-			"comments_url": "https://api.github.com/repos/ShiftWise/blueprint-backend/commits/de7c9a3554eef8918ff4cb2b95183198fc18f167/comments",
+			"url": "https://api.github.com/repos/Thecompany/blueprint-backend/commits/de7c9a3554eef8918ff4cb2b95183198fc18f167",
+			"html_url": "https://github.com/Thecompany/blueprint-backend/commit/de7c9a3554eef8918ff4cb2b95183198fc18f167",
+			"comments_url": "https://api.github.com/repos/Thecompany/blueprint-backend/commits/de7c9a3554eef8918ff4cb2b95183198fc18f167/comments",
 			"author": {
 				"login": "brian-sw",
 				"id": 24942849,
@@ -362,13 +362,13 @@
 			},
 			"parents": [{
 				"sha": "622c9c115737d4288b3e89350179b7fbb53d69db",
-				"url": "https://api.github.com/repos/ShiftWise/blueprint-backend/commits/622c9c115737d4288b3e89350179b7fbb53d69db",
-				"html_url": "https://github.com/ShiftWise/blueprint-backend/commit/622c9c115737d4288b3e89350179b7fbb53d69db"
+				"url": "https://api.github.com/repos/Thecompany/blueprint-backend/commits/622c9c115737d4288b3e89350179b7fbb53d69db",
+				"html_url": "https://github.com/Thecompany/blueprint-backend/commit/622c9c115737d4288b3e89350179b7fbb53d69db"
 			},
 			{
 				"sha": "0851855e6e605f1c5a90d890935da7498a8e6c0b",
-				"url": "https://api.github.com/repos/ShiftWise/blueprint-backend/commits/0851855e6e605f1c5a90d890935da7498a8e6c0b",
-				"html_url": "https://github.com/ShiftWise/blueprint-backend/commit/0851855e6e605f1c5a90d890935da7498a8e6c0b"
+				"url": "https://api.github.com/repos/Thecompany/blueprint-backend/commits/0851855e6e605f1c5a90d890935da7498a8e6c0b",
+				"html_url": "https://github.com/Thecompany/blueprint-backend/commit/0851855e6e605f1c5a90d890935da7498a8e6c0b"
 			}]
 		}],
 		"files": [{
@@ -378,9 +378,9 @@
 			"additions": 0,
 			"deletions": 0,
 			"changes": 0,
-			"blob_url": "https://github.com/ShiftWise/blueprint-backend/blob/de7c9a3554eef8918ff4cb2b95183198fc18f167/sqitch/deploy/.git.keep",
-			"raw_url": "https://github.com/ShiftWise/blueprint-backend/raw/de7c9a3554eef8918ff4cb2b95183198fc18f167/sqitch/deploy/.git.keep",
-			"contents_url": "https://api.github.com/repos/ShiftWise/blueprint-backend/contents/sqitch/deploy/.git.keep?ref=de7c9a3554eef8918ff4cb2b95183198fc18f167"
+			"blob_url": "https://github.com/Thecompany/blueprint-backend/blob/de7c9a3554eef8918ff4cb2b95183198fc18f167/sqitch/deploy/.git.keep",
+			"raw_url": "https://github.com/Thecompany/blueprint-backend/raw/de7c9a3554eef8918ff4cb2b95183198fc18f167/sqitch/deploy/.git.keep",
+			"contents_url": "https://api.github.com/repos/Thecompany/blueprint-backend/contents/sqitch/deploy/.git.keep?ref=de7c9a3554eef8918ff4cb2b95183198fc18f167"
 		},
 		{
 			"sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
@@ -389,9 +389,9 @@
 			"additions": 0,
 			"deletions": 0,
 			"changes": 0,
-			"blob_url": "https://github.com/ShiftWise/blueprint-backend/blob/de7c9a3554eef8918ff4cb2b95183198fc18f167/sqitch/revert/.git.keep",
-			"raw_url": "https://github.com/ShiftWise/blueprint-backend/raw/de7c9a3554eef8918ff4cb2b95183198fc18f167/sqitch/revert/.git.keep",
-			"contents_url": "https://api.github.com/repos/ShiftWise/blueprint-backend/contents/sqitch/revert/.git.keep?ref=de7c9a3554eef8918ff4cb2b95183198fc18f167"
+			"blob_url": "https://github.com/Thecompany/blueprint-backend/blob/de7c9a3554eef8918ff4cb2b95183198fc18f167/sqitch/revert/.git.keep",
+			"raw_url": "https://github.com/Thecompany/blueprint-backend/raw/de7c9a3554eef8918ff4cb2b95183198fc18f167/sqitch/revert/.git.keep",
+			"contents_url": "https://api.github.com/repos/Thecompany/blueprint-backend/contents/sqitch/revert/.git.keep?ref=de7c9a3554eef8918ff4cb2b95183198fc18f167"
 		},
 		{
 			"sha": "c523219ca80f196409e642142f1f35ad4ac354fc",
@@ -400,9 +400,9 @@
 			"additions": 9,
 			"deletions": 0,
 			"changes": 9,
-			"blob_url": "https://github.com/ShiftWise/blueprint-backend/blob/de7c9a3554eef8918ff4cb2b95183198fc18f167/sqitch/sqitch.conf",
-			"raw_url": "https://github.com/ShiftWise/blueprint-backend/raw/de7c9a3554eef8918ff4cb2b95183198fc18f167/sqitch/sqitch.conf",
-			"contents_url": "https://api.github.com/repos/ShiftWise/blueprint-backend/contents/sqitch/sqitch.conf?ref=de7c9a3554eef8918ff4cb2b95183198fc18f167",
+			"blob_url": "https://github.com/Thecompany/blueprint-backend/blob/de7c9a3554eef8918ff4cb2b95183198fc18f167/sqitch/sqitch.conf",
+			"raw_url": "https://github.com/Thecompany/blueprint-backend/raw/de7c9a3554eef8918ff4cb2b95183198fc18f167/sqitch/sqitch.conf",
+			"contents_url": "https://api.github.com/repos/Thecompany/blueprint-backend/contents/sqitch/sqitch.conf?ref=de7c9a3554eef8918ff4cb2b95183198fc18f167",
 			"patch": "@@ -0,0 +1,9 @@\n+[core]\n+\tengine = pg\n+[target \"vpc\"]\n+\turi = db:pg://localhost:5433/blueprint\n+[engine \"pg\"]\n+\ttarget = vpc\n+\tclient = psql\n+[target \"local\"]\n+\turi = db:pg://localhost:5432/blueprint"
 		},
 		{
@@ -412,10 +412,10 @@
 			"additions": 3,
 			"deletions": 0,
 			"changes": 3,
-			"blob_url": "https://github.com/ShiftWise/blueprint-backend/blob/de7c9a3554eef8918ff4cb2b95183198fc18f167/sqitch/sqitch.plan",
-			"raw_url": "https://github.com/ShiftWise/blueprint-backend/raw/de7c9a3554eef8918ff4cb2b95183198fc18f167/sqitch/sqitch.plan",
-			"contents_url": "https://api.github.com/repos/ShiftWise/blueprint-backend/contents/sqitch/sqitch.plan?ref=de7c9a3554eef8918ff4cb2b95183198fc18f167",
-			"patch": "@@ -0,0 +1,3 @@\n+%syntax-version=1.0.0\n+%project=blueprint\n+%uri=https://github.com/ShiftWise/blueprint-backend/"
+			"blob_url": "https://github.com/Thecompany/blueprint-backend/blob/de7c9a3554eef8918ff4cb2b95183198fc18f167/sqitch/sqitch.plan",
+			"raw_url": "https://github.com/Thecompany/blueprint-backend/raw/de7c9a3554eef8918ff4cb2b95183198fc18f167/sqitch/sqitch.plan",
+			"contents_url": "https://api.github.com/repos/Thecompany/blueprint-backend/contents/sqitch/sqitch.plan?ref=de7c9a3554eef8918ff4cb2b95183198fc18f167",
+			"patch": "@@ -0,0 +1,3 @@\n+%syntax-version=1.0.0\n+%project=blueprint\n+%uri=https://github.com/Thecompany/blueprint-backend/"
 		},
 		{
 			"sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
@@ -424,9 +424,9 @@
 			"additions": 0,
 			"deletions": 0,
 			"changes": 0,
-			"blob_url": "https://github.com/ShiftWise/blueprint-backend/blob/de7c9a3554eef8918ff4cb2b95183198fc18f167/sqitch/verify/.git.keep",
-			"raw_url": "https://github.com/ShiftWise/blueprint-backend/raw/de7c9a3554eef8918ff4cb2b95183198fc18f167/sqitch/verify/.git.keep",
-			"contents_url": "https://api.github.com/repos/ShiftWise/blueprint-backend/contents/sqitch/verify/.git.keep?ref=de7c9a3554eef8918ff4cb2b95183198fc18f167"
+			"blob_url": "https://github.com/Thecompany/blueprint-backend/blob/de7c9a3554eef8918ff4cb2b95183198fc18f167/sqitch/verify/.git.keep",
+			"raw_url": "https://github.com/Thecompany/blueprint-backend/raw/de7c9a3554eef8918ff4cb2b95183198fc18f167/sqitch/verify/.git.keep",
+			"contents_url": "https://api.github.com/repos/Thecompany/blueprint-backend/contents/sqitch/verify/.git.keep?ref=de7c9a3554eef8918ff4cb2b95183198fc18f167"
 		}]
 	},
 	"meta": {

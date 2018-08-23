@@ -1,7 +1,7 @@
 {
   "name": "connect-dashboard",
   "version": "1.0.0",
-  "description": "Monitor and control Shiftwise-Connect dev resources",
+  "description": "Monitor and control Thecompany-Connect dev resources",
   "main": "index.js",
   "scripts": {
     "test": "jest",
